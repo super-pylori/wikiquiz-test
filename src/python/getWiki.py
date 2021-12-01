@@ -72,5 +72,5 @@ while True:
 data = {"wiki":wiki_list}
 data_json = {"data":data}
 
-with open('./python/data.json', 'w') as f:
+with open('./src/python/data.json', 'w') as f:
     json.dump(data_json, f, indent=4, ensure_ascii=False)

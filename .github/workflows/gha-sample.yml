@@ -31,7 +31,8 @@ jobs:
           git add .
           git commit -m "Add changes" -a
           git push origin master
-          sleep 20 
+      - name: sleep 60s
+        run: sleep 60s
       - uses: actions/checkout@v2
       - name: Setup Node.js
         uses: actions/setup-node@v1

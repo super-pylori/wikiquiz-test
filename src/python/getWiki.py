@@ -74,3 +74,4 @@ data_json = {"data":data}
 
 with open('./src/python/data.json', 'w') as f:
     json.dump(data_json, f, indent=4, ensure_ascii=False)
+    

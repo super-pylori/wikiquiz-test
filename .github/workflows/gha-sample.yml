@@ -1,6 +1,6 @@
-name: Update Json
+name: UpdateJson
 
-# 毎日0時0分に実行
+# 毎日0時0分に実行 
 on:
   push:
     branches:
@@ -9,7 +9,7 @@ on:
 #    - cron: '0 0 * * *'
 
 jobs:
-  getWiki:
+  UpdateJson:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

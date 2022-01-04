@@ -1,4 +1,4 @@
-name: Tweet0
+name: Tweet4
 
 # masterにpushされたら実行 
 #on:
@@ -6,10 +6,10 @@ name: Tweet0
 #    branches:
 #      - master
 
-# 毎日2時0分に実行
+# 毎日6時0分に実行
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 18 * * *'
 
 jobs:
   Tweet0:
@@ -27,4 +27,4 @@ jobs:
       - name: Install dependencies
         run: pip install -r src/python/requirements.txt
       - name: Run Python
-        run: python src/python/tweet.py 0
+        run: python src/python/tweet.py 4

@@ -17,5 +17,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Test
-        run: echo test
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+          architecture: 'x64'
+      - name: Get Python version
+        run: python -V
+      - name: Install dependencies
+        run: pip install -r src/python/requirements.txt
+      - name: Run Python
+        run: python src/python/tweet.py 0

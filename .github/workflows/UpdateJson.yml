@@ -1,12 +1,15 @@
 name: UpdateJson
 
-# 毎日0時0分に実行 
+# masterにpushされたら実行 
+#on:
+#  push:
+#    branches:
+#      - master
+
+# 毎日0時0分に実行
 on:
-  push:
-    branches:
-      - master
-#  schedule:
-#    - cron: '0 0 * * *'
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   UpdateJson:

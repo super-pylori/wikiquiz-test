@@ -1,21 +1,21 @@
-name: UpdateJson
+name: Tweet0
 
 # masterにpushされたら実行 
-#on:
-#  push:
-#    branches:
-#      - master
+on:
+  push:
+    branches:
+      - master
 
 # 毎日0時0分に実行
-on:
-  schedule:
-    - cron: '0 0 * * *'
+#on:
+#  schedule:
+#    - cron: '0 0 * * *'
 
 jobs:
-  UpdateJson:
+  Tweet0:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Test
-        uses: echo test
+        run: echo test

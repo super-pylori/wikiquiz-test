@@ -55,7 +55,7 @@ while True:
         # 説明
         text_origin = v["extract"]
         ha = text_origin.find('は、')
-        text_after = "〇〇" + text_origin[ha:400]
+        text_after = "〇〇" + text_origin[ha:100]
         text_no_line = text_after.replace("\n", "")
         text = text_no_line.replace(title_replace, "〇〇")
 

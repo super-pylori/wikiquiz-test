@@ -9,7 +9,7 @@ name: Tweet0
 # 毎日2時0分に実行
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '5 * * * *'
 
 jobs:
   Tweet0:

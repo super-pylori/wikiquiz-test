@@ -76,9 +76,6 @@ while True:
 
     break
 
-
-print(wiki_list)
-
 data = {"wiki":wiki_list}
 data_json = {"data":data}
 

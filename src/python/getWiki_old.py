@@ -15,7 +15,7 @@ GENERATOR_PARAMS = {
     "format": "json",
     #generatorパラメータ
     "generator": "random",
-    "grnlimit": "1",
+    "grnlimit": "6",
     "grnnamespace": "0",
     #記事取得本体パラメータ
     "prop": "extracts",
@@ -33,14 +33,7 @@ def isExtract(GDATA):
 
     return True
 
-json_open = open('./src/python/data.json', 'r')
-json_load = json.load(json_open)
-
-# jsonのリスト部分を取り出す
-wiki_list = json_load['data']['wiki']
-
-# リストの末尾を削除
-wiki_list.pop(-1)
+wiki_list = []
 
 while True:
     #ランダム記事リストから記事情報の取得
@@ -72,12 +65,9 @@ while True:
         print("")
 
         wiki_elm = {"url":url, "title":title, "text":text}
-        wiki_list.insert(0, wiki_elm)
+        wiki_list.append(wiki_elm)
 
     break
-
-
-print(wiki_list)
 
 data = {"wiki":wiki_list}
 data_json = {"data":data}

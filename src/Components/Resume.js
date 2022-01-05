@@ -14,6 +14,11 @@ class Resume extends Component {
     return color;
   }
 
+  returnQuestion = () => {
+    return 
+      <span>Question 12</span>
+  }
+
   render() {
     if (!this.props.data) return null;
 
@@ -23,7 +28,7 @@ class Resume extends Component {
           <div className="row education">
             <div className="three columns header-col">
               <h1>
-                <span>Question 1</span>
+                {returnQuestion()}
               </h1>
             </div>
 

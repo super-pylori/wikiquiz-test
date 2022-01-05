@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3834948",
+                "title": "新柏倉庫",
+                "text": "〇〇は、本社を千葉県柏市に置く、主に倉庫業を柱として事業を展開する日本の物流企業である。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4453181",
                 "title": "十和田シン",
                 "text": "〇〇は、日本の小説家・シナリオライター・漫画家。福岡県在住。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2720122",
                 "title": "WATCH THE MUSIC",
                 "text": "〇〇は、2013年2月25日にリリースされたtrfのミニ・アルバム。発売日は、TRFのデビュー20周年にあわせたものである。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2052479",
-                "title": "ハムディ・アワド",
-                "text": "〇〇は、エジプトの男子バレーボール選手、指導者。ポジションはウイングスパイカー。元エジプト代表。"
             }
         ]
     }

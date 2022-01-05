@@ -6,10 +6,10 @@ name: Tweet0
 #    branches:
 #      - master
 
-# 毎日2時0分に実行
+# 毎時30分に実行
 on:
   schedule:
-    - cron: '5 * * * *'
+    - cron: '30 * * * *'
 
 jobs:
   Tweet0:

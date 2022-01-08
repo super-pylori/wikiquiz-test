@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4381143",
+                "title": "UFC Fight Night: Font vs. Garbrandt",
+                "text": "〇〇は、アメリカ合衆国の総合格闘技団体「UFC」の大会の一つ。2021年5月22日、ネバダ州ラスベガスのUFC APEXで開催された。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4030802",
                 "title": "近藤信一",
                 "text": "〇〇は、日本の政治家、労働運動家。日本社会党の参議院議員（3期）。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1068967",
                 "title": "黄砂に吹かれて",
                 "text": "〇〇は、工藤静香通算8枚目のシングル。1989年9月6日発売。発売元はポニーキャニオン。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=354669",
-                "title": "白砂青松",
-                "text": "〇〇は、白い砂と青々とした松（主にクロマツ）により形成される、日本の美しい海岸の風景のたとえ。「はくさせいしょう」とも読むことがある。"
             }
         ]
     }

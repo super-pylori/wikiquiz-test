@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4030802",
+                "title": "近藤信一",
+                "text": "〇〇は、日本の政治家、労働運動家。日本社会党の参議院議員（3期）。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3612015",
                 "title": "ドラゴンボール ファイターズ",
                 "text": "〇〇は、バンダイナムコエンターテインメントより2018年2月1日に発売されたゲームソフト。PlayStation 4・Xbox One・Windows(Steam)のマルチプラットフォーム。9月27日にはNintendo Switch版が発売された。鳥山明の漫画およびアニメ『ドラゴンボール』を題材にした対戦型格闘ゲーム。開発はアークシステムワークスが担当した。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=354669",
                 "title": "白砂青松",
                 "text": "〇〇は、白い砂と青々とした松（主にクロマツ）により形成される、日本の美しい海岸の風景のたとえ。「はくさせいしょう」とも読むことがある。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=4403242",
-                "title": "今井友明",
-                "text": "〇〇は、日本の車いすラグビー選手。千葉県我孫子市出身。三菱商事/DREAM AS ONE所属。"
             }
         ]
     }

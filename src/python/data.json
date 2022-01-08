@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=2475197",
+                "title": "LOW KICK ANGELS",
+                "text": "〇〇は、関西発信のパフォーマンス集団を目指す女の子達。アイドルグループ。株式会社劇団往来所属。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4381143",
                 "title": "UFC Fight Night: Font vs. Garbrandt",
                 "text": "〇〇は、アメリカ合衆国の総合格闘技団体「UFC」の大会の一つ。2021年5月22日、ネバダ州ラスベガスのUFC APEXで開催された。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1646998",
                 "title": "防災十年火山",
                 "text": "〇〇は、国際火山学及び地球内部化学協会が指定し、1990年から1999年に有効であった17個の重要火山である。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1068967",
-                "title": "黄砂に吹かれて",
-                "text": "〇〇は、工藤静香通算8枚目のシングル。1989年9月6日発売。発売元はポニーキャニオン。"
             }
         ]
     }

@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=1120333",
+                "title": "ラグビースペイン代表",
+                "text": "〇〇は、スペインラグビー連盟によるラグビーユニオンのナショナルチームである。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3932062",
                 "title": "コムーナ (潜水艦救難艦)",
                 "text": "〇〇は、実際に運用されている海軍艦艇では世界最古の艦である。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=102382",
                 "title": "カシワ",
                 "text": "〇〇は、ブナ目ブナ科の落葉中高木。英語では Japanese Emperor Oak, Kashiwa Oak, Daimyo oak, chêne de Daimyo （フランス語）などと称する。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1911796",
-                "title": "上板町立松島小学校",
-                "text": "〇〇は、徳島県板野郡上板町鍛冶屋原字北原にある公立小学校。"
             }
         ]
     }

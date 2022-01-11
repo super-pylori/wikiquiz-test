@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=933560",
+                "title": "フランシス・ホワイト (外交官)",
+                "text": "〇〇は、アメリカ合衆国の外交官、官僚。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1120333",
                 "title": "ラグビースペイン代表",
                 "text": "〇〇は、スペインラグビー連盟によるラグビーユニオンのナショナルチームである。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1274391",
                 "title": "小林陽子",
                 "text": "〇〇は、日本のアイコーディネーター・元フリーアナウンサー・映画ライター。かつての所属事務所はユーツーを経てセント・フォース。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=102382",
-                "title": "カシワ",
-                "text": "〇〇は、ブナ目ブナ科の落葉中高木。英語では Japanese Emperor Oak, Kashiwa Oak, Daimyo oak, chêne de Daimyo （フランス語）などと称する。"
             }
         ]
     }

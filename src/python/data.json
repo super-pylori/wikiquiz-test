@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=1641251",
+                "title": "トランペットフィッシュ (潜水艦)",
+                "text": "〇〇は、アメリカ海軍の潜水艦。バラオ級潜水艦の一隻。艦名はヘラヤガラに因んで命名された。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4492769",
                 "title": "1998年アルバニア憲法国民投票",
                 "text": "〇〇は、アルバニアで行われた憲法改正の是非を問うための国民投票。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=627781",
                 "title": "じゃがバター",
                 "text": "〇〇は、加熱調理したジャガイモにバター（マーガリンで代用されることもある）を添えた料理。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=115251",
-                "title": "KADOKAWA RADIO BOOMER",
-                "text": "〇〇は、1999年4月 - 2001年6月にTOKYO FM（JFN系）で放送されていた深夜放送である。ラジオ黄金時代の帯番組の中で放送当時は唯一スポンサーが付いていた。"
             }
         ]
     }

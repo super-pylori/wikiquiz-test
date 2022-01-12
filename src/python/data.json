@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4492769",
+                "title": "1998年アルバニア憲法国民投票",
+                "text": "〇〇は、アルバニアで行われた憲法改正の是非を問うための国民投票。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1234819",
                 "title": "グレイテスト・ヒッツ (エルトン・ジョンのアルバム)",
                 "text": "〇〇は、1974年に発表されたエルトン・ジョンのベスト・アルバム。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=115251",
                 "title": "KADOKAWA RADIO BOOMER",
                 "text": "〇〇は、1999年4月 - 2001年6月にTOKYO FM（JFN系）で放送されていた深夜放送である。ラジオ黄金時代の帯番組の中で放送当時は唯一スポンサーが付いていた。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1825769",
-                "title": "ブリス・フェイユ",
-                "text": "〇〇は、フランス、シャトーダン出身の自転車競技（ロードレース）選手。"
             }
         ]
     }

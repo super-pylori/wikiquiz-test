@@ -1,7 +1,7 @@
 name: UpdateJson
 
 # masterにpushされたら実行 
-#on:
+on:
   push:
     branches:
       - master

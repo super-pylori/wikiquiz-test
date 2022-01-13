@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3244712",
+                "title": "ソンジュン",
+                "text": "〇〇は、韓国ソウル特別市出身のモデル、俳優。身長187cm。特技：絵画、現代舞踊、彫塑。CHOIIエンターテインメント所属。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3255546",
                 "title": "山田清人",
                 "text": "〇〇は、日本の教育運動指導者、教育研究家。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=58118",
                 "title": "椥辻駅",
                 "text": "〇〇は、京都府京都市山科区椥辻草海道町にある、京都市営地下鉄東西線の駅。駅番号はT05。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=226800",
-                "title": "ヒューム管",
-                "text": "〇〇は、鉄筋コンクリートを用いた管で、一般的に導水管として用いられる。"
             }
         ]
     }

@@ -11,11 +11,13 @@ json_load = json.load(json_open)
 # メッセージの設定
 tweet_content = json_load['data']['wiki'][num]['text'][:100]
 tweet_content += "\n\n"
-tweet_content += "答えはこちら"
+tweet_content += "答え"
 tweet_content += "\n"
-tweet_content += "https://super-pylori.github.io/wikiquiz-test/"
+tweet_content += "https://bit.ly/3rkfH7L"
+tweet_content += "\n"
+tweet_content += json_load['data']['wiki'][num]['url']
 print(tweet_content)
-
+ 
 # 各種APIキーを設定
 api_key ="dTPf8qMB9Ysf45RDaU7aUL2tH"
 api_secret_key ="PQOhVheq5ceMHFO2K7qt5YWV76yiRksxO1wc8B7x2F1L6BWdl3"

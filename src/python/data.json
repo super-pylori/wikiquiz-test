@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=2355969",
+                "title": "SO-02C",
+                "text": "〇〇は、ソニー・エリクソン・モバイルコミュニケーションズ（現：ソニーモバイルコミュニケーションズ）製のNTTドコモ向けスマートフォン。ドコモの第3世代移動通信システム（FOMA）端末である。当初は2011年夏モデルのドコモ スマートフォンシリーズのひとつとして発売・販売されていた。2011年冬モデル発表以降はdocomo NEXT seriesに分類され、docomo NEXT series Xperia acro 〇〇（ドコモ ネクストシリーズ エクスペリア アクロ エスオー ゼロニー シー）の名称が用いられた。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1598648",
                 "title": "大出真也",
                 "text": "〇〇は、日本の元俳優。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3552583",
                 "title": "篠原理沙",
                 "text": "〇〇は、日本の女優。徳島県三好郡出身。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3060728",
-                "title": "徐建昌",
-                "text": "〇〇は、大韓民国の光州広域市出身のプロ野球選手（内野手）。"
             }
         ]
     }

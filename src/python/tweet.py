@@ -14,8 +14,6 @@ tweet_content += "\n\n"
 tweet_content += "答え"
 tweet_content += "\n"
 tweet_content += "https://bit.ly/3rkfH7L"
-tweet_content += "\n"
-tweet_content += json_load['data']['wiki'][num]['url']
 print(tweet_content)
  
 # 各種APIキーを設定

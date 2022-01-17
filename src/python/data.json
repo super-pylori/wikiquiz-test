@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3565880",
+                "title": "午前0時のMERRY-GO-ROUND/LET'S DO IT WITH THE MUSIC",
+                "text": "〇〇は、ZIGGYの7枚目のシングル。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1028383",
                 "title": "ドコモ東北ビル",
                 "text": "〇〇は、仙台市都心部にあるNTTドコモの東北支社ビル。「NTT docomo東北ビル」とも呼ばれる。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=396780",
                 "title": "十円硬貨",
                 "text": "〇〇は、日本国政府が発行する、額面10円の硬貨である。通称十円玉（じゅうえんだま）。10円貨とも呼ばれる。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=870079",
-                "title": "コロナ・キェルツェ",
-                "text": "〇〇は、ポーランドのプロサッカークラブ。「コロナ」はポーランド語で王冠を意味しており、本拠地を置くキェルツェとクラブのトレードマークである。ポーランドの最上位1部リーグであるエクストラクラサに所属している。"
             }
         ]
     }

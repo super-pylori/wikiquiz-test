@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=1911919",
+                "title": "日本ロマンス旅行",
+                "text": "〇〇は、新東宝が1959年（昭和34年）に製作・公開した、近江俊郎、石井輝男、中川信夫ら10人の監督による日本のオムニバス劇映画である。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4492086",
                 "title": "朝日りん",
                 "text": "〇〇は、日本のAV女優。Wish所属。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2608091",
                 "title": "須永恆雄",
                 "text": "〇〇は、ドイツ文学者、明治大学名誉教授。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1875337",
-                "title": "高千代酒造",
-                "text": "〇〇は、新潟県南魚沼市長崎に本社を置く酒蔵である。"
             }
         ]
     }

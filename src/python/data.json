@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4432188",
+                "title": "ブラック・アンド・ブルー (バンド)",
+                "text": "〇〇は、アメリカ合衆国出身のハードロック・バンド。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3791520",
                 "title": "樋口睦",
                 "text": "〇〇は、愛知県名古屋市出身のハンドボール選手。日本ハンドボールリーグの豊田合成所属。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2506387",
                 "title": "釜山北部警察署",
                 "text": "〇〇は、釜山地方警察庁所管の警察署である。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3972348",
-                "title": "新興宗教オモイデ教",
-                "text": "〇〇は、大槻ケンヂの小説。原田宇陀児による外伝シリーズも出版されている。"
             }
         ]
     }

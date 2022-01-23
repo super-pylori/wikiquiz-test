@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=1883835",
+                "title": "火消",
+                "text": "〇〇は、江戸時代の消防組織とその構成員である。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4432188",
                 "title": "ブラック・アンド・ブルー (バンド)",
                 "text": "〇〇は、アメリカ合衆国出身のハードロック・バンド。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=540342",
                 "title": "神戸市立長田工業高等学校",
                 "text": "〇〇は、兵庫県神戸市長田区にあった、市立の定時制工業高等学校である。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2506387",
-                "title": "釜山北部警察署",
-                "text": "〇〇は、釜山地方警察庁所管の警察署である。"
             }
         ]
     }

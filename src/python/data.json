@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3466654",
+                "title": "三輪 (東栄町)",
+                "text": "〇〇は、愛知県北設楽郡東栄町の大字である。27の小字が設置されているが丁目は設定されていない。北設楽郡三輪村のうち、1956年（昭和31年）の合併で東栄町に編入された領域を前身とする。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3142982",
                 "title": "N-アセチルガラクトサミン-6-スルファターゼ",
                 "text": "〇〇は、コンドロイチン硫酸のN-アセチルガラクトサミン-6-硫酸やケラタン硫酸のD-グルコース-6-リン酸から6-硫酸基を切り出す化学反応を触媒する酵素である。この酵素は加水分解酵素、特に硫酸エステル加水分解酵素に分類される。系統名は、N-アセチル-D-ガラクトサミン-6-硫酸 6-スルホヒドロラーゼ(N-acetyl-D-galactosamine-6-sulfate 6-sulfohydrolase)である。chondroitin sulfatase、chondroitinase、galactose-6-sulfate sulfatase、acetylgalactosamine 6-sulfatase、N-acetylgalactosamine-6-sulfate sulfatase、N-acetylgalactosamine 6-sulfatase等とも呼ばれる。この酵素はグリコサミノグルカンや糖鎖の分解に関与している。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2008222",
                 "title": "ヘルスピア倉敷",
                 "text": "〇〇は、岡山県倉敷市水島地区にある、スポーツ施設を中心とした複合施設である。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3284721",
-                "title": "マリアンナ・マディーア",
-                "text": "〇〇は、イタリアの政治家、下院議員（2期目）。所属政党は民主党。2014年2月21日のレンツィ内閣発足に伴い、無任所大臣（行政・簡素化担当）として閣内入りした。2016年12月12日発足のジェンティローニ内閣でも留任。2018年6月1日にジェンティローニ内閣の終了とともに退任した。"
             }
         ]
     }

@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=1805391",
+                "title": "Mローマ・バレー",
+                "text": "〇〇は、イタリア・ローマを本拠地とする男子バレーボールクラブチーム。通称はローマ。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1864980",
                 "title": "ベルナール・パラシオス",
                 "text": "〇〇は、フランスのアニメーション作家。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1459127",
                 "title": "大セルビア",
                 "text": "〇〇は、セルビアの民族主義者の間にみられる民族統一主義の概念である。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1883835",
-                "title": "火消",
-                "text": "〇〇は、江戸時代の消防組織とその構成員である。"
             }
         ]
     }

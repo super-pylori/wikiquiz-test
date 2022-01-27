@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3247265",
+                "title": "レッド・ファミリー",
+                "text": "〇〇は、2013年公開の韓国映画。イ・ジュヒョンの長編映画監督デビュー作であり、キム・ギドクが脚本ならびに製作総指揮を務めた。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4318304",
                 "title": "山本剛 (ピアニスト)",
                 "text": "〇〇は、日本のジャズピアニスト。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=543715",
                 "title": "東札幌",
                 "text": "〇〇は、北海道札幌市白石区にある地名。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2734345",
-                "title": "出雲市民会館",
-                "text": "〇〇は、島根県出雲市にある多目的コンサートホール。"
             }
         ]
     }

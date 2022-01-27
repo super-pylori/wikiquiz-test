@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=2088633",
+                "title": "1999年イギリスグランプリ",
+                "text": "〇〇は、1999年のF1世界選手権第8戦として、1999年7月11日にシルバーストーン・サーキットで開催された。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1842655",
                 "title": "See you...",
                 "text": "〇〇は、2006年2月15日発売に発売されたmelody.の7thシングルである。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3700757",
                 "title": "牧野淸人",
                 "text": "〇〇は、日本の陸軍軍人。最終階級は陸軍中将。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2446764",
-                "title": "ネガティブ・ツインタワー!",
-                "text": "〇〇は、けものの★による日本の漫画作品。ウェブコミック誌『FlexComixブラッド』（フレックスコミックス）にて2009年6月24日から2012年8月27日まで連載された。"
             }
         ]
     }

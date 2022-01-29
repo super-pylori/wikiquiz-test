@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3706090",
+                "title": "トンマーゾ・モチェニーゴ",
+                "text": "〇〇は、ヴェネツィア共和国の元首（ドージェ、1414年 - 1423年）。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=66558",
                 "title": "現代の音楽",
                 "text": "〇〇は、リアルタイムで制作される音楽の全般を指す。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2088633",
                 "title": "1999年イギリスグランプリ",
                 "text": "〇〇は、1999年のF1世界選手権第8戦として、1999年7月11日にシルバーストーン・サーキットで開催された。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1842655",
-                "title": "See you...",
-                "text": "〇〇は、2006年2月15日発売に発売されたmelody.の7thシングルである。"
             }
         ]
     }

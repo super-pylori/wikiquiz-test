@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3502938",
+                "title": "ジングルベルがとまらない",
+                "text": "〇〇は、Aqoursのシングル。2016年11月23日にLantisから発売された。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2092413",
                 "title": "沢口ケイ",
                 "text": "〇〇は、日本のAV女優。埼玉県出身。血液型：O型、身長：159cm、スリーサイズ：B86・W59・H86。趣味:ショッピング。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1559628",
                 "title": "守谷市立松前台小学校",
                 "text": "〇〇は、茨城県守谷市松前台二丁目に所在する市立小学校。設置前の仮称は｢北守谷第二小学校｣。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2954073",
-                "title": "ぶっちゃけRock'n はっちゃけRoll/ベイビーステップ",
-                "text": "〇〇は、2014年5月14日にポニーキャニオンより発売されたベイビーレイズの楽曲で、7枚目のシングル。"
             }
         ]
     }

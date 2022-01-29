@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=66558",
+                "title": "現代の音楽",
+                "text": "〇〇は、リアルタイムで制作される音楽の全般を指す。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4472470",
                 "title": "ベニオチョウチョウウオ",
                 "text": "〇〇は、スズキ目チョウチョウウオ科に分類される魚類の一種。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1842655",
                 "title": "See you...",
                 "text": "〇〇は、2006年2月15日発売に発売されたmelody.の7thシングルである。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=457069",
-                "title": "ソニー損害保険",
-                "text": "〇〇は、東京都大田区に本社を置く、ソニーグループの損害保険会社。ソニーフィナンシャルグループの完全子会社。コーポレートスローガンは、\"Feel the Difference\"～この違いが、保険を変えていく。"
             }
         ]
     }

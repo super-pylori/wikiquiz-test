@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4410614",
+                "title": "マッテオ・ボッビ",
+                "text": "〇〇は、イタリアのレーシングドライバー。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1028839",
                 "title": "蚊帳吊り狸",
                 "text": "〇〇は、徳島県美馬市（旧美馬郡三島村舞中島）に伝わる妖怪。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4472470",
                 "title": "ベニオチョウチョウウオ",
                 "text": "〇〇は、スズキ目チョウチョウウオ科に分類される魚類の一種。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=662955",
-                "title": "音丸",
-                "text": "〇〇は、大正、昭和時代に活躍した日本の歌手。本名は永井 満津子。東京市麻布区（現在の東京都港区）麻布箪笥町生まれ。"
             }
         ]
     }

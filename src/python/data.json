@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3284890",
+                "title": "OpenShot Video Editor",
+                "text": "〇〇は、クロスプラットフォームのフリーかつオープンソースの動画編集ソフトウェア。OpenShotプロジェクトは2008年8月にJonathan Thomasにより開始された．その目的は，安定で無料なユーザーフレンドリーな動画編集ソフトを提供することである。OpenShotの主要機能はC++ライブラリのlibopenshotとして実装されている。OpenShotはPyQtとlibopenshotを使用して構築されている。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4500645",
                 "title": "郡上市総合文化センター",
                 "text": "〇〇は、岐阜県郡上市にある文化施設。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3573760",
                 "title": "ラード1",
                 "text": "〇〇は、イラン陸軍が運用する自走榴弾砲である。名称のラードは、ペルシア語の「雷｣に因む。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3241789",
-                "title": "脇阪聰史",
-                "text": "〇〇は、朝日放送グループホールディングス取締役会長。元日本民間放送連盟副会長。"
             }
         ]
     }

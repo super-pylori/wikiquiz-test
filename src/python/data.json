@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4500645",
+                "title": "郡上市総合文化センター",
+                "text": "〇〇は、岐阜県郡上市にある文化施設。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1639464",
                 "title": "古田山 (徳島県)",
                 "text": "〇〇は、徳島県徳島市と名東郡佐那河内村との境界に位置する山である。標高660.9m。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3241789",
                 "title": "脇阪聰史",
                 "text": "〇〇は、朝日放送グループホールディングス取締役会長。元日本民間放送連盟副会長。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1220975",
-                "title": "フランス国鉄CC72000形ディーゼル機関車",
-                "text": "〇〇は、フランス国鉄(SNCF)が保有・運行する電気式ディーゼル機関車である。"
             }
         ]
     }

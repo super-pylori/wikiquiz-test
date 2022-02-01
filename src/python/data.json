@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4443218",
+                "title": "永原裕子",
+                "text": "〇〇は、日本の鉱物学者。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2818703",
                 "title": "相原渚",
                 "text": "〇〇は、東京都出身の日本のバスケットボール選手である。ポジションはセンターフォワード。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3284890",
                 "title": "OpenShot Video Editor",
                 "text": "〇〇は、クロスプラットフォームのフリーかつオープンソースの動画編集ソフトウェア。OpenShotプロジェクトは2008年8月にJonathan Thomasにより開始された．その目的は，安定で無料なユーザーフレンドリーな動画編集ソフトを提供することである。OpenShotの主要機能はC++ライブラリのlibopenshotとして実装されている。OpenShotはPyQtとlibopenshotを使用して構築されている。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=4500645",
-                "title": "郡上市総合文化センター",
-                "text": "〇〇は、岐阜県郡上市にある文化施設。"
             }
         ]
     }

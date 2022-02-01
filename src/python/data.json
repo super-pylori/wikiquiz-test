@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=1796340",
+                "title": "北海道道858号キムアネップ岬浜佐呂間線",
+                "text": "〇〇は、北海道常呂郡佐呂間町内を結ぶ一般道道（北海道道）である。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2800882",
                 "title": "GOPOSTAL",
                 "text": "〇〇は、2002年に結成された日本のメロディック・パンクバンドである。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1028839",
                 "title": "蚊帳吊り狸",
                 "text": "〇〇は、徳島県美馬市（旧美馬郡三島村舞中島）に伝わる妖怪。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1097582",
-                "title": "徳川吉孚",
-                "text": "〇〇は、江戸時代中期の水戸藩の世嗣。5代藩主徳川宗翰の外祖父。"
             }
         ]
     }

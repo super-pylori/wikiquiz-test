@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=2800882",
+                "title": "GOPOSTAL",
+                "text": "〇〇は、2002年に結成された日本のメロディック・パンクバンドである。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4095291",
                 "title": "ジョージ・ブリッジ",
                 "text": "〇〇は、スーパーラグビークルセイダーズに所属するラグビーユニオン選手。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1097582",
                 "title": "徳川吉孚",
                 "text": "〇〇は、江戸時代中期の水戸藩の世嗣。5代藩主徳川宗翰の外祖父。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3582376",
-                "title": "義母 (アダルトゲーム)",
-                "text": "〇〇は、2001年2月9日にGuiltyにより発売されたアダルトゲーム。および、それを原作とする成人向けOVA。"
             }
         ]
     }

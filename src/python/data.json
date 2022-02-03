@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=593040",
+                "title": "東京都立芸術高等学校",
+                "text": "〇〇は、東京都目黒区大橋二丁目にかつてあった公立芸術高等学校。通称は芸高、または都芸。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2738988",
                 "title": "歌おう世界の友よ",
                 "text": "〇〇は、1963年10月10日から1964年10月25日までNHK総合テレビで放送された音楽番組である。全38回。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4262487",
                 "title": "加藤隆太郎",
                 "text": "〇〇は、明治末から昭和期の実業家、政治家。衆議院議員。板橋区から練馬区の独立に貢献した。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1768137",
-                "title": "Singles 1990-1993",
-                "text": "〇〇は、日本のロックバンド、THE BLUE HEARTSのシングル集。1999年11月25日発売。発売元はワーナーミュージック・ジャパン。このアルバムの全21曲が、2010年の『ALL TIME SINGLES 〜SUPER PREMIUM BEST〜』ではDisc 2にまとめられている。"
             }
         ]
     }

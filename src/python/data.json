@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3990976",
+                "title": "BRONX",
+                "text": "〇〇は、かつて存在した日本のハードロックバンド。ギタリストの横関敦が在籍していた。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3777062",
                 "title": "正交倶楽部",
                 "text": "〇〇は、大正時代の日本の政党。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2900452",
                 "title": "遠田志帆",
                 "text": "〇〇は、日本のイラストレーター。A型。秋田県生まれ。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2008806",
-                "title": "プロイセン国王の将軍への軍事教令",
-                "text": "〇〇は、1747年にプロイセン国王フリードリヒ2世によって執筆された軍事作戦の指令書。軍事学の古典的著作としても参照されている。"
             }
         ]
     }

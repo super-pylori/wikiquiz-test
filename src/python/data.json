@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=939790",
+                "title": "ストラトフォー",
+                "text": "〇〇は、アメリカ合衆国の民間シンクタンクかつ出版社。正式名は「ストラテジック・フォーカスティング有限会社」（Strategic Forecasting, Inc.）。インターネット・サイトで情報配信を行う。1996年にテキサス州オースティンにてジョージ・フリードマン（George Friedman、現会長）によって設立された。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3042481",
                 "title": "Der Deutsche Correspondent",
                 "text": "〇〇は、アメリカ合衆国メリーランド州ボルチモアで発行されていたドイツ語の新聞。メリーランド州で発行されていたドイツ語の新聞の中で最も長く刊行され、ボルチモア在住のドイツ人の間で最も影響力のあった新聞である。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3389287",
                 "title": "山口祐佳",
                 "text": "〇〇は、日本のフリーアナウンサー。東京都出身。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3637825",
-                "title": "Silly Game",
-                "text": "〇〇は、SKY-HIの9枚目のシングルである。2017年5月31日発売。発売元はavex trax。"
             }
         ]
     }

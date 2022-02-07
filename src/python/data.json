@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3021177",
+                "title": "3x3.EXE",
+                "text": "〇〇は、クロススポーツマーケティング（ゼビオグループ）が開催する3x3（3人制バスケットボール）大会の総称である。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1307886",
                 "title": "エヴァ・オーリン",
                 "text": "〇〇は、スウェーデン出身の女優。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=94406",
                 "title": "セイロンサンジャク",
                 "text": "〇〇は、スズメ目カラス科に分類される鳥類の一種。スリランカの固有種。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=766972",
-                "title": "滝川市開基百年記念塔",
-                "text": "〇〇は、北海道滝川市に存在する記念建造物。"
             }
         ]
     }

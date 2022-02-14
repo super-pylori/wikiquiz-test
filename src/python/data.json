@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=1360864",
+                "title": "SCX",
+                "text": "〇〇は、スペインのスロットカーブランドである。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=868770",
                 "title": "太平 (北燕)",
                 "text": "〇〇は、五胡十六国時代、北燕の君主馮跋の治世で使用された元号。409年10月 - 430年12月。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4530186",
                 "title": "AKARI (プロレスラー)",
                 "text": "〇〇は、チリの女子プロレスラー。バルパライソ州サンアントニオ県出身。本名はベニータ・エルゲタ。PURE-J女子プロレス所属。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2107729",
-                "title": "山本順寛",
-                "text": "〇〇は、日本の工学者。東京工科大学元教授。博士（工学）。"
             }
         ]
     }

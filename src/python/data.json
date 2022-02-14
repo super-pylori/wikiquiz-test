@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=57107",
+                "title": "仙川駅",
+                "text": "〇〇は、東京都調布市仙川町一丁目にある、京王電鉄京王線の駅である。京王東管区所属の最西端の駅で、同じ調布市内のつつじヶ丘駅からは京王中央管区となる。駅番号はKO13。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=523171",
                 "title": "XDM (データベース)",
                 "text": "〇〇は、日立製作所が提供するメインフレーム (汎用コンピュータ) のデータ管理システムである。構成要素であるデータベース管理システム (DBMS; DataBase Management System) としては、構造型ではXDM/SD、リレーショナル型ではXDM/RDと密に接続できる他、階層型のADMやネットワーク型のPDM2とも接続できる。DCMS (Data Communication Management System) は、XDM/DCCM3、TMS-4V DC、ADM DCなどと接続できる。XDMではHiRDBからの検索・更新に加え、ODBC経由でのMicrosoft AccessやMicrosoft ExcelおよびXDM/RDではCosminexusからのJDBC経由での検索・更新をサポートしている。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3977608",
                 "title": "ウィリアム・オブライエン (第3代インチクィン伯爵)",
                 "text": "〇〇は、アイルランド王国の貴族。1674年から1692年までオブライエン卿の儀礼称号を使用した。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1083046",
-                "title": "徳島文理大学附属幼稚園",
-                "text": "〇〇は、徳島県徳島市山城町にある私立幼稚園。"
             }
         ]
     }

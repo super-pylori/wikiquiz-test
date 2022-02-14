@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=1545535",
+                "title": "針谷桂樹",
+                "text": "〇〇は、日本の男性ナレーター。静岡県出身。シグマ・セブン所属。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=427267",
                 "title": "奉仕",
                 "text": "〇〇は、報酬を求めず、また他の見返りを要求するでもなく、無私の労働を行うこと。また、商人が品物を安く売ることをいう。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=278077",
                 "title": "福井バイパス",
                 "text": "〇〇は、福井県あわら市と同県越前市を結ぶ、延長42.2 km（キロメートル）の国道8号バイパス道路。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3528752",
-                "title": "石田尚豊",
-                "text": "〇〇は、日本の美術史学者。"
             }
         ]
     }

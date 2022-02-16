@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=291021",
+                "title": "中野松川駅",
+                "text": "〇〇は、長野県中野市大字中野にある長野電鉄長野線の駅である。駅番号はN20。基本的に普通列車のみ停車するが、当駅が最寄駅である一本木公園のバラまつり期間中のみ一部の特急が臨時停車する。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1687559",
                 "title": "金奉準",
                 "text": "〇〇は、大韓民国出身の元プロボクサー。元WBA世界ミニマム級王者。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=523171",
                 "title": "XDM (データベース)",
                 "text": "〇〇は、日立製作所が提供するメインフレーム (汎用コンピュータ) のデータ管理システムである。構成要素であるデータベース管理システム (DBMS; DataBase Management System) としては、構造型ではXDM/SD、リレーショナル型ではXDM/RDと密に接続できる他、階層型のADMやネットワーク型のPDM2とも接続できる。DCMS (Data Communication Management System) は、XDM/DCCM3、TMS-4V DC、ADM DCなどと接続できる。XDMではHiRDBからの検索・更新に加え、ODBC経由でのMicrosoft AccessやMicrosoft ExcelおよびXDM/RDではCosminexusからのJDBC経由での検索・更新をサポートしている。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=823487",
-                "title": "高木古都",
-                "text": "〇〇は、日本の女優、歌手、モデル、コスプレイヤー。かつてはソニー・ミュージックアーティスツに所属していた。身長162cm、スリーサイズはB85W61H85。"
             }
         ]
     }

@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4087261",
+                "title": "チャールズ・A・ウィンチェスター",
+                "text": "〇〇は、主に幕末の日本で活躍したイギリスの外交官である。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=472633",
                 "title": "ヴィトルド・ゴンブローヴィッチ",
                 "text": "〇〇は、ポーランド出身の小説家・劇作家。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3537569",
                 "title": "六連町",
                 "text": "〇〇は、愛知県田原市の地名。100の小字が設置されている。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=940234",
-                "title": "大久保藍子",
-                "text": "〇〇は、日本の女性声優 。リマックス所属。東京都出身。"
             }
         ]
     }

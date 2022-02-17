@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4462696",
+                "title": "小西遊馬",
+                "text": "〇〇は、日本の映像作家、ジャーナリスト。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1506228",
                 "title": "ナンシー・シット",
                 "text": "〇〇は、香港生まれの女性歌手、女優である。本名は薛家彦。籍貫は中国潮州。愛称は家燕姐。WSMエンターテインメント、TVB所属。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4087261",
                 "title": "チャールズ・A・ウィンチェスター",
                 "text": "〇〇は、主に幕末の日本で活躍したイギリスの外交官である。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=472633",
-                "title": "ヴィトルド・ゴンブローヴィッチ",
-                "text": "〇〇は、ポーランド出身の小説家・劇作家。"
             }
         ]
     }

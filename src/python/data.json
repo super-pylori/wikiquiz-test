@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=2260822",
+                "title": "N-01C",
+                "text": "〇〇は、NECカシオ モバイルコミュニケーションズによって開発された、NTTドコモの第三世代携帯電話（FOMA）端末である。docomo STYLE seriesの端末。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=474555",
                 "title": "広島県第3区",
                 "text": "〇〇は、日本の衆議院議員総選挙における選挙区。1994年（平成6年）の公職選挙法改正で設置。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=18833",
                 "title": "巻線形三相誘導発電機",
                 "text": "〇〇は、巻線形三相誘導電動機を交流発電機として運転するものである。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3829812",
-                "title": "ミロシュ・ストヤノヴィッチ (1984年12月生のサッカー選手)",
-                "text": "〇〇は、セルビアのサッカー選手。ポジションはFW。"
             }
         ]
     }

@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4016747",
+                "title": "角森脩平",
+                "text": "〇〇は、日本を代表する美容整体師。福井県三方郡出身。福井県立美方高等学校、平成医療学園専門学校卒業。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2260822",
                 "title": "N-01C",
                 "text": "〇〇は、NECカシオ モバイルコミュニケーションズによって開発された、NTTドコモの第三世代携帯電話（FOMA）端末である。docomo STYLE seriesの端末。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=239025",
                 "title": "栃木県道10号宇都宮那須烏山線",
                 "text": "〇〇は、栃木県宇都宮市と栃木県那須烏山市を結ぶ県道（主要地方道）である。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=18833",
-                "title": "巻線形三相誘導発電機",
-                "text": "〇〇は、巻線形三相誘導電動機を交流発電機として運転するものである。"
             }
         ]
     }

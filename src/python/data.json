@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3893860",
+                "title": "うるま市立具志川東中学校",
+                "text": "〇〇は、沖縄県うるま市にある市立中学校。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=221384",
                 "title": "国分インターチェンジ",
                 "text": "〇〇は、鹿児島県霧島市国分下井にある東九州自動車道のインターチェンジ。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1129019",
                 "title": "ブリリアント・コーナーズ",
                 "text": "〇〇は、ジャズ・ピアニストのセロニアス・モンクが1957年に発表したアルバム。モンクの代表作に挙げられることが多い。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1891580",
-                "title": "ワイリー",
-                "text": "〇〇は、英語圏の姓、男性名。"
             }
         ]
     }

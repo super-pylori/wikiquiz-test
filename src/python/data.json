@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4081849",
+                "title": "稲垣柊",
+                "text": "〇〇は、日本のプロキックボクサー、K-1選手。血液型A型。埼玉県さいたま市出身、さいたまから世界へ！極真館さいたま中央。K-1GYM OMIYA チームレオン。大宮東高校体育科卒業格闘代理戦争4thseason"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2692509",
                 "title": "FORTUNETRINITY2",
                 "text": "〇〇は、2012年12月より稼働開始したコナミデジタルエンタテインメントの大型マスメダルプッシャーゲームである。前作の『FORTUNE TRINITY』の続編である。本作ではかな文字表記が中心となり、前作のような英語表記はほとんどなくなった。2016年12月より続編となる「FORTUNE TRINITY 3 〜三神獣の秘宝〜」の稼働が順次開始されている。2021年にFORTUNE TRINITYシリーズ最新作「FORTUNE TRINITY ～精霊の至宝祭～」が稼働開始、コンバートとして稼働可能"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3695033",
                 "title": "松田功",
                 "text": "〇〇は、日本の政治家。立憲民主党所属の元衆議院議員（1期）。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=13080",
-                "title": "2027年",
-                "text": "〇〇は、西暦（グレゴリオ暦）による、金曜日から始まる平年。"
             }
         ]
     }

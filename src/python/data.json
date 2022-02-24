@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=2803518",
+                "title": "第64回高松宮記念杯競輪",
+                "text": "〇〇は、2013年6月13日から16日まで、岸和田競輪場で行われた。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3084358",
                 "title": "エディ・クーンツ",
                 "text": "〇〇は、アメリカ合衆国・オレゴン州ポートランド出身のプロ野球選手（投手）。右投右打。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4426973",
                 "title": "榊原菜那",
                 "text": "〇〇は、日本のバレーボール選手。ニックネームはナナで、シャツネームはSAKAKIBARA。V.LEAGUE Division1のJTマーヴェラスに所属している。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=4425556",
-                "title": "ローガン・マーティン",
-                "text": "〇〇は、オーストラリア・ローガンリザーブ出身のBMXライダー。"
             }
         ]
     }

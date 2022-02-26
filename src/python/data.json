@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=331600",
+                "title": "花巻インターチェンジ",
+                "text": "〇〇は、岩手県花巻市にある東北自動車道のインターチェンジである。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1954381",
                 "title": "秋田県道66号十二所花輪大湯線",
                 "text": "〇〇は、秋田県大館市から鹿角市までの県道（主要地方道）である。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=908792",
                 "title": "Character material",
                 "text": "〇〇は、TYPE-MOONより発売されたファン向けの読本である。著者は奈須きのこ。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=371077",
-                "title": "アルターレ",
-                "text": "〇〇は、イタリア共和国リグーリア州サヴォーナ県にある都市で、その周辺地域を含む人口約2,000人の基礎自治体（コムーネ）。"
             }
         ]
     }

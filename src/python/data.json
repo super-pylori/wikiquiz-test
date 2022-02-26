@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=995627",
+                "title": "ペンナピエディモンテ",
+                "text": "〇〇は、イタリア共和国アブルッツォ州キエーティ県にある、人口約400人の基礎自治体（コムーネ）。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=331600",
                 "title": "花巻インターチェンジ",
                 "text": "〇〇は、岩手県花巻市にある東北自動車道のインターチェンジである。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4185955",
                 "title": "明るい歌",
                 "text": "〇〇は、Non Stop Rabbitの楽曲。4作目のデジタル配信限定シングルとしてSTUDIO CUBIC RECORDSより2020年8月5日に各音楽配信サービスにてリリースされた。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=908792",
-                "title": "Character material",
-                "text": "〇〇は、TYPE-MOONより発売されたファン向けの読本である。著者は奈須きのこ。"
             }
         ]
     }

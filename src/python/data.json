@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=923389",
+                "title": "ビジコープ",
+                "text": "〇〇は、初期のパーソナルコンピュータ向けソフトウェア企業。VisiCalc や VisiOn といった製品で知られている。1976年、Dan Fylstra と Peter R. Jennings が設立した Personal Software 社が始まりである。同社は Jennings が開発したコンピュータチェスプログラム Microchess を販売していた。対応機種は当初モステクノロジーのKIM-1だったが、後に PET 2001、Apple IIへと移植された。その後、様々なゲームやアプリケーションを開発・販売していく。1979年にリリースした VisiCalc が大ヒットとなり、同社は社名を VisiCorp に改めた。VisiCorp は、VisiCalc の開発元 Software Arts との訴訟の後、Pallidan Software に売却された。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3855795",
                 "title": "ラ・ボエーム (1926年の映画)",
                 "text": "〇〇は、1925年に撮影され、1926年に完成・公開されたアメリカ合衆国のサイレント映画である。アンリ・ミュルジェール『ボヘミアン生活の情景』を原作にキング・ヴィダーが監督、リリアン・ギッシュとジョン・ギルバートが主演した。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=384032",
                 "title": "姜沆",
                 "text": "〇〇は、朝鮮李氏王朝時代中期の官人。字は太初（テチョ、태초）。号は睡隠（スウン、수은）。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=4005668",
-                "title": "ホアルー県",
-                "text": "〇〇は、ベトナムニンビン省の県である。"
             }
         ]
     }

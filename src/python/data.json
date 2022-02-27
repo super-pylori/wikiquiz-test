@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3891069",
+                "title": "カピティ・ライン",
+                "text": "〇〇は、ニュージーランドの首都ウェリントン近郊において、ウェリントン駅とワイカナエ駅を結ぶ近郊路線。2011年まではパラパラウム・ラインと呼ばれていた。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=923389",
                 "title": "ビジコープ",
                 "text": "〇〇は、初期のパーソナルコンピュータ向けソフトウェア企業。VisiCalc や VisiOn といった製品で知られている。1976年、Dan Fylstra と Peter R. Jennings が設立した Personal Software 社が始まりである。同社は Jennings が開発したコンピュータチェスプログラム Microchess を販売していた。対応機種は当初モステクノロジーのKIM-1だったが、後に PET 2001、Apple IIへと移植された。その後、様々なゲームやアプリケーションを開発・販売していく。1979年にリリースした VisiCalc が大ヒットとなり、同社は社名を VisiCorp に改めた。VisiCorp は、VisiCalc の開発元 Software Arts との訴訟の後、Pallidan Software に売却された。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=345",
                 "title": "鶴田洋久",
                 "text": "〇〇は、日本の漫画家。埼玉県出身。東京デザイナー学院卒業。代表作はアニメ化もされた「なつきクライシス」。漫画家の円英智 は小学5年生から、萩原一至 は専門学校から、それぞれ親交を持つ。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=384032",
-                "title": "姜沆",
-                "text": "〇〇は、朝鮮李氏王朝時代中期の官人。字は太初（テチョ、태초）。号は睡隠（スウン、수은）。"
             }
         ]
     }

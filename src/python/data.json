@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3339088",
+                "title": "ハーパーBOOKS",
+                "text": "〇〇は、株式会社ハーパーコリンズ・ジャパンが発行している文庫レーベル。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1594688",
                 "title": "はさかり岩",
                 "text": "〇〇は、兵庫県豊岡市の竹野海岸切浜にある岩。山陰海岸国立公園および山陰海岸ジオパークに属する。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1979852",
                 "title": "トンコンティン国際空港",
                 "text": "〇〇は、ホンジュラス共和国の首都テグシガルパにある国際空港。テグシガルパの中心部より6Kmに位置する。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2785748",
-                "title": "千紗",
-                "text": "〇〇は、兵庫県丹波篠山市出身の元歌手、元モデル。girl next door（デビュー当時はGIRL NEXT DOOR）のボーカル・作詞担当。旧芸名および出生名は、前川 〇〇（まえかわ ちさ）。身長167cm。夫は元競泳選手の北島康介。"
             }
         ]
     }

@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=1512660",
+                "title": "Summer Adventure Tag League",
+                "text": "〇〇は、DRAGONGATEが開催しているタッグリーグ戦。第5回大会は2軍対抗ということからトーナメント戦によるSummer Adventure Tag Tournament（サマー・アドベンチャー・タッグ・トーナメント）として開催していた。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3062423",
                 "title": "フランチェスカ・ジェームス",
                 "text": "〇〇は、コロンビア出身のポルノ女優。スペイン語読みではフランセスカ・ハイメス。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2179190",
                 "title": "PDC ワールド・カップ",
                 "text": "〇〇は、プロフェッショナル・ダーツ・コーポレイション（PDC）が開催するダーツのトーナメントである。ダーツにおけるワールド・カップの1つであり、ナショナル・チームで争われる。大会はSky Sportsで生中継される。このイヴェントは、PDCが2010年に新たに導入した3つのトーナメントの1つであり、ダブルズと敗者先攻という特徴的なルールを持つ。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=424401",
-                "title": "弥富市",
-                "text": "〇〇は、愛知県の西部に位置する市。日本有数の金魚の産地として知られている。"
             }
         ]
     }

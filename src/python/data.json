@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3331031",
+                "title": "養寿寺",
+                "text": "〇〇は、愛知県西尾市下矢田町にある浄土宗西山深草派の寺院。山号は亀休山。本尊は阿弥陀如来。「矢田のおかげん」としてつとに知られる。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=947712",
                 "title": "Rescue me/Smile Again",
                 "text": "〇〇は、日本の音楽グループEvery Little Thingの15枚目のシングル。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1987037",
                 "title": "中里 (清瀬市)",
                 "text": "〇〇は、東京都清瀬市の地名。現行行政地名は中里一丁目から中里六丁目。郵便番号は204-0003。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3478855",
-                "title": "アルケミィ〜ダイアー・ストレイツ・ライヴ",
-                "text": "〇〇は、イギリスのロック・バンド、ダイアー・ストレイツが1984年に発表した、キャリア初のライブ・アルバム。LP、CDともに2枚組で発売された。"
             }
         ]
     }

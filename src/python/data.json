@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3256849",
+                "title": "清水留三郎",
+                "text": "〇〇は、日本の衆議院議員（憲政会→立憲民政党）、外務政務次官。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2198411",
                 "title": "秘書・恵純 18歳",
                 "text": "〇〇は、鴨居まさねによる日本の漫画作品。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2153233",
                 "title": "賈範",
                 "text": "〇〇は、中国三国時代の将軍。晋書に記述がある。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1234311",
-                "title": "キタノ商事",
-                "text": "〇〇は、日本の菓子食品輸入卸売業者である。"
             }
         ]
     }

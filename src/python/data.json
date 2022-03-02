@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=845923",
+                "title": "澤野弘之",
+                "text": "〇〇は、日本の作曲家、編曲家、作詞家。東京都出身。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=107689",
                 "title": "三島田町駅",
                 "text": "〇〇は、静岡県三島市北田町にある、伊豆箱根鉄道駿豆線の駅である。駅番号はIS03。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4415124",
                 "title": "イ・ジョンハ",
                 "text": "〇〇は、韓国の俳優。ナムアクターズ所属。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2239328",
-                "title": "夢を力に",
-                "text": "〇〇は、本田技研工業社長であった本田宗一郎が日本経済新聞社に連載した私の履歴書をまとめた本である。"
             }
         ]
     }

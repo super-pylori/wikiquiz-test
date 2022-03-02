@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=1567037",
+                "title": "Macintosh XL",
+                "text": "〇〇は、Macintosh 128Kのエミュレータである。Macintoshは、（販売不振の）Lisaに見切りをつけたAppleが、より市場にマッチした製品として開発したパソコンである。Lisa OS のみを同梱する〇〇と同型のマシンは Lisa 2/10 として販売されたが、大量に売れ残った。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1757221",
                 "title": "伊藤正",
                 "text": "〇〇は、日本のジャーナリスト。産経新聞特別記者兼論説委員。前中国総局長。中国報道で知られる。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1512660",
                 "title": "Summer Adventure Tag League",
                 "text": "〇〇は、DRAGONGATEが開催しているタッグリーグ戦。第5回大会は2軍対抗ということからトーナメント戦によるSummer Adventure Tag Tournament（サマー・アドベンチャー・タッグ・トーナメント）として開催していた。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3062423",
-                "title": "フランチェスカ・ジェームス",
-                "text": "〇〇は、コロンビア出身のポルノ女優。スペイン語読みではフランセスカ・ハイメス。"
             }
         ]
     }

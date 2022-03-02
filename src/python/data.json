@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=25058",
+                "title": "第43回衆議院議員総選挙",
+                "text": "〇〇は、2003年（平成15年）11月9日に日本で行われた国会（衆議院）議員の総選挙である。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1567037",
                 "title": "Macintosh XL",
                 "text": "〇〇は、Macintosh 128Kのエミュレータである。Macintoshは、（販売不振の）Lisaに見切りをつけたAppleが、より市場にマッチした製品として開発したパソコンである。Lisa OS のみを同梱する〇〇と同型のマシンは Lisa 2/10 として販売されたが、大量に売れ残った。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1199409",
                 "title": "家庭内デート",
                 "text": "〇〇は、2006年6月にやな家（斉藤由貴・及川光博）がリリースしたシングルである。斉藤由貴としては18枚目、及川光博としては17枚目のシングルになる。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1512660",
-                "title": "Summer Adventure Tag League",
-                "text": "〇〇は、DRAGONGATEが開催しているタッグリーグ戦。第5回大会は2軍対抗ということからトーナメント戦によるSummer Adventure Tag Tournament（サマー・アドベンチャー・タッグ・トーナメント）として開催していた。"
             }
         ]
     }

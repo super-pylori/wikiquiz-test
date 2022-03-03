@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4160746",
+                "title": "柳俊之",
+                "text": "〇〇は、北海道出身の元アマチュア野球選手（投手）。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3912621",
                 "title": "中垣正太郎",
                 "text": "〇〇は、テレビ東京のアナウンサー。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1526848",
                 "title": "全国専門学校卓球連盟",
                 "text": "〇〇は、日本における専門学校に所属する卓球チームを統括する競技団体。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3248519",
-                "title": "並河健",
-                "text": "〇〇は、日本の政治家、外交官。奈良県天理市長（3期）。"
             }
         ]
     }

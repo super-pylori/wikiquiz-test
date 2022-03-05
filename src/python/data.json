@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=750731",
+                "title": "戸狩温泉スキー場",
+                "text": "〇〇は、長野県飯山市にあるスキー場である。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3908647",
                 "title": "北極星 (ふきのとうのアルバム)",
                 "text": "〇〇は、1985年4月21日に発売された日本のフォークデュオ、ふきのとうの11thアルバム。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=760240",
                 "title": "春やすこ・けいこ",
                 "text": "〇〇は、漫才ブーム時代に活躍したアイドル女性漫才コンビ。所属事務所は松竹芸能。「春やす子・けい子」と表記されていた時期もある。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2269720",
-                "title": "You & Me Song",
-                "text": "〇〇は、氣志團の通算10枚目のシングル。"
             }
         ]
     }

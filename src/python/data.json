@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=1613844",
+                "title": "加藤寛崇",
+                "text": "〇〇は、日本のアニメーター、キャラクターデザイナー。アートランド出身で現在はフリー。ぎゃろっぷの作品を中心に活動している。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2456642",
                 "title": "富山県道155号山本北中町線",
                 "text": "〇〇は、富山県中新川郡上市町内を通る一般県道である。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3526276",
                 "title": "しし座シータ星",
                 "text": "〇〇は、しし座の恒星で3等星。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=4160746",
-                "title": "柳俊之",
-                "text": "〇〇は、北海道出身の元アマチュア野球選手（投手）。"
             }
         ]
     }

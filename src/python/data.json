@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4049781",
+                "title": "大山祇神社 (西の谷)",
+                "text": "〇〇は、愛媛県新居浜市磯浦町にある神社。瀬戸内側の西端である磯浦町・西の谷の高台に位置する。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3005793",
                 "title": "ルーク・グライムス",
                 "text": "〇〇は、アメリカ合衆国の俳優。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1906360",
                 "title": "畠山持永",
                 "text": "〇〇は、室町時代中期の守護大名。河内国・紀伊国・越中国守護。官位は左馬助。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1427806",
-                "title": "鶴ヶ島市立藤小学校",
-                "text": "〇〇は、埼玉県鶴ヶ島市藤金にある公立小学校。"
             }
         ]
     }

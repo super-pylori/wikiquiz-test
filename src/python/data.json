@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3095635",
+                "title": "秋本食品",
+                "text": "〇〇は、神奈川県綾瀬市早川に本社を置く、漬物の製造・販売を行う企業。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1656518",
                 "title": "片貝義明",
                 "text": "〇〇は、群馬県吾妻郡中之条町出身の元プロ野球選手（捕手）・コーチ。息子はスタイリストの片貝俊。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=5749",
                 "title": "指揮者",
                 "text": "〇〇は、合奏や合唱を指揮する人物。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=47331",
-                "title": "やまねこ座",
-                "text": "〇〇は、北天の星座の1つ。"
             }
         ]
     }

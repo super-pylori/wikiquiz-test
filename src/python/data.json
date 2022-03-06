@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4229124",
+                "title": "桃鈴ねね",
+                "text": "〇〇は、日本のバーチャルYouTuber。所属事務所はホロライブプロダクションで、同事務所の女性バーチャルYouTuberグループ・ホロライブの5期生。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3095635",
                 "title": "秋本食品",
                 "text": "〇〇は、神奈川県綾瀬市早川に本社を置く、漬物の製造・販売を行う企業。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2748857",
                 "title": "京都市立樫原小学校",
                 "text": "〇〇は、京都府京都市西京区にある公立小学校。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=5749",
-                "title": "指揮者",
-                "text": "〇〇は、合奏や合唱を指揮する人物。"
             }
         ]
     }

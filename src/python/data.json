@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=2734225",
+                "title": "若杉宏二",
+                "text": "〇〇は、日本の俳優である。長崎県出身。流山児★事務所団員。クリオネ所属。身長：172cm、体重：62kg。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2862384",
                 "title": "LIFE IS MOUNTAIN",
                 "text": "〇〇は、2013年9月11日に発売された若旦那の2作目のオリジナルアルバム。発売元はTank Top Records。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1613844",
                 "title": "加藤寛崇",
                 "text": "〇〇は、日本のアニメーター、キャラクターデザイナー。アートランド出身で現在はフリー。ぎゃろっぷの作品を中心に活動している。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2456642",
-                "title": "富山県道155号山本北中町線",
-                "text": "〇〇は、富山県中新川郡上市町内を通る一般県道である。"
             }
         ]
     }

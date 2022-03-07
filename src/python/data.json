@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=2862384",
+                "title": "LIFE IS MOUNTAIN",
+                "text": "〇〇は、2013年9月11日に発売された若旦那の2作目のオリジナルアルバム。発売元はTank Top Records。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4013341",
                 "title": "マイクロコッカス科",
                 "text": "〇〇は、真正細菌の科の一つ。空気中および生物の皮膚に生息するグラム陽性球菌が含まれる。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2456642",
                 "title": "富山県道155号山本北中町線",
                 "text": "〇〇は、富山県中新川郡上市町内を通る一般県道である。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1489398",
-                "title": "STAY (氷室京介の曲)",
-                "text": "〇〇は、1996年6月24日に発売された氷室京介の12枚目のシングル。"
             }
         ]
     }

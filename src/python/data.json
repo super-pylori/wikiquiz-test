@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=1582644",
+                "title": "サンドロ・キア",
+                "text": "〇〇は、イタリアの画家、彫刻家。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3549586",
                 "title": "呂号第四十六潜水艦",
                 "text": "〇〇は、日本海軍の潜水艦。呂三十五型潜水艦（中型）の12番艦。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1733194",
                 "title": "越秀公園駅",
                 "text": "〇〇は、中華人民共和国広東省広州市越秀区に位置する広州地下鉄2号線の駅。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1208997",
-                "title": "学校法人立正大学学園",
-                "text": "〇〇は、東京都品川区に本部を置く学校法人。"
             }
         ]
     }

@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=301715",
+                "title": "羽茂郡",
+                "text": "〇〇は、新潟県（佐渡国）にあった郡。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3473880",
                 "title": "FC EASY 02明石",
                 "text": "〇〇は、兵庫県明石市をホームタウンとして活動する社会人サッカークラブである。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1641281",
                 "title": "川勝益氏",
                 "text": "〇〇は、江戸時代前期から中期の旗本。継氏系重氏流川勝家の3代当主。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3022669",
-                "title": "ヤセミン・サムデレリ",
-                "text": "〇〇は、ドイツの映画監督。"
             }
         ]
     }

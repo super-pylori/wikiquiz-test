@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=857311",
+                "title": "Tomorrow's way",
+                "text": "〇〇は、YUIの楽曲。彼女の2枚目のシングルとして2005年6月22日にSony Recordsから発売。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1882964",
                 "title": "幸福実現党",
                 "text": "〇〇は、日本の政治団体である。略称は幸福党、幸福、HRP。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1338644",
                 "title": "麿の酩酊事件簿",
                 "text": "〇〇は、高田紫欄原作の日本の漫画。作画は望月玲子が担当した。2003年、高田紫欄の許可を得て、高田崇史が大幅な改変を加え小説化した。ここでは、高田崇史の小説を基に記述する。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1389226",
-                "title": "リア充",
-                "text": "〇〇は、あえて言うと、バーチャル充（バチャ充）。"
             }
         ]
     }

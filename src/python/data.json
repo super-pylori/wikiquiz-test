@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=2207233",
+                "title": "羯徒毘璐薫'狼琉",
+                "text": "〇〇は、1981年6月23日に発売された横浜銀蝿の3枚目のシングル。発売元はキングレコード。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3345963",
                 "title": "小手川拓也",
                 "text": "〇〇は、日本の男性声優。大分県出身。ベストポジション所属。以前は同人舎プロダクションに所属していた。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=301715",
                 "title": "羽茂郡",
                 "text": "〇〇は、新潟県（佐渡国）にあった郡。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3473880",
-                "title": "FC EASY 02明石",
-                "text": "〇〇は、兵庫県明石市をホームタウンとして活動する社会人サッカークラブである。"
             }
         ]
     }

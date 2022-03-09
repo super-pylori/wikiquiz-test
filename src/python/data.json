@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3972553",
+                "title": "HD 148427",
+                "text": "〇〇は、地球からへびつかい座の方向に約230光年離れた位置にある7等級の恒星である。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=199057",
                 "title": "シンポジウム",
                 "text": "〇〇は、「研究発表会」「討論会」をさす言葉。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1582644",
                 "title": "サンドロ・キア",
                 "text": "〇〇は、イタリアの画家、彫刻家。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3549586",
-                "title": "呂号第四十六潜水艦",
-                "text": "〇〇は、日本海軍の潜水艦。呂三十五型潜水艦（中型）の12番艦。"
             }
         ]
     }

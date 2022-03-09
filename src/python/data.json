@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=142818",
+                "title": "作並温泉",
+                "text": "〇〇は、宮城県仙台市青葉区作並にある温泉である。かつては陸奥国、明治以降は陸前国に位置した。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2400984",
                 "title": "Cutie Circuit 2006 Final in YOMIURILAND EAST LIVE 〜9月10日は℃-uteの日〜",
                 "text": "〇〇は、℃-uteのDVD購入者限定イベントである。2006年12月6日発売。発売元はゼティマ。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=455541",
                 "title": "東武ED4010形電気機関車",
                 "text": "〇〇は、東武鉄道が所有していた電気機関車。本項では、ほぼ同仕様のED4020形電気機関車についても記す。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2304782",
-                "title": "十川幸司",
-                "text": "〇〇は、日本の精神分析家、精神科医。専門は、ジャック・ラカンおよび対象関係論を中心とする精神分析研究、ならびに精神病理学。"
             }
         ]
     }

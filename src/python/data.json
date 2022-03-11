@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=865646",
+                "title": "山本球場",
+                "text": "〇〇は、かつて名古屋市に存在した球場。JR東海八事球場を参照のこと。大阪府八尾市にある「八尾市立〇〇」の通称。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=10180",
                 "title": "音更町",
                 "text": "〇〇は、北海道十勝総合振興局にある町。北海道内の町村の中で最も人口が多い。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=199057",
                 "title": "シンポジウム",
                 "text": "〇〇は、「研究発表会」「討論会」をさす言葉。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1270761",
-                "title": "翟方進",
-                "text": "〇〇は、前漢の政治家。字は子威。豫州汝南郡上蔡県の人。"
             }
         ]
     }

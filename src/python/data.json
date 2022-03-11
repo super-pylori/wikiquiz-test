@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=10180",
+                "title": "音更町",
+                "text": "〇〇は、北海道十勝総合振興局にある町。北海道内の町村の中で最も人口が多い。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2185389",
                 "title": "GLADIATOR",
                 "text": "〇〇は、韓国発祥、日本の総合格闘技団体。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1270761",
                 "title": "翟方進",
                 "text": "〇〇は、前漢の政治家。字は子威。豫州汝南郡上蔡県の人。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2504375",
-                "title": "坂井村 (新潟県)",
-                "text": "〇〇は、かつて新潟県南蒲原郡にあった村。"
             }
         ]
     }

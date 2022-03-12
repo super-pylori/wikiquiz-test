@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=310182",
+                "title": "瀬戸内町",
+                "text": "〇〇は、鹿児島県の奄美群島にある町の1つ。大島郡に属し、奄美大島の南端部とその沿岸に位置する加計呂麻島、請島などの離島を町域とする。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3246717",
                 "title": "ヘイトレッド",
                 "text": "〇〇は、ポーランドのディストラクティブ・クリエーションズが開発し、2015年6月1日に発売されたMicrosoft Windows用ゲームソフト。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2185389",
                 "title": "GLADIATOR",
                 "text": "〇〇は、韓国発祥、日本の総合格闘技団体。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2417212",
-                "title": "ベルダンギ難民キャンプ",
-                "text": "〇〇は、ネパールメチ県ジャパ郡ダマクに位置するブータン人が居住する難民キャンプ。　Beldangi I, Beldangi II, Beldangi II Extension の3つのキャンプから構成"
             }
         ]
     }

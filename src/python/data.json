@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4414349",
+                "title": "藤原乙刀自",
+                "text": "〇〇は、奈良時代後期の女官。姓は朝臣。位階は従四位下。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=310182",
                 "title": "瀬戸内町",
                 "text": "〇〇は、鹿児島県の奄美群島にある町の1つ。大島郡に属し、奄美大島の南端部とその沿岸に位置する加計呂麻島、請島などの離島を町域とする。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=10180",
                 "title": "音更町",
                 "text": "〇〇は、北海道十勝総合振興局にある町。北海道内の町村の中で最も人口が多い。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2185389",
-                "title": "GLADIATOR",
-                "text": "〇〇は、韓国発祥、日本の総合格闘技団体。"
             }
         ]
     }

@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=968555",
+                "title": "BUG (バンド)",
+                "text": "〇〇は、日本のロックバンド。2001年に結成、2012年活動休止。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4339687",
                 "title": "フォークランド諸島時間",
                 "text": "〇〇は、フォークランド諸島で使用されている標準時について記す。フォークランド諸島は2010年9月5日から、公式にはフォークランド諸島夏時間（Falkland Islands Summer Time - FKST、UTC-3）を通年で使用している。しかし、キャンプの住民の多くはUTC-4を使用しており、公式の時間（スタンリー時間）に対して「キャンプ時間」として知られている。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=919682",
                 "title": "ロザッツァ",
                 "text": "〇〇は、イタリア共和国ピエモンテ州ビエッラ県にある、人口約100人の基礎自治体（コムーネ）。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=193888",
-                "title": "アラスカ州の郡一覧",
-                "text": "〇〇は、アメリカ合衆国アラスカ州内の30の郡相当の地域 (county-equivalent) である、郡 (Borough) と国勢調査地域 (Census Area) の一覧である。"
             }
         ]
     }

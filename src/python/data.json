@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=330610",
+                "title": "ポドヴェルカ",
+                "text": "〇〇は、スロベニアの市である。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4466959",
                 "title": "訃報 1971年3月",
                 "text": "〇〇は、1971年（昭和46年）3月中に物故した人物の一覧である。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=712840",
                 "title": "太華山",
                 "text": "〇〇は、山口県周南市南端の大島半島にある標高362mの山。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=4011314",
-                "title": "青と白",
-                "text": "〇〇は、イスラエルの政党連合。"
             }
         ]
     }

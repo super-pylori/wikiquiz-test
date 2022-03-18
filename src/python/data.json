@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3300144",
+                "title": "東田原村",
+                "text": "〇〇は、かつて岐阜県加茂郡にあった村である。現在の関市東田原に該当する。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3257439",
                 "title": "葉山美空",
                 "text": "〇〇は、日本のAV女優。ファイブプロモーション所属。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=960250",
                 "title": "GO!GO!KAN-POP",
                 "text": "〇〇は、NHK大阪放送局が2007年度に関西向けに放送した音楽番組である。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=923931",
-                "title": "佐々木造船",
-                "text": "〇〇は、日本の造船メーカーである。"
             }
         ]
     }

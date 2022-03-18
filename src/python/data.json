@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3828519",
+                "title": "夢眠ねむのまどろみのれん酒",
+                "text": "〇〇は、2018年10月7日から2019年3月31日までBS日テレで毎週日曜日22:30 - 23:00に放送されていたバラエティ番組で、でんぱ組.incの夢眠ねむの単独初冠番組。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3300144",
                 "title": "東田原村",
                 "text": "〇〇は、かつて岐阜県加茂郡にあった村である。現在の関市東田原に該当する。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1189636",
                 "title": "嵯峨健四郎",
                 "text": "〇〇は、秋田県秋田市上北手出身のプロ野球選手（投手）。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=960250",
-                "title": "GO!GO!KAN-POP",
-                "text": "〇〇は、NHK大阪放送局が2007年度に関西向けに放送した音楽番組である。"
             }
         ]
     }

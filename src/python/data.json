@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=2046037",
+                "title": "直方市コミュニティバス",
+                "text": "〇〇は、福岡県直方市にて運行しているコミュニティバスである。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3831927",
                 "title": "山本忠人",
                 "text": "〇〇は、日本の技術者、実業家。富士ゼロックス（現:富士フイルムビジネスイノベーション）代表取締役社長や、同社代表取締役会長を務めた。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3943717",
                 "title": "五明谷川",
                 "text": "〇〇は、徳島県阿波市を流れる吉野川水系の河川である。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3564863",
-                "title": "Dr.Lilcom",
-                "text": "〇〇は、日本の作曲家、編曲家、トラックメイカー。"
             }
         ]
     }

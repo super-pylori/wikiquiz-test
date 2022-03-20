@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3320501",
+                "title": "PARTY PEOPLE (野宮真貴のアルバム)",
+                "text": "〇〇は、野宮真貴の2005年のアルバム。アートワークは宇川直宏による。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3725899",
                 "title": "UCHIDA MAAYA Hello, 1st contact! 2016.2.28 @NAKANO SUNPLAZA",
                 "text": "〇〇は、内田真礼の初のライブ映像作品。2016年7月20日にポニーキャニオンからBlu-rayとDVDが発売。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4291105",
                 "title": "川手洋一",
                 "text": "〇〇は、日本の実業家。富士器業株式会社の取締役会長。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2612784",
-                "title": "小倉駅前郵便局",
-                "text": "〇〇は、福岡県北九州市小倉北区にある郵便局である。民営化前の分類では無集配特定郵便局であった。"
             }
         ]
     }

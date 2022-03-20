@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3145844",
+                "title": "桐原久",
+                "text": "〇〇は、元南日本放送代表取締役社長。元同局アナウンサー、マーケティング理論家、元鹿児島経済大学講師。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3320501",
                 "title": "PARTY PEOPLE (野宮真貴のアルバム)",
                 "text": "〇〇は、野宮真貴の2005年のアルバム。アートワークは宇川直宏による。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2500261",
                 "title": "アンジェロ・ムーア",
                 "text": "〇〇は、アメリカのミュージシャン。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=4291105",
-                "title": "川手洋一",
-                "text": "〇〇は、日本の実業家。富士器業株式会社の取締役会長。"
             }
         ]
     }

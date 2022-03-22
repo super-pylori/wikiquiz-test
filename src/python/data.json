@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=1973464",
+                "title": "ル・アーヴル駅",
+                "text": "〇〇は、フランス、セーヌ＝マリティーム県のル・アーヴルにある鉄道駅である。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1293166",
                 "title": "新網走中継局",
                 "text": "〇〇は、北海道網走市にあるミニサテライト局の総称。正式な名前は網走新町テレビ中継局である。ここでは、地デジ化に伴って廃止された網走鉄南テレビ中継局についても記述する。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3320501",
                 "title": "PARTY PEOPLE (野宮真貴のアルバム)",
                 "text": "〇〇は、野宮真貴の2005年のアルバム。アートワークは宇川直宏による。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3725899",
-                "title": "UCHIDA MAAYA Hello, 1st contact! 2016.2.28 @NAKANO SUNPLAZA",
-                "text": "〇〇は、内田真礼の初のライブ映像作品。2016年7月20日にポニーキャニオンからBlu-rayとDVDが発売。"
             }
         ]
     }

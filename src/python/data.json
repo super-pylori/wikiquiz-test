@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3119913",
+                "title": "クレイジーハムスター",
+                "text": "〇〇は、フィンランドのゲームソフト開発会社Gamelionが開発したiOS、Android、ニンテンドーDSiウェア用アクションパズルゲーム。日本では、ニンテンドーDSiウェア版がテヨンジャパンより2012年7月4日に発売された。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=879637",
                 "title": "くらやん",
                 "text": "〇〇は、日本の構成作家。鳥取県出身、大阪府在住。ウォークオン所属。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=646673",
                 "title": "早野川",
                 "text": "〇〇は、神奈川県川崎市麻生区を流れる普通河川。鶴見川水系の支流。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=4015617",
-                "title": "マーガレット・マレー (第17代グレイ女卿)",
-                "text": "〇〇は、スコットランド貴族。"
             }
         ]
     }

@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=463056",
+                "title": "バライロガモ",
+                "text": "〇〇は、カモ目カモ科〇〇属に分類される鳥類。本種のみで〇〇属を形成する。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2040197",
                 "title": "純州",
                 "text": "〇〇は、中国にかつて存在した州。南北朝時代、南朝梁により設置された華州を前身とする。西魏により淮州、後に〇〇と改称された。605年（大業元年）に廃止され、顕州に統合された。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1946841",
                 "title": "ルンピ県",
                 "text": "〇〇は、マラウイ北部州の県(Rumphi district)で、中心となる都市はルンピ（Rumphi Town）である。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=423514",
-                "title": "広島県立西高等学校",
-                "text": "〇〇は、かつて広島県広島市中区にあった県立の高等学校。略称は西高。"
             }
         ]
     }

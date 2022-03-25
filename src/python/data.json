@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=2223094",
+                "title": "フレッド・ロッサー",
+                "text": "〇〇は、アメリカ合衆国の男性プロレスラー。ニュージャージー州ユニオンシティ出身。新日本プロレス所属。フルネームはフレデリック・ダグラス・ロッサー三世（Frederick Douglas Rosser III）。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3776143",
                 "title": "早房長治",
                 "text": "〇〇は、日本のジャーナリスト、政治経済評論家。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=210771",
                 "title": "藤堂高次",
                 "text": "〇〇は、伊勢津藩の第2代藩主。藤堂家宗家2代。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2279457",
-                "title": "吉田成樹",
-                "text": "〇〇は、日本のイベントプロデューサー兼演出家、ショーデザイナー。神奈川県藤沢市生まれの横浜市育ち。クレイ・アンド・カンパニー所属。血液型はB型。"
             }
         ]
     }

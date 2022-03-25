@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=1398496",
+                "title": "アントニオ・ベナリーヴォ",
+                "text": "〇〇は、イタリア出身の元同国代表の元サッカー選手。選手時代のポジションはディフェンダー"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2862384",
                 "title": "LIFE IS MOUNTAIN",
                 "text": "〇〇は、2013年9月11日に発売された若旦那の2作目のオリジナルアルバム。発売元はTank Top Records。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3216020",
                 "title": "根修習経",
                 "text": "〇〇は、パーリ仏典経蔵中部に収録されている第152経。『感官修習経』（かんかんしゅうじゅうきょう）とも。釈迦が、アーナンダに、六根に関する仏法を説く。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=393463",
-                "title": "第12方面軍 (日本軍)",
-                "text": "〇〇は、日本陸軍の方面軍のひとつ。"
             }
         ]
     }

@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4006614",
+                "title": "WB (企業)",
+                "text": "〇〇は、二宮歩美が代表取締役を務める日本の芸能事務所、企画制作プロデュース会社である。正式な商号は株式会社Walking Beautyであるが、ロゴは略称である「WB」が大きく表示されており、企業公式サイトも「wb-pro.net」であるなど、主にWBと呼称される。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2896207",
                 "title": "徐正剛",
                 "text": "〇〇は、日本の経営者。富士ゼロックスチャイナ社長"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3119913",
                 "title": "クレイジーハムスター",
                 "text": "〇〇は、フィンランドのゲームソフト開発会社Gamelionが開発したiOS、Android、ニンテンドーDSiウェア用アクションパズルゲーム。日本では、ニンテンドーDSiウェア版がテヨンジャパンより2012年7月4日に発売された。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=879637",
-                "title": "くらやん",
-                "text": "〇〇は、日本の構成作家。鳥取県出身、大阪府在住。ウォークオン所属。"
             }
         ]
     }

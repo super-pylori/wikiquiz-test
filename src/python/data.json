@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4022918",
+                "title": "アレクサンテリン通り",
+                "text": "〇〇は、フィンランドにある通りである。アレクサンダー通り (Alexander Street)、アレクサンテリ通り、アレクサンドル通りとも。アレクシ (Aleksi) と通称される。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1389370",
                 "title": "江戸川区立小岩第二中学校",
                 "text": "〇〇は、東京都江戸川区東小岩一丁目にある公立中学校。道路を隔てて、南小岩第二小学校がある。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4237687",
                 "title": "It's Up To You/HAPPY NAKED!!/BIG BANG",
                 "text": "〇〇は、2019年6月25日にT-Palette Recordsから発売、および配信された日本の女性アイドルグループ・アップアップガールズ（仮）の通算27枚目のCDシングルである。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=4421495",
-                "title": "UC100W",
-                "text": "〇〇は、日本のロックバンド、UNICORNの16作目のオリジナルアルバム。2019年10月2日発売。発売元はキューンミュージック。"
             }
         ]
     }

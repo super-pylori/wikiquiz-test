@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4086619",
+                "title": "ORβIT",
+                "text": "〇〇は、日本の日韓合同ダンスボーカルグループ。日本人3人、韓国人3人、日韓ハーフ1人で構成されている。DREAM PASSPORT、Future Passport所属。愛称・略称は、オルビ。公式ファンクラブ名・公式ファンネームは、EαRTH（アース）。自社レーベル「Present Label」を設立し、2020年11月11日にフルアルバム『00』（オーツー）でデビュー。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1138724",
                 "title": "アイワイネット",
                 "text": "〇〇は、イトーヨーカ堂が提供するネットスーパーである。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=416313",
                 "title": "北港通",
                 "text": "〇〇は、大阪市内を東西に走る道路の一つ。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1588777",
-                "title": "国鉄7500形蒸気機関車",
-                "text": "〇〇は、かつて日本国有鉄道の前身である鉄道院、鉄道省に在籍したテンダ式蒸気機関車である。"
             }
         ]
     }

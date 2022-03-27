@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3894209",
+                "title": "鉄山士安",
+                "text": "〇〇は、鎌倉時代末期の曹洞宗の僧。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=49010",
                 "title": "元禄",
                 "text": "〇〇は、日本の元号の一つ。貞享の後、宝永の前。1688年から1704年までの期間を指す。この時代の天皇は、東山天皇。江戸幕府将軍は徳川綱吉。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1398496",
                 "title": "アントニオ・ベナリーヴォ",
                 "text": "〇〇は、イタリア出身の元同国代表の元サッカー選手。選手時代のポジションはディフェンダー"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2862384",
-                "title": "LIFE IS MOUNTAIN",
-                "text": "〇〇は、2013年9月11日に発売された若旦那の2作目のオリジナルアルバム。発売元はTank Top Records。"
             }
         ]
     }

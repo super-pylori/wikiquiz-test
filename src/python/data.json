@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4400369",
+                "title": "貸与艦",
+                "text": "〇〇は、ある国が別の国にある一定の期間が過ぎれば返却することを前提として貸し出した軍艦のこと。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4086619",
                 "title": "ORβIT",
                 "text": "〇〇は、日本の日韓合同ダンスボーカルグループ。日本人3人、韓国人3人、日韓ハーフ1人で構成されている。DREAM PASSPORT、Future Passport所属。愛称・略称は、オルビ。公式ファンクラブ名・公式ファンネームは、EαRTH（アース）。自社レーベル「Present Label」を設立し、2020年11月11日にフルアルバム『00』（オーツー）でデビュー。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3506019",
                 "title": "紀伊保",
                 "text": "〇〇は、奈良時代の貴族。名は伊富、五百とも記される。右衛士佐・紀佐比物の子。官位は正五位下・仁部大輔。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=416313",
-                "title": "北港通",
-                "text": "〇〇は、大阪市内を東西に走る道路の一つ。"
             }
         ]
     }

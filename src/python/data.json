@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3445204",
+                "title": "釈迦院 (大阪市)",
+                "text": "〇〇は、大阪市港区にある高野山真言宗の寺院。山号は築港高野山（ちっこうこうやさん）。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=247603",
                 "title": "リーリー・ソビエスキー",
                 "text": "〇〇は、アメリカ合衆国の女優である。身長178cm。リリー・ソビエスキーと表記されることがある。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3701039",
                 "title": "田代哲也 (1984年生)",
                 "text": "〇〇は、日本の漫画家。血液型はAB型。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2129609",
-                "title": "DEAR〜コバルトの彼方へ〜",
-                "text": "〇〇は、1988年7月21日に発売された荻野目洋子の16枚目のシングル。"
             }
         ]
     }

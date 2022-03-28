@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3929214",
+                "title": "どしゃぶりのテラス席/フユトテトテ",
+                "text": "〇〇は、2018年1月1日にT-Palette Recordsから発売、および配信されたアップアップガールズ(2)の2枚目のシングル。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=12363",
                 "title": "ディラック定数",
                 "text": "〇〇は、プランク定数 h を 2π で割った値を持つ定数である。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=49010",
                 "title": "元禄",
                 "text": "〇〇は、日本の元号の一つ。貞享の後、宝永の前。1688年から1704年までの期間を指す。この時代の天皇は、東山天皇。江戸幕府将軍は徳川綱吉。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=4258364",
-                "title": "遊歩新夢",
-                "text": "〇〇は、日本の作家、プロのユーフォニアム奏者、天文家。"
             }
         ]
     }

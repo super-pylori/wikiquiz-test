@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=2273848",
+                "title": "Eat a peach",
+                "text": "〇〇は、LADIES ROOMの4枚目のオリジナル・アルバム。1993年3月21日発売。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4418174",
                 "title": "78LABEL",
                 "text": "〇〇は、日本のレコードレーベル。2012年設立。小説家の今野敏がエグゼクティブ・プロデューサーを務めているが、今野は「本業は小説家であり、音楽は真剣な遊び」と位置付けている。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2021974",
                 "title": "Ao (複合商業ビル)",
                 "text": "〇〇は、東京都港区北青山3丁目にある商業ビルである。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2590302",
-                "title": "十勝幌尻岳",
-                "text": "〇〇は、北海道帯広市と河西郡中札内村とにまたがる標高1,846 mの山である。日高山脈襟裳国定公園に属する。"
             }
         ]
     }

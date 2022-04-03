@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3251548",
+                "title": "第133飛行隊 (イスラエル空軍)",
+                "text": "〇〇は、イスラエル航空宇宙軍の飛行隊である。別名として、ナイツ・オブ・ザ・ツインテイル（The Knights of The Twin Tail Squadron）とも呼ばれる。もっと短く、ツインテイル飛行隊（The Twin Tail Squadron）などと呼ばれる例も見られる"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1828668",
                 "title": "エクソシスト ビギニング",
                 "text": "〇〇は、2004年のアメリカ映画。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2276530",
                 "title": "李勉之",
                 "text": "〇〇は、台湾の漫画家。通称は阿勉。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=4517457",
-                "title": "DHP (暗号通貨)",
-                "text": "〇〇は、パブリックブロックチェーン「Symbol」を基に構築されたブロックチェーンネットワーク「dHealth Network」のネイティブ通貨であり、ネイティブDHPと呼ばれている。「dHealth Network」は2021年3月29日に「dHealth Foundation」によってローンチされた。コンセンサスアルゴリズムは、Symbolと同じPoS＋(Proof of stake plus)を利用し、ハーベスト参加には2000DHPを必要とする。またヘルスケア・医療分野に特化し、ヘルスケア企業「Roche（ロシュ）」やスイスの総合大学「チューリッヒ大学のブロックチェーンセンター」が提携をしている。2021年6月には、Symbolのハーベストを行っていた人々に対して「10,001 DHP」がエアドロップされた。 日本時間2021年11月9日、CardanoのOccamRazerを通じてDEXオファリング（IDO）を開始して354,000ドル以上の調達が成功したと同時にイーサリアム基盤のDEXであるUniSwap v2を介したERC-20トークン版のDHPの流通市場取引を開始した。2022年2月には、ERC-20トークン版のDHPからネイティブのDHPに交換するためのブリッジがリリースされた。"
             }
         ]
     }

@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=2040947",
+                "title": "栗和田榮一",
+                "text": "〇〇は、佐川急便株式会社の持株親会社であるSGホールディングス（英文社名：SG Holdings Co.,Ltd.）の代表取締役会長である。新潟県上越市生まれ。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=568051",
                 "title": "EXIT (EXILEの曲)",
                 "text": "〇〇は、EXILEの楽曲。2005年8月24日にrhythm zoneから18枚目のシングルとして発売。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2162874",
                 "title": "アントン作戦",
                 "text": "〇〇は、第二次世界大戦中の1942年にドイツとイタリアが実行したヴィシー・フランス占領作戦である。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3239618",
-                "title": "サント＝コロンブ＝ラ＝コマンドリー",
-                "text": "〇〇は、フランス、ノルマンディー地域圏、ウール県のコミューン。"
             }
         ]
     }

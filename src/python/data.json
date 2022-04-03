@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=2535867",
+                "title": "松原住宅",
+                "text": "〇〇は、大阪市に位置する住宅地。大正時代に開発された。現在の住所は大阪市東住吉区山坂4丁目であり、今は「〇〇」とはほとんど呼ばれていない。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3251548",
                 "title": "第133飛行隊 (イスラエル空軍)",
                 "text": "〇〇は、イスラエル航空宇宙軍の飛行隊である。別名として、ナイツ・オブ・ザ・ツインテイル（The Knights of The Twin Tail Squadron）とも呼ばれる。もっと短く、ツインテイル飛行隊（The Twin Tail Squadron）などと呼ばれる例も見られる"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=217971",
                 "title": "伊予鉄道モハ2100形電車",
                 "text": "〇〇は、伊予鉄道に在籍する軌道線用電車である。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2276530",
-                "title": "李勉之",
-                "text": "〇〇は、台湾の漫画家。通称は阿勉。"
             }
         ]
     }

@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=568051",
+                "title": "EXIT (EXILEの曲)",
+                "text": "〇〇は、EXILEの楽曲。2005年8月24日にrhythm zoneから18枚目のシングルとして発売。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=3335210",
                 "title": "デ・ハビランド DH.60 モス",
                 "text": "〇〇は、イギリスのデ・ハビランド・エアクラフトが製造した複座の複葉機。航空初期の歴史において、個人や民間飛行クラブでも手が届く安価な軽飛行機として大きな成功を収め、世界中で活発に展開された個人飛行の礎を築いた機体である。モスとは蛾を意味する。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3239618",
                 "title": "サント＝コロンブ＝ラ＝コマンドリー",
                 "text": "〇〇は、フランス、ノルマンディー地域圏、ウール県のコミューン。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2273848",
-                "title": "Eat a peach",
-                "text": "〇〇は、LADIES ROOMの4枚目のオリジナル・アルバム。1993年3月21日発売。"
             }
         ]
     }

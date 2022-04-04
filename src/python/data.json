@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=296201",
+                "title": "ミルズ型手榴弾",
+                "text": "〇〇は、1915年にイギリスで開発された手榴弾である。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1889212",
                 "title": "有明葵衣",
                 "text": "〇〇は、秋田県大仙市（大曲市）出身のバスケットボール選手である。ニックネームは「アオイ」。ポジションはガード。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=686364",
                 "title": "イオンモール京都五条",
                 "text": "〇〇は、京都市右京区に所在する、イオンモール株式会社が運営、管理するショッピングセンターである。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=3847191",
-                "title": "音羽文子",
-                "text": "〇〇は、日本のAV女優。エスフラート所属。"
             }
         ]
     }

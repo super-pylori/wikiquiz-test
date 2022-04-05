@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=2263454",
+                "title": "STARS (ORIGINAL LOVEの曲)",
+                "text": "〇〇は、1999年2月3日に発売されたORIGINAL LOVE通算14作目のシングル(SCD:PCDA-01134)。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2608604",
                 "title": "ラブカレンダー",
                 "text": "〇〇は、DECO*27の3枚目のオリジナルアルバム。2012年7月25日にU/M/A/Aから発売された。12曲の楽曲によって恋におちた高校生の男女の一年間を月ごとに表現したコンセプトアルバム。月刊誌「ビッグガンガン」にて本アルバムを原作とした漫画の連載も行われている。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1825842",
                 "title": "サービスタクシー (鳥取県)",
                 "text": "〇〇は、鳥取県鳥取市に本社がある、タクシーを運行する事業者である。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=691439",
-                "title": "きかんしゃトーマス",
-                "text": "〇〇は、鉄道模型及びCGアニメーションで制作された英国の幼児向けテレビ番組である。"
             }
         ]
     }

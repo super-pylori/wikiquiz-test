@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=60313",
+                "title": "油島駅",
+                "text": "〇〇は、岩手県一関市花泉町油島字樺ノ沢（かばのさわ）にある、東日本旅客鉄道（JR東日本）東北本線の駅である。当駅以北は盛岡支社管内となる。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=2539938",
                 "title": "劉臻",
                 "text": "〇〇は、南朝梁から隋にかけての学者。両漢書に精通して、漢聖と称された。字は宣摯。本貫は沛国相県。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2040947",
                 "title": "栗和田榮一",
                 "text": "〇〇は、佐川急便株式会社の持株親会社であるSGホールディングス（英文社名：SG Holdings Co.,Ltd.）の代表取締役会長である。新潟県上越市生まれ。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=568051",
-                "title": "EXIT (EXILEの曲)",
-                "text": "〇〇は、EXILEの楽曲。2005年8月24日にrhythm zoneから18枚目のシングルとして発売。"
             }
         ]
     }

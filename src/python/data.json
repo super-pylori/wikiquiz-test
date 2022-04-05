@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=3007865",
+                "title": "若晃三昌",
+                "text": "〇〇は、高島部屋、熊ヶ谷部屋、再度高島部屋に所属した元力士。本名は戸田 秀男（とだ ひでお）。現在の東京都台東区出身。身長177cm、体重123kg。最高位は東十両11枚目。得意技は右四つ、上手投げ。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=4252905",
                 "title": "志の田うどん",
                 "text": "〇〇は、愛知県名古屋市周辺で食べられているうどん。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=60826",
                 "title": "山本七平",
                 "text": "〇〇は、日本の評論家。山本書店店主。評論家として、主に太平洋戦争後の保守系マスメディアで活動した。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2788474",
-                "title": "KING of FREEDOM WORLD選手権",
-                "text": "〇〇は、プロレスリングFREEDOMSが管理する王座である。"
             }
         ]
     }

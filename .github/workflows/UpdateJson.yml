@@ -1,15 +1,15 @@
 name: UpdateJson
 
 # masterにpushされたら実行 
-#on:
-#  push:
-#    branches:
-#      - master
+on:
+  push:
+    branches:
+      - master
 
 # 毎時0分に実行
-on:
-  schedule:
-    - cron: '0 * * * *'
+#on:
+#  schedule:
+#    - cron: '0 * * * *'
 
 jobs:
   UpdateJson:
@@ -39,8 +39,8 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 14.x
-      - name: Upgrade NPM
-        run: npm install -g npm@6.13.6
+#      - name: Upgrade NPM
+#        run: npm install -g npm@6.13.6
       - name: Install NPM packages
         run: npm ci
       - name: Build website

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月07日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4190212",
+                "title": "One more thing...",
+                "text": "〇〇は、Appleがスペシャルイベントの最後に、新しいプロダクト(もしくは大きな進化)を発表する際に利用しているフレーズである。2020年11月11日(日本時間)に開催されたApple Eventのイベント名でもある。"
+            },
+            {
                 "datetime": "2022年04月07日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3547212",
                 "title": "森安彦",
@@ -233,12 +239,6 @@
                 "url": "https://ja.wikipedia.org/?curid=390789",
                 "title": "洞爺湖町",
                 "text": "〇〇は、北海道胆振総合振興局にある町。"
-            },
-            {
-                "datetime": "202204062000",
-                "url": "https://ja.wikipedia.org/?curid=2440253",
-                "title": "王陵基",
-                "text": "〇〇は、中華民国の軍人。四川省の有力軍人で、後に国民革命軍でも指揮官として活動した。号は方舟。"
             }
         ]
     }

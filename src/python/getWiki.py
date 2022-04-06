@@ -3,6 +3,7 @@
 import requests
 import re
 import json
+import datetime
 
 #wikipediaに接続するための基本設定
 S = requests.Session()
@@ -71,7 +72,10 @@ while True:
         print(text)
         print("")
 
-        wiki_elm = {"url":url, "title":title, "text":text}
+        dt_now = datetime.datetime.now()
+        dt_text = dt_now.strftime('%Y年%m月%d日 %H時の問題')
+
+        wiki_elm = {"datetime":dt_text, "url":url, "title":title, "text":text}
         wiki_list.insert(0, wiki_elm)
 
     break

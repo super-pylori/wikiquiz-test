@@ -17,12 +17,16 @@ class Resume extends Component {
   render() {
     if (!this.props.data) return null;
 
-    const getWikiText = (num) => {
-      return wikiList[num].text
+    const getWikiTime = (num) => {
+      return wikiList[num].datetime
     }
 
     const getWikiUrl = (num) => {
       return wikiList[num].url
+    }
+
+    const getWikiText = (num) => {
+      return wikiList[num].text
     }
 
     const question = (num) => {
@@ -30,8 +34,11 @@ class Resume extends Component {
         <Slide left duration={1300}>
           <div className="row work">
             <div className="three columns header-col">
-              <h1>
+            <h1>
                 <span>Question {num}</span>
+              </h1>
+              <h1>
+                <span>({getWikiTime(num-1)})</span>
               </h1>
             </div>
 

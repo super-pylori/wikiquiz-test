@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=4463989",
+                "title": "Who is Princess?",
+                "text": "〇〇は、日本の女性オーディション番組である。合格者の5名は「PRIKIL」として2022年5月にデビュー予定。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=589910",
                 "title": "松平正敬",
                 "text": "〇〇は、江戸時代後期の大名。上総大多喜藩の第6代藩主。大河内松平宗家8代。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4022550",
                 "title": "マーヴィン・トゥチェット (第4代キャッスルヘイヴン伯爵)",
                 "text": "〇〇は、アイルランド貴族。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2917480",
-                "title": "ラジオビジネス塾 〜35歳からのスキルアップ〜",
-                "text": "〇〇は、NHKラジオ第2放送にて2014年4月から2015年3月まで放送されたラジオ番組である。"
             }
         ]
     }

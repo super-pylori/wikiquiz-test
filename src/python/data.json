@@ -2,6 +2,11 @@
     "data": {
         "wiki": [
             {
+                "url": "https://ja.wikipedia.org/?curid=589910",
+                "title": "松平正敬",
+                "text": "〇〇は、江戸時代後期の大名。上総大多喜藩の第6代藩主。大河内松平宗家8代。"
+            },
+            {
                 "url": "https://ja.wikipedia.org/?curid=1948995",
                 "title": "もみじ (郷土料理)",
                 "text": "〇〇は、大分県日田市の郷土料理。"
@@ -195,11 +200,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2917480",
                 "title": "ラジオビジネス塾 〜35歳からのスキルアップ〜",
                 "text": "〇〇は、NHKラジオ第2放送にて2014年4月から2015年3月まで放送されたラジオ番組である。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=2201912",
-                "title": "コクテンフグ",
-                "text": "〇〇は、フグ目フグ科に属する魚類。"
             }
         ]
     }

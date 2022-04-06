@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月07日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4166221",
+                "title": "フランコ・マレー",
+                "text": "〇〇は、JAPAN RUGBY LEAGUE ONENTTドコモレッドハリケーンズ大阪に所属するラグビー選手。"
+            },
+            {
                 "datetime": "2022年04月07日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4190212",
                 "title": "One more thing...",
@@ -233,12 +239,6 @@
                 "url": "https://ja.wikipedia.org/?curid=148825",
                 "title": "国道395号",
                 "text": "〇〇は、岩手県久慈市から二戸市に至る一般国道である。"
-            },
-            {
-                "datetime": "202204062000",
-                "url": "https://ja.wikipedia.org/?curid=390789",
-                "title": "洞爺湖町",
-                "text": "〇〇は、北海道胆振総合振興局にある町。"
             }
         ]
     }

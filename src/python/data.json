@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月07日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2028932",
+                "title": "ザンザン地方",
+                "text": "〇〇は、コートジボワールの地方。面積38,000km²。州都はボンドークー。"
+            },
+            {
                 "datetime": "2022年04月07日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2770075",
                 "title": "三宅梢子",
@@ -233,12 +239,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2220786",
                 "title": "Special \"ONE\"",
                 "text": "〇〇は、ELISAの7作目のシングル。2010年10月27日にジェネオンエンタテインメントから発売された。"
-            },
-            {
-                "datetime": "202204062000",
-                "url": "https://ja.wikipedia.org/?curid=1495154",
-                "title": "強制採尿",
-                "text": "〇〇は、刑事事件において被疑者が捜査の過程で自分の尿を提出しない場合、医学的手段を用いて尿を採取すること。"
             }
         ]
     }

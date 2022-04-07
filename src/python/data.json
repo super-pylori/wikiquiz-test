@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月08日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1692265",
+                "title": "賈昱冰",
+                "text": "〇〇は、中華人民共和国・北京市出身のプロ野球選手（一塁手）。"
+            },
+            {
                 "datetime": "2022年04月07日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2526021",
                 "title": "小出雲村",
@@ -233,12 +239,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4005577",
                 "title": "可知照生",
                 "text": "〇〇は、日本の実業家。静岡ターミナルホテル代表取締役社長や、ジェイアール東海商事代表取締役社長を務めた。"
-            },
-            {
-                "datetime": "202204062000",
-                "url": "https://ja.wikipedia.org/?curid=1037959",
-                "title": "治平龍応",
-                "text": "〇〇は、ベトナム・李朝の高宗李龍𣉙の治世で使われた元号。1205年旧3月 - 1210年。"
             }
         ]
     }

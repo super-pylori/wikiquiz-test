@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月07日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=27719",
+                "title": "血圧",
+                "text": "〇〇は、血管内の血液の有する圧力のことである。一般には動脈の〇〇のことで、心臓の収縮期と拡張期の〇〇をいい、それぞれ収縮期〇〇（または最高〇〇、英: systolic blood pressure）、拡張期〇〇（または最低〇〇、英: diastolic blood pressure）と呼ぶ。単位は永年の慣行からSI単位のパスカル（Pa）ではなく、水銀柱ミリメートル（mmHg）を使用することがほとんどである。"
+            },
+            {
                 "datetime": "2022年04月07日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2794782",
                 "title": "トニック化",
@@ -233,12 +239,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1076191",
                 "title": "ボイシ (原子力潜水艦)",
                 "text": "〇〇は、アメリカ海軍のロサンゼルス級原子力潜水艦の53番艦。艦名はアイダホ州ボイシに因んで命名された。その名を持つ艦としてはブルックリン級軽巡洋艦6番艦(CL-47)以来2隻目。"
-            },
-            {
-                "datetime": "202204062000",
-                "url": "https://ja.wikipedia.org/?curid=2263454",
-                "title": "STARS (ORIGINAL LOVEの曲)",
-                "text": "〇〇は、1999年2月3日に発売されたORIGINAL LOVE通算14作目のシングル(SCD:PCDA-01134)。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月08日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2919989",
+                "title": "カラフルデイズ",
+                "text": "〇〇は、2014年1月22日にワーナーミュージック・ジャパンより発売されたLinQの8枚目、メジャー3作目のシングル。"
+            },
+            {
                 "datetime": "2022年04月08日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=30043",
                 "title": "サーメット",
@@ -234,11 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=589910",
                 "title": "松平正敬",
                 "text": "〇〇は、江戸時代後期の大名。上総大多喜藩の第6代藩主。大河内松平宗家8代。"
-            },
-            {
-                "url": "https://ja.wikipedia.org/?curid=1948995",
-                "title": "もみじ (郷土料理)",
-                "text": "〇〇は、大分県日田市の郷土料理。"
             }
         ]
     }

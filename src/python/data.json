@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月08日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2208482",
+                "title": "新世界創造記・後編",
+                "text": "〇〇は、WEAVERのアルバム。2010年9月29日発売。"
+            },
+            {
                 "datetime": "2022年04月08日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2919989",
                 "title": "カラフルデイズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4463989",
                 "title": "Who is Princess?",
                 "text": "〇〇は、日本の女性オーディション番組である。合格者の5名は「PRIKIL」として2022年5月にデビュー予定。"
-            },
-            {
-                "datetime": "202204062000",
-                "url": "https://ja.wikipedia.org/?curid=589910",
-                "title": "松平正敬",
-                "text": "〇〇は、江戸時代後期の大名。上総大多喜藩の第6代藩主。大河内松平宗家8代。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月08日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1621484",
+                "title": "みちのくひとり旅",
+                "text": "〇〇は、1980年8月5日に発売された山本譲二のシングルである。"
+            },
+            {
                 "datetime": "2022年04月08日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3772497",
                 "title": "マガダン州の行政区画",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=573956",
                 "title": "高野虎市",
                 "text": "〇〇は、喜劇王チャールズ・チャップリンの秘書・マネージャーとして有名な人物。広島県安佐郡八木村（現・広島市安佐南区八木 ）出身。"
-            },
-            {
-                "datetime": "2022年04月07日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4166221",
-                "title": "フランコ・マレー",
-                "text": "〇〇は、JAPAN RUGBY LEAGUE ONENTTドコモレッドハリケーンズ大阪に所属するラグビー選手。"
             }
         ]
     }

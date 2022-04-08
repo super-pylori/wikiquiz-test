@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月08日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3772497",
+                "title": "マガダン州の行政区画",
+                "text": "〇〇は、ロシア連邦、〇〇について記述する。マガダン州は2013年現在、8つの地区、2つの町、28の都市型集落、29の村(selsovets)からなる。。"
+            },
+            {
                 "datetime": "2022年04月08日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3580886",
                 "title": "本国寺のオハツキイチョウ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4166221",
                 "title": "フランコ・マレー",
                 "text": "〇〇は、JAPAN RUGBY LEAGUE ONENTTドコモレッドハリケーンズ大阪に所属するラグビー選手。"
-            },
-            {
-                "datetime": "2022年04月07日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4190212",
-                "title": "One more thing...",
-                "text": "〇〇は、Appleがスペシャルイベントの最後に、新しいプロダクト(もしくは大きな進化)を発表する際に利用しているフレーズである。2020年11月11日(日本時間)に開催されたApple Eventのイベント名でもある。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月10日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1584923",
+                "title": "エチュー",
+                "text": "〇〇は、北日本放送（KNB）のマスコットキャラクターである。"
+            },
+            {
                 "datetime": "2022年04月09日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3372403",
                 "title": "ケイティ・パスフィールド",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1134221",
                 "title": "日本のヒップホップ",
                 "text": "〇〇は、〇〇について解説する。"
-            },
-            {
-                "datetime": "2022年04月08日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1944360",
-                "title": "ナカラ",
-                "text": "〇〇は、モザンビーク北部の都市。人口207,894人（2007年）。ナンプーラ州に属し、モザンビーク島の北に位置する。"
             }
         ]
     }

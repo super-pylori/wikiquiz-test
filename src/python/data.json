@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月09日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3484063",
+                "title": "日川",
+                "text": "〇〇は、山梨県の甲州市を主に流れる、笛吹川の支流の一つの河川である。"
+            },
+            {
                 "datetime": "2022年04月09日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4459057",
                 "title": "岸本功",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2208482",
                 "title": "新世界創造記・後編",
                 "text": "〇〇は、WEAVERのアルバム。2010年9月29日発売。"
-            },
-            {
-                "datetime": "2022年04月08日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2919989",
-                "title": "カラフルデイズ",
-                "text": "〇〇は、2014年1月22日にワーナーミュージック・ジャパンより発売されたLinQの8枚目、メジャー3作目のシングル。"
             }
         ]
     }

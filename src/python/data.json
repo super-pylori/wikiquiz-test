@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月10日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4115747",
+                "title": "ハーヴィー・モレス (初代マウントモレス子爵)",
+                "text": "〇〇は、アイルランド王国の政治家、貴族。"
+            },
+            {
                 "datetime": "2022年04月10日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=287168",
                 "title": "相沢忠洋",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=687012",
                 "title": "清水有生",
                 "text": "〇〇は、日本の脚本家。東京都杉並区出身。日本脚本家連盟理事、日本放送作家協会理事。　"
-            },
-            {
-                "datetime": "2022年04月08日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1131570",
-                "title": "島本久恵",
-                "text": "〇〇は、日本の作家・詩人。"
             }
         ]
     }

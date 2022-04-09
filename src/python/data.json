@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月09日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4353807",
+                "title": "横林奈津子",
+                "text": "〇〇は、日本の女性声優。長野県出身。81プロデュース所属。"
+            },
+            {
                 "datetime": "2022年04月09日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3980781",
                 "title": "ドラゴン・アイ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1299337",
                 "title": "池上直己",
                 "text": "〇〇は、日本の医師・医療経済学者である。(〇〇博士肖像リンク)"
-            },
-            {
-                "datetime": "2022年04月08日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1692265",
-                "title": "賈昱冰",
-                "text": "〇〇は、中華人民共和国・北京市出身のプロ野球選手（一塁手）。"
             }
         ]
     }

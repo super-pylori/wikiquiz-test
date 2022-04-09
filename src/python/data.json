@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月09日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4065950",
+                "title": "マイアミ5",
+                "text": "〇〇は、1986年にアメリカで公開されたアクション映画である。テレビシリーズとして企画されたが、パイロットフィルムのみが作られ劇場公開作品となった。"
+            },
+            {
                 "datetime": "2022年04月09日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=363215",
                 "title": "ETL Mark III",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2561260",
                 "title": "スピード (BUCK-TICKの曲)",
                 "text": "〇〇は、日本のロックバンド、BUCK-TICKの4枚目のシングル。1991年1月21日にビクターインビテーションより発売された。"
-            },
-            {
-                "datetime": "2022年04月07日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1851078",
-                "title": "肉コップ",
-                "text": "〇〇は、日本のロックバンド・マキシマム ザ ホルモンの2枚目のシングルである。"
             }
         ]
     }

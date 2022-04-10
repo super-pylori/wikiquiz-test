@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月11日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1491424",
+                "title": "ジェイソン・ガードナー",
+                "text": "〇〇は、イギリスの陸上競技選手。2004年アテネオリンピックの金メダリストである。イングランド南西部サマセット州、バース出身。"
+            },
+            {
                 "datetime": "2022年04月11日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=64993",
                 "title": "国鉄キハ10系気動車",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=373828",
                 "title": "蔭山武人",
                 "text": "〇〇は、元NHKエグゼクティブアナウンサー、現在は広島経済大学教授。"
-            },
-            {
-                "datetime": "2022年04月09日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=424730",
-                "title": "アンナ・パヴロワ",
-                "text": "〇〇は、20世紀初頭のロシアのバレリーナ。"
             }
         ]
     }

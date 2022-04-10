@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月10日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3134478",
+                "title": "五島市立奥浦中学校",
+                "text": "〇〇は、長崎県五島市奥浦町にある公立中学校。"
+            },
+            {
                 "datetime": "2022年04月10日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2560133",
                 "title": "時事年鑑",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=898834",
                 "title": "猿江",
                 "text": "〇〇は、東京都江東区の地名で、旧深川区に当たる深川地域内である。現行行政地名は〇〇一丁目および〇〇二丁目。郵便番号は135-0003。"
-            },
-            {
-                "datetime": "2022年04月09日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3142232",
-                "title": "大木護",
-                "text": "〇〇は、静岡県出身の元プロ野球選手（外野手）。"
             }
         ]
     }

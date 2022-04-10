@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月10日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2732063",
+                "title": "鈴木豊 (バスケットボール)",
+                "text": "〇〇は、日本の男子プロバスケットボール選手である。ポジションはシューティングガード。190cm、80kg。北海道河西郡芽室町出身。"
+            },
+            {
                 "datetime": "2022年04月10日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=134076",
                 "title": "青年団",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3225936",
                 "title": "Re:BORN/Missing You",
                 "text": "〇〇は、日本のロックバンド・DREAMPOLICEの安藤誠之がソロ名義では初となる、2015年7月8日にリリースしたダブルA面シングル。"
-            },
-            {
-                "datetime": "2022年04月08日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1621484",
-                "title": "みちのくひとり旅",
-                "text": "〇〇は、1980年8月5日に発売された山本譲二のシングルである。"
             }
         ]
     }

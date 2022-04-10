@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月10日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4385101",
+                "title": "Slow Songs",
+                "text": "〇〇は、1991年8月28日にEPIC/SONY RECORDS/M's Factoryから発売された佐野元春のベスト・アルバム。"
+            },
+            {
                 "datetime": "2022年04月10日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=276355",
                 "title": "兜",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1699128",
                 "title": "ダイナスティカップ1990",
                 "text": "〇〇は、1990年7月27日から8月3日にかけて、中国の北京で開催された第1回目のダイナスティカップである。韓国が優勝し、初代王者となった。"
-            },
-            {
-                "datetime": "2022年04月08日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1314525",
-                "title": "ツール・ド・フランス1960",
-                "text": "〇〇は、ツール・ド・フランスとしては47回目の大会。1960年6月26日から7月17日まで、全21ステージで行われた。"
             }
         ]
     }

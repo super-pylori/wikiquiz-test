@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月11日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2553638",
+                "title": "福田萌子",
+                "text": "〇〇は、日本のモデル・タレント・リポーターである。元・株式会社DIVINE所属。2021年10月より、T-TRIBE ENTERTAINMENT所属。"
+            },
+            {
                 "datetime": "2022年04月11日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1491424",
                 "title": "ジェイソン・ガードナー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3115064",
                 "title": "カーティス・ミッチェル",
                 "text": "〇〇は、アメリカ合衆国フロリダ州出身の陸上競技選手。専門は短距離走。200mで19秒97の自己ベストを持つ。2013年モスクワ世界選手権男子200mの銅メダリストである。"
-            },
-            {
-                "datetime": "2022年04月09日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=373828",
-                "title": "蔭山武人",
-                "text": "〇〇は、元NHKエグゼクティブアナウンサー、現在は広島経済大学教授。"
             }
         ]
     }

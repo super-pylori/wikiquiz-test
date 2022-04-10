@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月11日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3049629",
+                "title": "共和民主連合 (ガボン)",
+                "text": "〇〇は、ガボンの政党。2006年12月17日から12月24日の総選挙では下院国民議会に1議席を獲得した。"
+            },
+            {
                 "datetime": "2022年04月11日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4306928",
                 "title": "2021年Billboard Japan Download Songs1位の一覧",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=405489",
                 "title": "トニー・ウィリアムス",
                 "text": "〇〇は、アメリカ合衆国イリノイ州シカゴ生まれのジャズ・ミュージシャン、ドラム奏者、作曲家。"
-            },
-            {
-                "datetime": "2022年04月09日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3878483",
-                "title": "Million Clouds",
-                "text": "〇〇は、坂本真綾の26枚目のシングル。2016年7月27日にFlying Dogから発売された。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月10日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2560133",
+                "title": "時事年鑑",
+                "text": "〇〇は、時事新報社および時事通信社にて、1918年から1994年にかけて断続的に発行された年鑑である。"
+            },
+            {
                 "datetime": "2022年04月10日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1957955",
                 "title": "元八王子町",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3142232",
                 "title": "大木護",
                 "text": "〇〇は、静岡県出身の元プロ野球選手（外野手）。"
-            },
-            {
-                "datetime": "2022年04月09日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2692914",
-                "title": "金野線",
-                "text": "〇〇は、朝鮮民主主義人民共和国咸鏡南道金野郡にある金野駅から豊南駅までを結ぶ鉄道路線である。"
             }
         ]
     }

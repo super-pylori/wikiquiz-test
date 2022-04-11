@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月11日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2198635",
+                "title": "ローデンベルク",
+                "text": "〇〇は、ドイツ連邦共和国ニーダーザクセン州シャウムブルク郡東部の市である。ザムトゲマインデ・〇〇に属し、その本部所在地である。"
+            },
+            {
                 "datetime": "2022年04月11日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3893228",
                 "title": "マンション建替え",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1820679",
                 "title": "Purity",
                 "text": "〇〇は、1997年にリリースされた来生たかおの19枚目のオリジナル・アルバムCDである。規格品番はCOCA-14021。"
-            },
-            {
-                "datetime": "2022年04月10日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1268445",
-                "title": "アクアリア",
-                "text": "〇〇は、ブラジルのヘヴィメタルバンド。"
             }
         ]
     }

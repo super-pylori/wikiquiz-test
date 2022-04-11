@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月11日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1911818",
+                "title": "津田正真",
+                "text": "〇〇は、加賀藩の重臣、人持組津田玄蕃家第3代当主。父は津田正忠。子は津田正右（病身のため嫡を辞す）、津田孟昭。通称内蔵助、玄蕃。号仙令。"
+            },
+            {
                 "datetime": "2022年04月11日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1625326",
                 "title": "秋元順子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4459057",
                 "title": "岸本功",
                 "text": "〇〇は、日本の俳優。東京都出身。東京俳優生活協同組合所属。"
-            },
-            {
-                "datetime": "2022年04月09日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3588511",
-                "title": "池田裕汰",
-                "text": "〇〇は、北海道帯広市出身のプロサッカー選手。ポジションは主にディフェンダー (DF)。"
             }
         ]
     }

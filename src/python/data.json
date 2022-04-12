@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月12日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1725245",
+                "title": "山彦源四郎",
+                "text": "〇〇は、河東節の三味線方の名跡。"
+            },
+            {
                 "datetime": "2022年04月12日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1683649",
                 "title": "E60号線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3678486",
                 "title": "ALL! V・ファーレン",
                 "text": "〇〇は、長崎国際テレビで放送されているJリーグ・V・ファーレン長崎のサッカー情報番組である、2017年度は長崎県内の民放テレビ局4社で放送されていた。"
-            },
-            {
-                "datetime": "2022年04月10日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3134478",
-                "title": "五島市立奥浦中学校",
-                "text": "〇〇は、長崎県五島市奥浦町にある公立中学校。"
             }
         ]
     }

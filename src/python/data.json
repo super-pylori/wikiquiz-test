@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月14日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2381857",
+                "title": "ポンポン ポロロ",
+                "text": "〇〇は、韓国のIconix Entertainment制作のCGアニメーションである。"
+            },
+            {
                 "datetime": "2022年04月14日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3314028",
                 "title": "マケフ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3925296",
                 "title": "ジョバンニ・コルテ",
                 "text": "〇〇は、オランダ・南ホラント州デン・ハーグ出身のサッカー選手。エールステ・ディヴィジ・SCカンブール・レーワルデン所属。ポジションはフォワード。"
-            },
-            {
-                "datetime": "2022年04月12日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3889432",
-                "title": "八千代市立高津中学校",
-                "text": "〇〇は、千葉県八千代市高津にある公立中学校。近くには八千代市立高津小学校がある。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月13日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2712833",
+                "title": "朴玹珍",
+                "text": "〇〇は、大韓民国・京畿道高陽市出身のサッカー選手。ポジションは、ミッドフィールダー。"
+            },
+            {
                 "datetime": "2022年04月13日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=817516",
                 "title": "ジェームズ・マクファデン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3425831",
                 "title": "アンナ・リータ・デル・ピアーノ",
                 "text": "〇〇は、イタリアの女優、劇場ディレクター。"
-            },
-            {
-                "datetime": "2022年04月11日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=816852",
-                "title": "鎌倉ハム (名古屋市)",
-                "text": "〇〇は、愛知県名古屋市中村区に本社を置く食品加工メーカーである。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月13日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4316938",
+                "title": "青地伯水",
+                "text": "〇〇は、日本のドイツ文学者。京都府立大学文学部長・教授。日本独文学会京都支部の渉外・広報委員。"
+            },
+            {
                 "datetime": "2022年04月13日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=302121",
                 "title": "ルイス・ブニュエル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=872639",
                 "title": "太平 (遼)",
                 "text": "〇〇は、遼の聖宗耶律文殊奴の治世に使用された元号。1021年 - 1030年。7年：修正法を公布。"
-            },
-            {
-                "datetime": "2022年04月11日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4334095",
-                "title": "諏訪公園 (三好市)",
-                "text": "〇〇は、徳島県三好市池田町ウヱノにある総合公園である。"
             }
         ]
     }

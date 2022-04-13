@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月14日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3112245",
+                "title": "ビニルアセチル-CoA Δイソメラーゼ",
+                "text": "〇〇は、以下の化学反応を触媒する酵素である。ビニルアセチルCoA                    ⇌              {\\displaystyle \\rightleftharpoons }  クロトニルCoA従って、この酵素の基質はビニルアセチルCoAのみ、生成物はクロトニルCoAのみである。この酵素は異性化酵素、特にC=C結合を転移する分子内酸化還元酵素に分類される。系統名は、ビニルアセチル-CoA Δ3-Δ2-イソメラーゼ(vinylacetyl-CoA Delta3-Delta2-isomerase)である。この酵素は、ブタン酸代謝に関与している。"
+            },
+            {
                 "datetime": "2022年04月13日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1766193",
                 "title": "カーロイ4世の復帰運動",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=180533",
                 "title": "道の駅久米の里",
                 "text": "〇〇は、岡山県津山市にある国道181号の道の駅である。"
-            },
-            {
-                "datetime": "2022年04月12日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3008514",
-                "title": "スティーヴン・ケンドリック",
-                "text": "〇〇は、アメリカ合衆国の映画プロデューサー。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月14日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=170601",
+                "title": "堀久作",
+                "text": "〇〇は、日本の実業家。映画会社日活の元社長。"
+            },
+            {
                 "datetime": "2022年04月14日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2134224",
                 "title": "オルデス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2208534",
                 "title": "KFBニュースレーダー",
                 "text": "〇〇は、1986年9月29日から1989年3月31日まで福島放送で放送された平日夕方の福島県向けローカルワイドニュース番組である（『ANNニュースレーダー』の福島県ローカルパート扱い）。"
-            },
-            {
-                "datetime": "2022年04月12日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3725692",
-                "title": "カラタル川",
-                "text": "〇〇は、カザフスタンの川。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月13日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=966373",
+                "title": "サンタ・マルゲリータ・ダーディジェ",
+                "text": "〇〇は、イタリア共和国ヴェネト州パドヴァ県ボルゴ・ヴェーネトに属する分離集落（フラツィオーネ）。かつては独立したコムーネであったが、2018年2月17日にメリアディーノ・サン・フィデンツィオ、サレットと合併して新自治体の一部となった。"
+            },
+            {
                 "datetime": "2022年04月13日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1012775",
                 "title": "AUDIO LIFE",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1671492",
                 "title": "鳥羽屋里長",
                 "text": "〇〇は、長唄豊後節三味線方の名跡。"
-            },
-            {
-                "datetime": "2022年04月12日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3002838",
-                "title": "C13H18N2O3",
-                "text": "〇〇は、ヘプタバルブラコサミド"
             }
         ]
     }

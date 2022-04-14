@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月14日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3085916",
+                "title": "少女☆タコサム",
+                "text": "〇〇は、東京都西東京市出身の振り付け師、ダンサー、タレント、芸人。旧芸名は、〇〇。"
+            },
+            {
                 "datetime": "2022年04月14日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3582491",
                 "title": "ニコラジパーク",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1342818",
                 "title": "エロール・ジマーマン",
                 "text": "〇〇は、オランダのキックボクサー。キュラソー系オランダ人。ゴールデン・グローリー所属。"
-            },
-            {
-                "datetime": "2022年04月12日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1725245",
-                "title": "山彦源四郎",
-                "text": "〇〇は、河東節の三味線方の名跡。"
             }
         ]
     }

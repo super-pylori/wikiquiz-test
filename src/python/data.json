@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月15日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4103924",
+                "title": "小林忠兵衛",
+                "text": "〇〇は、日本の実業家。小林盛大堂（現在の小林製薬）の創業者。藤井得三郎商店（現在の龍角散）とともに販売ルートを確立していった。"
+            },
+            {
                 "datetime": "2022年04月15日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2058893",
                 "title": "郡山運転免許センター",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3470925",
                 "title": "N album",
                 "text": "〇〇は、KinKi Kidsの15枚目のオリジナル・アルバム。2016年9月21日に発売。発売元はジャニーズ・エンタテイメント。"
-            },
-            {
-                "datetime": "2022年04月13日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2712833",
-                "title": "朴玹珍",
-                "text": "〇〇は、大韓民国・京畿道高陽市出身のサッカー選手。ポジションは、ミッドフィールダー。"
             }
         ]
     }

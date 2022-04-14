@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月15日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=737086",
+                "title": "学校法人上野学園 (東京都)",
+                "text": "〇〇は、東京都台東区に本部を置く学校法人。音楽大学である上野学園大学とその附属校を設置する。広島県に本部を置き、広島市内で専門学校を経営する〇〇(広島県)とは無関係である。"
+            },
+            {
                 "datetime": "2022年04月15日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4103924",
                 "title": "小林忠兵衛",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3936413",
                 "title": "土井正徳",
                 "text": "〇〇は、日本の精神医学者。"
-            },
-            {
-                "datetime": "2022年04月13日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3470925",
-                "title": "N album",
-                "text": "〇〇は、KinKi Kidsの15枚目のオリジナル・アルバム。2016年9月21日に発売。発売元はジャニーズ・エンタテイメント。"
             }
         ]
     }

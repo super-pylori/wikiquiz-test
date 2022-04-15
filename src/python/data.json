@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月15日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2365448",
+                "title": "水島絵理",
+                "text": "〇〇は、NHK静岡放送局の元契約キャスター。"
+            },
+            {
                 "datetime": "2022年04月15日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=907643",
                 "title": "北海道道253号東山富良野停車場線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1012775",
                 "title": "AUDIO LIFE",
                 "text": "〇〇は、1999年に行われた坂本龍一のオペラ『LIFE a ryuichi sakamoto opera 1999』からベストテイクを抽出したアルバム。2000年2月23日にワーナーミュージック・ジャパンからリリースされた。"
-            },
-            {
-                "datetime": "2022年04月13日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3460986",
-                "title": "ジドゥ・エル・モクタール",
-                "text": "〇〇は、男子200mに出場し、自己ベストを記録した。また、開会式の旗手も務めた。2016年のリオデジャネイロオリンピックでは、男子100mに出場した。また、再び開会式の旗手も務めた。"
             }
         ]
     }

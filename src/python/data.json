@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月16日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1319649",
+                "title": "X JAPAN Virtual Shock 001",
+                "text": "〇〇は、1995年10月20日にセガから発売されたセガサターン用アドベンチャーゲーム。"
+            },
+            {
                 "datetime": "2022年04月16日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3319401",
                 "title": "どぶろく祭り",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3028205",
                 "title": "ファイブスター物語の登場兵器",
                 "text": "〇〇は、永野護の漫画『ファイブスター物語』に登場する架空の兵器の一覧である。"
-            },
-            {
-                "datetime": "2022年04月15日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3815900",
-                "title": "ニューメキシコハシリトカゲ",
-                "text": "〇〇は、爬虫綱有鱗目テグートカゲ科Aspidoscelis属に分類されるトカゲ類。"
             }
         ]
     }

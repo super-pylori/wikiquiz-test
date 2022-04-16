@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月17日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1852151",
+                "title": "阿波市立一条小学校",
+                "text": "〇〇は、徳島県阿波市吉野町西条にある公立小学校。"
+            },
+            {
                 "datetime": "2022年04月17日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=301118",
                 "title": "中央通り (東京都)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2541130",
                 "title": "辻尾敏明",
                 "text": "〇〇は、日本の実業家。佐川急便代表取締役社長（2012年3月～2013年2月）。息子はプロサッカー選手の辻尾真二。"
-            },
-            {
-                "datetime": "2022年04月15日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4086260",
-                "title": "宮越郷平",
-                "text": "〇〇は、日本の作家。秋田県出身。本名、道晃（どうこう）。"
             }
         ]
     }

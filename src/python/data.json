@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月16日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2597105",
+                "title": "音楽の日",
+                "text": "〇〇は、TBS系列で2011年から毎年（主に夏）に生放送されている大型音楽番組。"
+            },
+            {
                 "datetime": "2022年04月16日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=615050",
                 "title": "クライトン・アルベルト・フォントーラ・ドス・サントス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4234889",
                 "title": "園田実彦",
                 "text": "〇〇は、日本の映画プロデューサー。"
-            },
-            {
-                "datetime": "2022年04月15日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3765625",
-                "title": "ヘッドクリーナー",
-                "text": "〇〇は、磁気テープ装置の記録（録音・録画）ヘッド・再生ヘッドをクリーニングするための用具である。"
             }
         ]
     }

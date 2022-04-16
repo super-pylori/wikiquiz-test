@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月17日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=937224",
+                "title": "山梨県道24号都留道志線",
+                "text": "〇〇は、山梨県都留市から南都留郡道志村に至る県道（主要地方道）である。"
+            },
+            {
                 "datetime": "2022年04月17日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=61393",
                 "title": "イノシシ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2889113",
                 "title": "1999年の宝塚歌劇公演一覧",
                 "text": "〇〇は、〇〇（1999ねんのたからづかかげきこうえんいちらん）について示す。"
-            },
-            {
-                "datetime": "2022年04月15日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2365448",
-                "title": "水島絵理",
-                "text": "〇〇は、NHK静岡放送局の元契約キャスター。"
             }
         ]
     }

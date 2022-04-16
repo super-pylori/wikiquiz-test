@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月17日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=61393",
+                "title": "イノシシ",
+                "text": "〇〇は、鯨偶蹄目〇〇科の1種。"
+            },
+            {
                 "datetime": "2022年04月17日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4053029",
                 "title": "殿辻",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2365448",
                 "title": "水島絵理",
                 "text": "〇〇は、NHK静岡放送局の元契約キャスター。"
-            },
-            {
-                "datetime": "2022年04月15日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=907643",
-                "title": "北海道道253号東山富良野停車場線",
-                "text": "〇〇は、北海道富良野市内を結ぶ一般道道（北海道道）である。"
             }
         ]
     }

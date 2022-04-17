@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月18日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3292165",
+                "title": "二戸義則",
+                "text": "〇〇は、日本の元俳優。東京都葛飾区出身。"
+            },
+            {
                 "datetime": "2022年04月18日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4242733",
                 "title": "浅虫温泉ねぶた祭り",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=389410",
                 "title": "レッチワース",
                 "text": "〇〇は、ロンドン郊外の都市で、エベネザー・ハワード（1850年 - 1928年）が提唱した田園都市（Garden City）の理念に基づいて建設された最初の田園都市（タウン）。"
-            },
-            {
-                "datetime": "2022年04月16日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1584337",
-                "title": "大人はわかってくれない",
-                "text": "〇〇は、立花理佐の2枚目のシングル。1987年7月22日に東芝EMIから発売された。"
             }
         ]
     }

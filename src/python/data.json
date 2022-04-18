@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月18日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2678771",
+                "title": "渋沢葉",
+                "text": "〇〇は、日本の女性シンガーソングライター。千葉県出身。所属レコード会社はビクターエンタテインメントのGetting Betterレーベル、所属事務所はスマイルカンパニー。"
+            },
+            {
                 "datetime": "2022年04月18日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=436003",
                 "title": "惑星系",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4053029",
                 "title": "殿辻",
                 "text": "〇〇は、大阪府大阪市住吉区にある町名。現行行政地名は〇〇一丁目および〇〇二丁目。"
-            },
-            {
-                "datetime": "2022年04月17日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1852151",
-                "title": "阿波市立一条小学校",
-                "text": "〇〇は、徳島県阿波市吉野町西条にある公立小学校。"
             }
         ]
     }

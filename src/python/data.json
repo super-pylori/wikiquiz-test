@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月19日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3928772",
+                "title": "浜島健爾",
+                "text": "〇〇は、日本の実業家。ウシオ電機株式会社代表取締役社長を務めた。"
+            },
+            {
                 "datetime": "2022年04月18日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2678771",
                 "title": "渋沢葉",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=61393",
                 "title": "イノシシ",
                 "text": "〇〇は、鯨偶蹄目〇〇科の1種。"
-            },
-            {
-                "datetime": "2022年04月17日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4053029",
-                "title": "殿辻",
-                "text": "〇〇は、大阪府大阪市住吉区にある町名。現行行政地名は〇〇一丁目および〇〇二丁目。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月19日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1591179",
+                "title": "パオロ・ジョヴィオ",
+                "text": "〇〇は、イタリアの医師、歴史学者、伝記作家、聖職者。有名人の伝記、イタリア戦争の記録を残す。"
+            },
+            {
                 "datetime": "2022年04月19日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1048978",
                 "title": "ホソバノウナギツカミ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2347882",
                 "title": "三樹青生",
                 "text": "〇〇は、日本の翻訳家、作家。編集者の三樹創作は実子。"
-            },
-            {
-                "datetime": "2022年04月17日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=937224",
-                "title": "山梨県道24号都留道志線",
-                "text": "〇〇は、山梨県都留市から南都留郡道志村に至る県道（主要地方道）である。"
             }
         ]
     }

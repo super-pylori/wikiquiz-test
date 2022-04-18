@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月18日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=221360",
+                "title": "爵青",
+                "text": "〇〇は、満洲国で活動した中国の小説家。本名は劉佩（りゅうはい）。"
+            },
+            {
                 "datetime": "2022年04月18日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2253126",
                 "title": "岸本正広",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3254832",
                 "title": "国後 (海防艦)",
                 "text": "〇〇は、日本海軍の海防艦。この名を持つ帝国海軍の艦船としては運送船「国後丸」（くなじりまる）に次いで2代目。艦名は国後島にちなむ。"
-            },
-            {
-                "datetime": "2022年04月16日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1032384",
-                "title": "中村彰彦",
-                "text": "〇〇は、日本の小説家。本名は加藤 保栄（かとう やすえい）。"
             }
         ]
     }

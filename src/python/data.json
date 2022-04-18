@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月19日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1048978",
+                "title": "ホソバノウナギツカミ",
+                "text": "〇〇は、タデ科イヌタデ属の草本。タデ属（Polygonum）に含められることもある。"
+            },
+            {
                 "datetime": "2022年04月19日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3928772",
                 "title": "浜島健爾",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=937224",
                 "title": "山梨県道24号都留道志線",
                 "text": "〇〇は、山梨県都留市から南都留郡道志村に至る県道（主要地方道）である。"
-            },
-            {
-                "datetime": "2022年04月17日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=61393",
-                "title": "イノシシ",
-                "text": "〇〇は、鯨偶蹄目〇〇科の1種。"
             }
         ]
     }

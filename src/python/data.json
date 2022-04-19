@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月20日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3381434",
+                "title": "NAOKO LIVE",
+                "text": "〇〇は、2001年5月23日にリリースされた寺井尚子の初めてのライブ・アルバムである。"
+            },
+            {
                 "datetime": "2022年04月20日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3987068",
                 "title": "福岡音楽学院附属幼稚園",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=221360",
                 "title": "爵青",
                 "text": "〇〇は、満洲国で活動した中国の小説家。本名は劉佩（りゅうはい）。"
-            },
-            {
-                "datetime": "2022年04月18日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2253126",
-                "title": "岸本正広",
-                "text": "〇〇は、日本映画の撮影技師、撮影監督。東京都出身。"
             }
         ]
     }

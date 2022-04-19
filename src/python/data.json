@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月20日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3987068",
+                "title": "福岡音楽学院附属幼稚園",
+                "text": "〇〇は、福岡県福岡市南区平和にある私立幼稚園。"
+            },
+            {
                 "datetime": "2022年04月20日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2439964",
                 "title": "徳川熙",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2253126",
                 "title": "岸本正広",
                 "text": "〇〇は、日本映画の撮影技師、撮影監督。東京都出身。"
-            },
-            {
-                "datetime": "2022年04月18日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2337294",
-                "title": "御影京子",
-                "text": "〇〇は、日本の元女優。本名、河村 多美子。東京都出身。京都西山高等学校卒業。"
             }
         ]
     }

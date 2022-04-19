@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月19日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2247491",
+                "title": "奥野翔太",
+                "text": "〇〇は、日本のベーシスト、作曲家。現在はWEAVERのベーシストとして活動中。"
+            },
+            {
                 "datetime": "2022年04月19日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2870512",
                 "title": "フランスの医療",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2216468",
                 "title": "成安造形大学",
                 "text": "〇〇は、滋賀県大津市仰木の里東4-3-1に本部を置く日本の私立大学である。1993年に設置された。大学の略称は成安、成安造形大など。"
-            },
-            {
-                "datetime": "2022年04月17日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3039205",
-                "title": "HipHop Virtual Machine",
-                "text": "〇〇は、実行時コンパイラ (JIT) 方式でPHPおよびHackといったプログラミング言語を実行する、仮想機械型の処理系である。HHVMで実行する場合、PHPやHackのコードは、JITコンパイルの過程でまず中間言語のHipHopバイトコード (HHBC) に変換され、さらに動的にx64の機械語へとコンパイル・最適化を行った上で実行される。これに対し、公式のPHP実装であるZend Engineでは、PHPのコードを中間表現に変換した上で、中間表現をそのまま実行している。HHVMはFacebook社が開発しており、Github上にあるソースコードはPHP LicenseとZend Licenseのもと公開されている。2018年9月12日、Facebookの開発チームはPHPのサポートを段階的に終了することを発表し、同年9月18日にはHHVMのPHP 5のサポートを終了すると同時に、以降はHackに注力し、PHP 7の新しい機能も積極的には実装しないことを発表した。"
             }
         ]
     }

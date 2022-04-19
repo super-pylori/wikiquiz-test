@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月20日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3794324",
+                "title": "高木健次郎",
+                "text": "〇〇は、日本の経済学者。"
+            },
+            {
                 "datetime": "2022年04月19日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=497580",
                 "title": "US3",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3915052",
                 "title": "一瞬のまばたきみたいに消えてしまう僕らはきらめき",
                 "text": "〇〇は、榊いずみ通算9枚目のオリジナル・アルバム。2011年7月18日にFamily Tree Recordsから発売された。規格品番はFTR-CD001。"
-            },
-            {
-                "datetime": "2022年04月18日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1885932",
-                "title": "トム・チェンバース",
-                "text": "〇〇は、アメリカ合衆国ユタ州オグデン出身の元プロバスケットボール選手。ポジションはパワーフォワード。"
             }
         ]
     }

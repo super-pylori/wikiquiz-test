@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月21日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3718308",
+                "title": "Best Regards!",
+                "text": "〇〇は、渡辺麻友の1作目かつ最後のアルバム。2017年12月20日にソニー・ミュージックレーベルズ（Sony Records）から発売された。"
+            },
+            {
                 "datetime": "2022年04月21日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2632969",
                 "title": "腺性歯原性嚢胞",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4035241",
                 "title": "Pixel 4",
                 "text": "〇〇は、アメリカのGoogleによって開発された第4世代移動通信システム対応のSIMフリースマートフォンである。〇〇と〇〇 XLの2種類のモデルによる展開。2019年10月15日（東部標準時）に行われたイベント「Made by Google」において日本での発売が正式発表され、10月24日よりGoogleストアとソフトバンクから発売が開始された。"
-            },
-            {
-                "datetime": "2022年04月19日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=27188",
-                "title": "ASローマ",
-                "text": "〇〇は、イタリア・ローマを本拠地とするサッカークラブである。"
             }
         ]
     }

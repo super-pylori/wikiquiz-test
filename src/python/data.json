@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月20日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=891643",
+                "title": "MEGAWEB",
+                "text": "〇〇は、東京都江東区青海のパレットタウン内に存在していた、トヨタ自動車の展示ショールームである。2021年12月31日閉館。"
+            },
+            {
                 "datetime": "2022年04月20日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2692953",
                 "title": "龍岩線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1048978",
                 "title": "ホソバノウナギツカミ",
                 "text": "〇〇は、タデ科イヌタデ属の草本。タデ属（Polygonum）に含められることもある。"
-            },
-            {
-                "datetime": "2022年04月19日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3928772",
-                "title": "浜島健爾",
-                "text": "〇〇は、日本の実業家。ウシオ電機株式会社代表取締役社長を務めた。"
             }
         ]
     }

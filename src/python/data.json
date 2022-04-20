@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月20日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1440823",
+                "title": "Major Wave シリーズ",
+                "text": "〇〇は、ハムスターが発売しているプレイステーション用廉価版ソフトのシリーズである。"
+            },
+            {
                 "datetime": "2022年04月20日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=891643",
                 "title": "MEGAWEB",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1591179",
                 "title": "パオロ・ジョヴィオ",
                 "text": "〇〇は、イタリアの医師、歴史学者、伝記作家、聖職者。有名人の伝記、イタリア戦争の記録を残す。"
-            },
-            {
-                "datetime": "2022年04月19日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1048978",
-                "title": "ホソバノウナギツカミ",
-                "text": "〇〇は、タデ科イヌタデ属の草本。タデ属（Polygonum）に含められることもある。"
             }
         ]
     }

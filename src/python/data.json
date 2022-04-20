@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月21日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2632969",
+                "title": "腺性歯原性嚢胞",
+                "text": "〇〇は、単房性もしくは多房性の透過像を示す。1988年にGardnerらによって報告され、1992年のWHO分類にて歯原性発育性嚢胞の一種と分類された稀な疾患。"
+            },
+            {
                 "datetime": "2022年04月21日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1885805",
                 "title": "佐伯有清",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=27188",
                 "title": "ASローマ",
                 "text": "〇〇は、イタリア・ローマを本拠地とするサッカークラブである。"
-            },
-            {
-                "datetime": "2022年04月19日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4461007",
-                "title": "ハッピージャパン",
-                "text": "〇〇は、山形県山形市に本社を置く、ミシン、食品加工機器などの製造・販売を手掛ける企業である。"
             }
         ]
     }

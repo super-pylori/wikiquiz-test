@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月20日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2692953",
+                "title": "龍岩線",
+                "text": "〇〇は、朝鮮民主主義人民共和国平安北道球場郡にある球場青年駅から龍岩駅までを結ぶ鉄道路線である。"
+            },
+            {
                 "datetime": "2022年04月20日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=81885",
                 "title": "南あわじ市",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3928772",
                 "title": "浜島健爾",
                 "text": "〇〇は、日本の実業家。ウシオ電機株式会社代表取締役社長を務めた。"
-            },
-            {
-                "datetime": "2022年04月18日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2678771",
-                "title": "渋沢葉",
-                "text": "〇〇は、日本の女性シンガーソングライター。千葉県出身。所属レコード会社はビクターエンタテインメントのGetting Betterレーベル、所属事務所はスマイルカンパニー。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月21日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1065884",
+                "title": "アルバトロス級ミサイル艇",
+                "text": "〇〇は、西ドイツ海軍および統一ドイツ海軍のSボート（ミサイル艇）の艦級。公称艦型は143型（Klasse-143）。"
+            },
+            {
                 "datetime": "2022年04月21日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=490060",
                 "title": "マニンドラ・アグラワル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=303383",
                 "title": "音楽の泉",
                 "text": "〇〇は、NHKラジオ第1及びNHKワールド・ラジオ日本で放送されるクラシック音楽の専門番組である。"
-            },
-            {
-                "datetime": "2022年04月20日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3794324",
-                "title": "高木健次郎",
-                "text": "〇〇は、日本の経済学者。"
             }
         ]
     }

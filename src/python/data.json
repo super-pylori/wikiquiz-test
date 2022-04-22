@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月23日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1964325",
+                "title": "Ubuntu-Title",
+                "text": "〇〇は、全体的に丸みを帯びた形のサンセリフのフォントである。Andy Fitzsimonによって、Linuxディストリビューションの1つであるUbuntu及びその派生品のために作成された。GNU Lesser General Public Licenseで配布されている。Ubuntu 10.04より前まで、タイプフェイスはUbuntuオペレーティングシステムとそれに関連するプロジェクトのブランディングに使用されていた。Fitzsimonは大文字をデザインしなかったが、後にRobotoフォントを作ったChristian Robertsonによるリリースで大文字が追加され、Robertsonによってリリース候補段階で公開された。これはUbuntu Titlingと呼ばれた。フォントは、Ubuntu Wikiのページからダウンロードするか、Ubuntuリポジトリの「fonts-ubuntu-title」パッケージでインストールできる。"
+            },
+            {
                 "datetime": "2022年04月23日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=417265",
                 "title": "限界集落",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3711841",
                 "title": "菅澤庸子",
                 "text": "〇〇は、日本の歴史学者、財団法人世界人権問題研究センター研究員。専門は日朝関係史。"
-            },
-            {
-                "datetime": "2022年04月21日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=19791",
-                "title": "三原順",
-                "text": "〇〇は、日本の漫画家。北海道札幌市出身。42歳で病没。〇〇のペンネームは、ファンであったグループサウンズバンド「ジャッキー吉川とブルーコメッツ」のギタリスト・ボーカリスト三原綱木にちなむ。また、生前は当人の意向により、本名等は一切公表されていなかった。"
             }
         ]
     }

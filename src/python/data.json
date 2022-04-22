@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月23日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=533999",
+                "title": "Everything (It's you)",
+                "text": "〇〇は、日本のバンド・Mr.Childrenの13枚目のシングルである。1997年2月5日にトイズファクトリーより発売された。"
+            },
+            {
                 "datetime": "2022年04月22日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=43332",
                 "title": "Ju 87 (航空機)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2632969",
                 "title": "腺性歯原性嚢胞",
                 "text": "〇〇は、単房性もしくは多房性の透過像を示す。1988年にGardnerらによって報告され、1992年のWHO分類にて歯原性発育性嚢胞の一種と分類された稀な疾患。"
-            },
-            {
-                "datetime": "2022年04月21日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1885805",
-                "title": "佐伯有清",
-                "text": "〇〇は、日本の歴史学者。"
             }
         ]
     }

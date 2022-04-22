@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月22日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3099635",
+                "title": "諸葛志潤",
+                "text": "〇〇は、中国三国時代の天才的軍師・諸葛亮（191年～234年）の直系子孫で画家。"
+            },
+            {
                 "datetime": "2022年04月22日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1760102",
                 "title": "サニーwithチャンス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2692953",
                 "title": "龍岩線",
                 "text": "〇〇は、朝鮮民主主義人民共和国平安北道球場郡にある球場青年駅から龍岩駅までを結ぶ鉄道路線である。"
-            },
-            {
-                "datetime": "2022年04月20日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=81885",
-                "title": "南あわじ市",
-                "text": "〇〇は、兵庫県南部の淡路島最南端（県全体としても南端）に位置する市。"
             }
         ]
     }

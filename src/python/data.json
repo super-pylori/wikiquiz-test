@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月24日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=959080",
+                "title": "プライオリティ・パス",
+                "text": "〇〇は、空港ラウンジに関するサービスを提供する企業である。また、同社が提供するサービスの名称である。"
+            },
+            {
                 "datetime": "2022年04月24日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=464776",
                 "title": "京王運輸",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=886783",
                 "title": "リー・イングルビー",
                 "text": "〇〇は、イギリス・ランカシャー州バーンリー出身の俳優。身長は178cm。父も俳優のゴードン・イングルビーである。London Academy of Music and Dramatic Artで演技を学び、イギリスでは多くのテレビシリーズに出演。映画やテレビに出演していないときは、積極的に舞台に出演している。"
-            },
-            {
-                "datetime": "2022年04月22日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2785416",
-                "title": "NGC 4372",
-                "text": "〇〇は、はえ座にある球状星団である。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月23日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2252589",
+                "title": "デイ・アフター 首都水没",
+                "text": "〇〇は、2007年製作のイギリス映画。ロンドンが洪水に襲われる、パニック映画である。日本では、標記邦題でDVD発売、テレビ放送されている。"
+            },
+            {
                 "datetime": "2022年04月23日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=5705",
                 "title": "五行 (イスラム教)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=328302",
                 "title": "クリップラー・クロスフェイス",
                 "text": "〇〇は、プロレス技の一種である。クロスフェイス（Cross Face）、クロスフェイスロック（Cross Face Lock）とも呼ばれる。"
-            },
-            {
-                "datetime": "2022年04月21日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4240760",
-                "title": "宮井陸郎",
-                "text": "〇〇は、日本の映像作家、アーティスト。島根県出身。父は、夏目漱石研究家の宮井一郎。"
             }
         ]
     }

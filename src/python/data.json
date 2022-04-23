@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月24日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=464776",
+                "title": "京王運輸",
+                "text": "〇〇は、首都圏や信越地方を中心とする物流業務を営む会社で、主に京王百貨店の贈答品の配送や、引越業務を執り行っている。京王グループに属する。本社は東京都多摩市。"
+            },
+            {
                 "datetime": "2022年04月24日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1104763",
                 "title": "先行",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2785416",
                 "title": "NGC 4372",
                 "text": "〇〇は、はえ座にある球状星団である。"
-            },
-            {
-                "datetime": "2022年04月22日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3724310",
-                "title": "姫路市立家島中学校",
-                "text": "〇〇は、兵庫県姫路市家島町宮に所在する公立中学校。"
             }
         ]
     }

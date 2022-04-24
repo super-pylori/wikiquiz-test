@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月25日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1012973",
+                "title": "ミシェル・シャミヤール",
+                "text": "〇〇は、フランスの政治家。ルイ14世の下で国務卿（大臣）を務めた。"
+            },
+            {
                 "datetime": "2022年04月25日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2168162",
                 "title": "速鳥丸",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2786710",
                 "title": "インフィニティ・Q50",
                 "text": "〇〇は、日産自動車の高級車部門であるインフィニティによって製造・販売される高級乗用車である。"
-            },
-            {
-                "datetime": "2022年04月23日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1218979",
-                "title": "ヴェラ・クルーゾー",
-                "text": "〇〇は、夫が演出した『悪魔のような女』(1955)である。"
             }
         ]
     }

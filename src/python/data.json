@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月26日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4579764",
+                "title": "中島彰一",
+                "text": "〇〇は、茨城県石岡市出身の元アマチュア野球選手（捕手）、野球指導者。"
+            },
+            {
                 "datetime": "2022年04月25日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3826322",
                 "title": "静岡県を舞台とした作品一覧",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4166979",
                 "title": "西貝塚環境センター",
                 "text": "〇〇は、埼玉県上尾市大字西貝塚にある清掃工場である。"
-            },
-            {
-                "datetime": "2022年04月24日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3213336",
-                "title": "エディス・マルグリット・シャンド",
-                "text": "〇〇は、イギリスの人物。旧姓はハリントン（Harrington）。イギリスのチャールズ王太子の妻カミラ妃の祖母。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月28日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3927719",
+                "title": "ダンビル郡区 (アイオワ州デモイン郡)",
+                "text": "〇〇は、アメリカ合衆国アイオワ州デモイン郡にある郡区。"
+            },
+            {
                 "datetime": "2022年04月28日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3844399",
                 "title": "中沢琴",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1375564",
                 "title": "伊和員経",
                 "text": "〇〇は、平安時代中期の武将平将門の従者。『将門記』には「内竪〇〇」とある。「内竪」とは「小姓」のことである。"
-            },
-            {
-                "datetime": "2022年04月26日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3289901",
-                "title": "斉藤直子",
-                "text": "〇〇は、日本の小説家、ファンタジー作家。ローマ字表記は「Naoko SAITO」。"
             }
         ]
     }

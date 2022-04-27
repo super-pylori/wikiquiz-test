@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月27日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1912349",
+                "title": "BIOGRAPHY (来生たかおのアルバム)",
+                "text": "〇〇は、1979年にリリースされた来生たかおのベスト・アルバム（LP〈規格品番：MKF-1053〉／CT〈規格品番：CKG-1051〉）である。"
+            },
+            {
                 "datetime": "2022年04月27日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1655726",
                 "title": "アヴァロンコード",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1917883",
                 "title": "Yurica (歌手)",
                 "text": "〇〇は、歌手、作詞家、作曲家である。ロックバンド・LAST MAY JAGUARのヴォーカル。所属レコード会社はJVCケンウッド・ビクターエンタテインメント。愛称は「ユリーカ」。"
-            },
-            {
-                "datetime": "2022年04月25日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1778095",
-                "title": "テロリズム",
-                "text": "〇〇は、政治的な目的を達成するために暴力および暴力による脅迫を用いることを言う。「テロ」と略される。"
             }
         ]
     }

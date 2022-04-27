@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月27日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3416252",
+                "title": "御庄村",
+                "text": "〇〇は、山口県玖珂郡にあった村。"
+            },
+            {
                 "datetime": "2022年04月27日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2698284",
                 "title": "ピカピカナース物語2",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4579764",
                 "title": "中島彰一",
                 "text": "〇〇は、茨城県石岡市出身の元アマチュア野球選手（捕手）、野球指導者。"
-            },
-            {
-                "datetime": "2022年04月25日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3826322",
-                "title": "静岡県を舞台とした作品一覧",
-                "text": "〇〇は、静岡県内をモチーフ、ロケーションとした小説、ドラマ、映画、漫画、アニメーションなどを記述する。"
             }
         ]
     }

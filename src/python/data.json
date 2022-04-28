@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月29日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1698582",
+                "title": "ファインスタイン医学研究所",
+                "text": "〇〇は、ニューヨーク市郊外・マンハセット（en:Manhasset）の研究所である。"
+            },
+            {
                 "datetime": "2022年04月29日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=907778",
                 "title": "グリンツァーネ・カヴール",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1813258",
                 "title": "テオドラ・コムネナ (オーストリア公妃)",
                 "text": "〇〇は、オーストリア公ハインリヒ2世の2度目の妃。"
-            },
-            {
-                "datetime": "2022年04月27日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2112447",
-                "title": "雑賀崎村",
-                "text": "〇〇は、和歌山県海草郡にあった村。旧・海部郡"
             }
         ]
     }

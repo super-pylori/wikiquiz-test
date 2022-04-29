@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月29日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=165121",
+                "title": "久遠さやか",
+                "text": "〇〇は、日本でタレント活動をしている女優、実業家。NPO法人「宇宙ママ＆キッズプロジェクト」代表。"
+            },
+            {
                 "datetime": "2022年04月29日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2150082",
                 "title": "2008-2009 プリメーラ・ディビシオン (ウルグアイ)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4468686",
                 "title": "ロボット・チキン",
                 "text": "〇〇は、アダルトスイムで放送されていたストップモーションテレビアニメ。"
-            },
-            {
-                "datetime": "2022年04月27日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3416252",
-                "title": "御庄村",
-                "text": "〇〇は、山口県玖珂郡にあった村。"
             }
         ]
     }

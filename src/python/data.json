@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月29日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4013996",
+                "title": "南沙羽",
+                "text": "〇〇は、日本の元グラビアアイドル。大阪府出身。"
+            },
+            {
                 "datetime": "2022年04月29日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=775223",
                 "title": "氏家薬品",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4220163",
                 "title": "訃報 2020年10月",
                 "text": "〇〇は、2020年10月に物故した、又は物故が報じられた人物についてまとめる。"
-            },
-            {
-                "datetime": "2022年04月27日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4426242",
-                "title": "戸田清 (社会学者)",
-                "text": "〇〇は、日本の社会学者、社会運動家、長崎大学教授。"
             }
         ]
     }

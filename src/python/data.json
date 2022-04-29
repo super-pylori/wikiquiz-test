@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月29日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=775223",
+                "title": "氏家薬品",
+                "text": "〇〇は、香川県にあった医薬品総合卸企業。現在は「中澤氏家薬業株式会社」である。"
+            },
+            {
                 "datetime": "2022年04月29日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2996102",
                 "title": "ウンマ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4426242",
                 "title": "戸田清 (社会学者)",
                 "text": "〇〇は、日本の社会学者、社会運動家、長崎大学教授。"
-            },
-            {
-                "datetime": "2022年04月27日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=811896",
-                "title": "飯豊",
-                "text": "〇〇は、現在「いいで」と読んでいる。伝統芸能である鬼剣舞の流派の一つ。〇〇鬼剣舞（いいとよおにけんまい）。上記岩手県の北上市に伝わる。"
             }
         ]
     }

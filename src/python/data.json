@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月30日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1593488",
+                "title": "森洋子",
+                "text": "〇〇は、日本人女性の名前〇〇 (美術史家)〇〇 (タレント)"
+            },
+            {
                 "datetime": "2022年04月30日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1989882",
                 "title": "霊州",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4414025",
                 "title": "郭雲",
                 "text": "〇〇は、元末明初の軍人。本貫は南陽府。"
-            },
-            {
-                "datetime": "2022年04月28日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4418174",
-                "title": "78LABEL",
-                "text": "〇〇は、日本のレコードレーベル。2012年設立。小説家の今野敏がエグゼクティブ・プロデューサーを務めているが、今野は「本業は小説家であり、音楽は真剣な遊び」と位置付けている。"
             }
         ]
     }

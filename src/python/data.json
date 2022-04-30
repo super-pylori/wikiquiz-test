@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月01日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3878883",
+                "title": "PASSION (EVEのアルバム)",
+                "text": "〇〇は、日本のコーラス・グループであるEVEが1987年5月21日にリリースした2枚目のオリジナルアルバムである。"
+            },
+            {
                 "datetime": "2022年05月01日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2446065",
                 "title": "ウォーリアーズの登場猫一覧",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2150082",
                 "title": "2008-2009 プリメーラ・ディビシオン (ウルグアイ)",
                 "text": "〇〇は、第77回目のウルグアイのサッカーの最上級リーグ。"
-            },
-            {
-                "datetime": "2022年04月29日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3601632",
-                "title": "しょうどしま丸",
-                "text": "〇〇は、四国フェリーグループの小豆島フェリーが運航しているカーフェリー。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年04月30日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1309096",
+                "title": "世界選手権自転車競技大会トラックレース1978",
+                "text": "〇〇は、西ドイツ・ミュンヘンで開催された。"
+            },
+            {
                 "datetime": "2022年04月30日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2239333",
                 "title": "北園町 (津山市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1767842",
                 "title": "修羅 (DOESの曲)",
                 "text": "〇〇は、DOESの4枚目のシングル。2007年5月16日にキューンレコードから発売された。"
-            },
-            {
-                "datetime": "2022年04月28日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2078036",
-                "title": "小林永濯",
-                "text": "〇〇は、江戸時代から明治時代にかけての浮世絵師、日本画家。画号は鮮斎（せんさい）永濯。"
             }
         ]
     }

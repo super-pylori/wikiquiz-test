@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月02日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2894426",
+                "title": "小竹干拓",
+                "text": "〇〇は、千葉県佐倉市の大字。2017年10月31日現在の人口は0人。郵便番号285-0000。"
+            },
+            {
                 "datetime": "2022年05月02日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2016817",
                 "title": "ミズノイズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1254090",
                 "title": "ハンス・ヤンセン",
                 "text": "〇〇は、ビーピーエス社の元グラフィックデザイナー。BPS社長のヘンク・ブラウアー・ロジャースと同じオランダ出身。"
-            },
-            {
-                "datetime": "2022年04月30日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3097999",
-                "title": "ブロートンのマークス男爵",
-                "text": "〇〇は、連合王国貴族の男爵位。"
             }
         ]
     }

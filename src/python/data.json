@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月01日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3253561",
+                "title": "江川村 (岐阜県)",
+                "text": "〇〇は、かつて岐阜県羽島郡にあった村である。現在の羽島郡笠松町江川に該当する。江川村発足時は羽栗郡であったが、郡の合併で羽島郡の村となっている。"
+            },
+            {
                 "datetime": "2022年05月01日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4197789",
                 "title": "Sweet Alley",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2500988",
                 "title": "D.I.C.E. (渕上里奈のシングル)",
                 "text": "〇〇は、日本の歌手、渕上里奈の1stシングルである。2011年12月21日にインディーズレーベルORANGE BEAT MUSICより発売。"
-            },
-            {
-                "datetime": "2022年04月29日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=133384",
-                "title": "共立女子短期大学",
-                "text": "〇〇は、東京都千代田区一ツ橋2-2-1に本部を置く日本の私立大学である。1950年に設置された。"
             }
         ]
     }

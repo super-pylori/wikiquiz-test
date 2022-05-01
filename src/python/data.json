@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月01日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4197789",
+                "title": "Sweet Alley",
+                "text": "〇〇は、2019年に結成された日本の7人組女性アイドルグループである。略称は「スイアレ」。所属事務所はTWIN PLANET ENTERTAINMENT。"
+            },
+            {
                 "datetime": "2022年05月01日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1672653",
                 "title": "Aleph (宗教団体)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=133384",
                 "title": "共立女子短期大学",
                 "text": "〇〇は、東京都千代田区一ツ橋2-2-1に本部を置く日本の私立大学である。1950年に設置された。"
-            },
-            {
-                "datetime": "2022年04月29日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4013996",
-                "title": "南沙羽",
-                "text": "〇〇は、日本の元グラビアアイドル。大阪府出身。"
             }
         ]
     }

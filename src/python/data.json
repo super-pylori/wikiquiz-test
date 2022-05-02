@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月02日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3047029",
+                "title": "MACO",
+                "text": "〇〇は、日本の女性シンガーソングライター。北海道函館市出身。"
+            },
+            {
                 "datetime": "2022年05月02日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=297417",
                 "title": "ヨアヒム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1772453",
                 "title": "三城城",
                 "text": "〇〇は、戦国時代から江戸時代初期に肥前国彼杵郡大村武部郷（現長崎県大村市三城町）にあった日本の城。"
-            },
-            {
-                "datetime": "2022年04月30日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1593488",
-                "title": "森洋子",
-                "text": "〇〇は、日本人女性の名前〇〇 (美術史家)〇〇 (タレント)"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月03日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=801178",
+                "title": "鹿児島純心女子中学校・高等学校",
+                "text": "〇〇は、鹿児島県鹿児島市唐湊四丁目にある、私立のミッション系女子校である。学校法人鹿児島純心女子学園が運営している。"
+            },
+            {
                 "datetime": "2022年05月03日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=120828",
                 "title": "RBMK-1000",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3878883",
                 "title": "PASSION (EVEのアルバム)",
                 "text": "〇〇は、日本のコーラス・グループであるEVEが1987年5月21日にリリースした2枚目のオリジナルアルバムである。"
-            },
-            {
-                "datetime": "2022年05月01日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2446065",
-                "title": "ウォーリアーズの登場猫一覧",
-                "text": "〇〇は、エリン・ハンターの小説『ウォーリアーズ』に登場する猫の一覧。"
             }
         ]
     }

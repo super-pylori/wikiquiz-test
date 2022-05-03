@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月03日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1733155",
+                "title": "ウルフルズ (アルバム)",
+                "text": "〇〇は、ウルフルズ7枚目のアルバム。2002年3月27日発売。発売元は東芝EMI。"
+            },
+            {
                 "datetime": "2022年05月03日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3949965",
                 "title": "久木元美琴",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2894426",
                 "title": "小竹干拓",
                 "text": "〇〇は、千葉県佐倉市の大字。2017年10月31日現在の人口は0人。郵便番号285-0000。"
-            },
-            {
-                "datetime": "2022年05月02日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2016817",
-                "title": "ミズノイズ",
-                "text": "〇〇は、プリングミンの1枚目のインディーズミニアルバムである。2006年2月8日発売。"
             }
         ]
     }

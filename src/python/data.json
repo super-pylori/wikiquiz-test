@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月03日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2619849",
+                "title": "“残響リファレンス”TOUR in YOKOHAMA ARENA",
+                "text": "〇〇は、2012年5月30日に発売した、日本のロックバンドONE OK ROCKの3枚目の映像作品（DVD：AZBS-1009、Blu-ray Disc：AZXS-1001）。"
+            },
+            {
                 "datetime": "2022年05月03日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3524946",
                 "title": "ラハンウェイン抵抗軍",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2612408",
                 "title": "第62回全国高等学校総合体育大会陸上競技大会",
                 "text": "〇〇は、2009年7月29日〜8月2日に奈良市鴻ノ池で行われた平成21年度全国高等学校総合体育大会の陸上競技大会である。"
-            },
-            {
-                "datetime": "2022年05月02日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=27188",
-                "title": "ASローマ",
-                "text": "〇〇は、イタリア・ローマを本拠地とするサッカークラブである。"
             }
         ]
     }

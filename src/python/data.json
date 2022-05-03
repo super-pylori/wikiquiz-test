@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月03日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3482529",
+                "title": "エモーション (カーリー・レイ・ジェプセンのアルバム)",
+                "text": "〇〇は、カーリー・レイ・ジェプセンの3枚目のアルバムである。"
+            },
+            {
                 "datetime": "2022年05月03日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1739897",
                 "title": "ジョン・マッカーシー (言語学者)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3253561",
                 "title": "江川村 (岐阜県)",
                 "text": "〇〇は、かつて岐阜県羽島郡にあった村である。現在の羽島郡笠松町江川に該当する。江川村発足時は羽栗郡であったが、郡の合併で羽島郡の村となっている。"
-            },
-            {
-                "datetime": "2022年05月01日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4197789",
-                "title": "Sweet Alley",
-                "text": "〇〇は、2019年に結成された日本の7人組女性アイドルグループである。略称は「スイアレ」。所属事務所はTWIN PLANET ENTERTAINMENT。"
             }
         ]
     }

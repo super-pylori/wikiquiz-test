@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月03日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=949460",
+                "title": "Oh! penelope",
+                "text": "〇〇は、「詩人の血」のメンバーである辻睦詞と渡辺善太郎が結成したユニット。1995年Epic/Sony Recordsからデビューし、1997年活動停止した。"
+            },
+            {
                 "datetime": "2022年05月03日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3482529",
                 "title": "エモーション (カーリー・レイ・ジェプセンのアルバム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=870728",
                 "title": "TAKAJIN",
                 "text": "〇〇は、1976年10月21日に発売されたやしきたかじんの1枚目のアルバム。"
-            },
-            {
-                "datetime": "2022年05月01日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3253561",
-                "title": "江川村 (岐阜県)",
-                "text": "〇〇は、かつて岐阜県羽島郡にあった村である。現在の羽島郡笠松町江川に該当する。江川村発足時は羽栗郡であったが、郡の合併で羽島郡の村となっている。"
             }
         ]
     }

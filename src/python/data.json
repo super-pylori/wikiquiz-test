@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月04日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=580746",
+                "title": "SuperKaramba",
+                "text": "〇〇は、KDEで動作するソフトウェアであり、KDE デスクトップ 上に機能を強化するモジュールを簡単につくるためのツールである。"
+            },
+            {
                 "datetime": "2022年05月04日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3598639",
                 "title": "1965年メキシコグランプリ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2696704",
                 "title": "Ryo Fujimura",
                 "text": "〇〇は、日本の作曲家、作詞家、ギタリスト。埼玉県出身。"
-            },
-            {
-                "datetime": "2022年05月02日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1239412",
-                "title": "科学捜査研究所・文書鑑定の女",
-                "text": "〇〇は、2002年から2006年までテレビ朝日系「土曜ワイド劇場」で放送されたテレビドラマシリーズ。全3回。主演は羽田美智子。第1作は『警察庁〇〇』として放送。"
             }
         ]
     }

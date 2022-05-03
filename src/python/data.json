@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月04日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3210871",
+                "title": "ベアトリクス・ド・キュザンス",
+                "text": "〇〇は、フランシュ＝コンテ地方出身の貴族女性。ロレーヌ公シャルル4世の2番目の妻となった。"
+            },
+            {
                 "datetime": "2022年05月04日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=580746",
                 "title": "SuperKaramba",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2633601",
                 "title": "アバター (小説)",
                 "text": "〇〇は、山田悠介による日本の小説、またそれを原作とした日本映画。題名の通り、アバターを題材としている。怠惰で知られる芸人ラランドの西田が｢橋本愛が出てる方のアバター｣と呼んでおり、好きな映画として挙げている。"
-            },
-            {
-                "datetime": "2022年05月02日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2696704",
-                "title": "Ryo Fujimura",
-                "text": "〇〇は、日本の作曲家、作詞家、ギタリスト。埼玉県出身。"
             }
         ]
     }

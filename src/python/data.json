@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月04日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=348208",
+                "title": "根古屋信号場 (JR東日本)",
+                "text": "〇〇は、千葉県成田市にあった、東日本旅客鉄道（JR東日本）成田線（空港支線）の信号場である。"
+            },
+            {
                 "datetime": "2022年05月04日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1869645",
                 "title": "志賀良弘",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3947566",
                 "title": "荊木一久",
                 "text": "〇〇は、衆議院議員（日本進歩党→民主党）、弁護士。"
-            },
-            {
-                "datetime": "2022年05月02日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2869525",
-                "title": "レーロホノロ・レドワバ",
-                "text": "〇〇は、南アフリカ共和国の男子プロボクサー。ハウテン州ソウェト出身。愛称は石の拳の意味を持つHands of Stone。元IBF世界スーパーバンタム級王者。"
             }
         ]
     }

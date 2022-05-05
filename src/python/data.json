@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月06日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3825340",
+                "title": "遊佐町立藤崎小学校",
+                "text": "〇〇は、山形県飽海郡遊佐町にある公立小学校。"
+            },
+            {
                 "datetime": "2022年05月06日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4125758",
                 "title": "美徳シグナリング",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4367475",
                 "title": "Matsushigate",
                 "text": "〇〇は、徳島県板野郡松茂町にある交流拠点施設。"
-            },
-            {
-                "datetime": "2022年05月04日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4525933",
-                "title": "矢崎千代二",
-                "text": "〇〇は、日本の洋画家。"
             }
         ]
     }

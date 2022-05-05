@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月05日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=899004",
+                "title": "コアッツォーロ",
+                "text": "〇〇は、イタリア共和国ピエモンテ州アスティ県にある、人口約300人の基礎自治体（コムーネ）。"
+            },
+            {
                 "datetime": "2022年05月05日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3797490",
                 "title": "アリー/ スター誕生",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3210871",
                 "title": "ベアトリクス・ド・キュザンス",
                 "text": "〇〇は、フランシュ＝コンテ地方出身の貴族女性。ロレーヌ公シャルル4世の2番目の妻となった。"
-            },
-            {
-                "datetime": "2022年05月04日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=580746",
-                "title": "SuperKaramba",
-                "text": "〇〇は、KDEで動作するソフトウェアであり、KDE デスクトップ 上に機能を強化するモジュールを簡単につくるためのツールである。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月06日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3547116",
+                "title": "波号第一潜水艦",
+                "text": "〇〇は、日本海軍の潜水艦。波一型潜水艦（C1型）の1番艦。"
+            },
+            {
                 "datetime": "2022年05月06日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3825340",
                 "title": "遊佐町立藤崎小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1121370",
                 "title": "朽木玄綱",
                 "text": "〇〇は、江戸時代中期の大名。丹波国福知山藩の第5代藩主。福知山藩朽木家6代。"
-            },
-            {
-                "datetime": "2022年05月04日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4367475",
-                "title": "Matsushigate",
-                "text": "〇〇は、徳島県板野郡松茂町にある交流拠点施設。"
             }
         ]
     }

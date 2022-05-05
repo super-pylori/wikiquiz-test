@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月05日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=116099",
+                "title": "アレンハチドリ",
+                "text": "〇〇は、アマツバメ目ハチドリ科に分類される鳥。"
+            },
+            {
                 "datetime": "2022年05月05日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=228427",
                 "title": "大島村 (福岡県)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2619849",
                 "title": "“残響リファレンス”TOUR in YOKOHAMA ARENA",
                 "text": "〇〇は、2012年5月30日に発売した、日本のロックバンドONE OK ROCKの3枚目の映像作品（DVD：AZBS-1009、Blu-ray Disc：AZXS-1001）。"
-            },
-            {
-                "datetime": "2022年05月03日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3524946",
-                "title": "ラハンウェイン抵抗軍",
-                "text": "〇〇は、ソマリア南部で活動していた軍閥。ソマリアの氏族ラハンウェインにより1995年に結成され、2002年には南西ソマリア国として独立宣言した。2004年から ソマリア暫定連邦政府に参加後、しばらくして自然消滅。"
             }
         ]
     }

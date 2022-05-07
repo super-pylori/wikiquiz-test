@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月07日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3011947",
+                "title": "雲仙市立南串第一小学校",
+                "text": "〇〇は、長崎県雲仙市南串山町甲にある公立小学校。略称は「一小」（いちしょう）。"
+            },
+            {
                 "datetime": "2022年05月07日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=129607",
                 "title": "相川亮二",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3098523",
                 "title": "XENO-T",
                 "text": "〇〇は、大韓民国の5人組男性アイドルグループ。2013年10月ミニアルバム『Dogg's out』でデビューし、ToppDogg（トップドッグ、韓:탑독）として活動していたが、2018年2月にグループ名を〇〇に改名した。"
-            },
-            {
-                "datetime": "2022年05月05日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=116099",
-                "title": "アレンハチドリ",
-                "text": "〇〇は、アマツバメ目ハチドリ科に分類される鳥。"
             }
         ]
     }

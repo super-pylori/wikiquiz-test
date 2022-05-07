@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月08日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4219401",
+                "title": "遠藤達也 (ディレクター)",
+                "text": "〇〇は、日本のテレビディレクター。"
+            },
+            {
                 "datetime": "2022年05月08日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=315298",
                 "title": "ブラッドジャケット",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3547116",
                 "title": "波号第一潜水艦",
                 "text": "〇〇は、日本海軍の潜水艦。波一型潜水艦（C1型）の1番艦。"
-            },
-            {
-                "datetime": "2022年05月06日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3825340",
-                "title": "遊佐町立藤崎小学校",
-                "text": "〇〇は、山形県飽海郡遊佐町にある公立小学校。"
             }
         ]
     }

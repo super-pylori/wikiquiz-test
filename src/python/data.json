@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月07日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3744324",
+                "title": "MID (イラストレーター)",
+                "text": "〇〇は、日本のイラストレーター。"
+            },
+            {
                 "datetime": "2022年05月07日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4101864",
                 "title": "1971年北海道議会議員選挙",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2542276",
                 "title": "白子神社 (白子町)",
                 "text": "〇〇は、千葉県長生郡白子町 関（上総国長柄郡）にある神社。旧社格は郷社。大国主大神を主祭神とし、大日孁大神と月読大神を配祀する。"
-            },
-            {
-                "datetime": "2022年05月06日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2570605",
-                "title": "情熱イズム",
-                "text": "〇〇は、凛の2枚目のシングル。2012年5月9日にLantisから発売された。"
             }
         ]
     }

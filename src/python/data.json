@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月08日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3525319",
+                "title": "アメデオ (お笑いコンビ)",
+                "text": "〇〇は、かつてプロダクション人力舎で活動していたお笑いコンビ。1998年結成、2004年解散。"
+            },
+            {
                 "datetime": "2022年05月08日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4122907",
                 "title": "餅月ひまり",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2855548",
                 "title": "赤目町 (愛西市)",
                 "text": "〇〇は、愛知県愛西市にある地名。字が13ある。"
-            },
-            {
-                "datetime": "2022年05月06日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=256508",
-                "title": "東京都立高島高等学校",
-                "text": "〇〇は、東京都板橋区高島平三丁目にある都立高等学校。"
             }
         ]
     }

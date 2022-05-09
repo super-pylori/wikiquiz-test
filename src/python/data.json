@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月09日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=152428",
+                "title": "モーニングフリーウェイふくしま",
+                "text": "〇〇は、ふくしまFMで毎週月曜 - 金曜の朝に放送されている生放送のラジオ番組。"
+            },
+            {
                 "datetime": "2022年05月09日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=573235",
                 "title": "TimeWarp",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3744324",
                 "title": "MID (イラストレーター)",
                 "text": "〇〇は、日本のイラストレーター。"
-            },
-            {
-                "datetime": "2022年05月07日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4101864",
-                "title": "1971年北海道議会議員選挙",
-                "text": "〇〇は、北海道の議決機関である北海道議会を構成する議員を全面改選するために行われた選挙で、第7回統一地方選挙前半戦投票日である1971年4月11日に投票が行われた。"
             }
         ]
     }

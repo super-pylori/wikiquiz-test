@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月10日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3233293",
+                "title": "朝日新聞の慰安婦報道問題",
+                "text": "〇〇は、朝日新聞による慰安婦報道に関する問題。"
+            },
+            {
                 "datetime": "2022年05月10日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=556351",
                 "title": "アフリカネイションズカップ1988",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2661432",
                 "title": "ザグレブ四重奏団",
                 "text": "〇〇は、クロアチアの首都ザグレブに本拠を置く弦楽四重奏団である。"
-            },
-            {
-                "datetime": "2022年05月08日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2407807",
-                "title": "ムクムクゴケ科",
-                "text": "〇〇は、ゼニゴケ植物門ウロコゴケ綱に所属するコケ植物の一分類群。"
             }
         ]
     }

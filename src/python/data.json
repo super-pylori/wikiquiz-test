@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月10日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1859349",
+                "title": "熱帯夜 (Hilcrhymeのアルバム)",
+                "text": "〇〇は、2007年3月に無料配布されたHilcrhymeのデモアルバム。"
+            },
+            {
                 "datetime": "2022年05月10日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=633603",
                 "title": "水力",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3525319",
                 "title": "アメデオ (お笑いコンビ)",
                 "text": "〇〇は、かつてプロダクション人力舎で活動していたお笑いコンビ。1998年結成、2004年解散。"
-            },
-            {
-                "datetime": "2022年05月08日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4122907",
-                "title": "餅月ひまり",
-                "text": "〇〇は、株式会社ゆにクリエイトに所属するYouTuberである。動画投稿サイトYouTubeにおいて美少女ゲーム（アダルトゲーム）に焦点を当てた動画や「歌ってみた」動画を投稿しているほか、ゲームソング歌手・声優としても活動している。"
             }
         ]
     }

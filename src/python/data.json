@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月10日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1389803",
+                "title": "G・W・ベイリー",
+                "text": "〇〇は、アメリカ合衆国の俳優。テキサス州出身。"
+            },
+            {
                 "datetime": "2022年05月10日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2221528",
                 "title": "ペネロピ (競走馬)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3506055",
                 "title": "テムルン",
                 "text": "〇〇は、モンゴル部のイェスゲイ・バートルの娘で、チンギス・カンの妹。イキレス部のブトゥ・キュレゲンに嫁いだが、早世した。"
-            },
-            {
-                "datetime": "2022年05月08日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1967606",
-                "title": "ツェねずみ",
-                "text": "〇〇は、本作と「クンねすみ」「鳥箱先生とフウねずみ」は同じ巻に並ぶ形で掲載されている。"
             }
         ]
     }

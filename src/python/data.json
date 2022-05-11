@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月12日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1676807",
+                "title": "ロバート・プロスキー",
+                "text": "〇〇は、アメリカ合衆国の俳優。"
+            },
+            {
                 "datetime": "2022年05月12日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3217039",
                 "title": "浦麻紗実",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=633603",
                 "title": "水力",
                 "text": "〇〇は、水の位置エネルギーや運動エネルギーを、動力として利用すること、あるいはそうやって得られる動力のことである。「水の力」。水の勢い（によって生まれる力）。"
-            },
-            {
-                "datetime": "2022年05月10日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1389803",
-                "title": "G・W・ベイリー",
-                "text": "〇〇は、アメリカ合衆国の俳優。テキサス州出身。"
             }
         ]
     }

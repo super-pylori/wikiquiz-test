@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月11日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1903931",
+                "title": "アアル",
+                "text": "〇〇は、古代エジプト神話における楽園のこと。"
+            },
+            {
                 "datetime": "2022年05月11日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=63226",
                 "title": "孤立語",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=573235",
                 "title": "TimeWarp",
                 "text": "〇〇は、かつて存在した日本のテレビ番組の製作会社。"
-            },
-            {
-                "datetime": "2022年05月09日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=574034",
-                "title": "マルイチ産商",
-                "text": "〇〇は、水産物を中心に、食料品全般を扱う卸売会社。名古屋証券取引所メイン市場単独上場銘柄である。中部地方や関東などで事業を展開、特に長野県で高いシェアを持つ。"
             }
         ]
     }

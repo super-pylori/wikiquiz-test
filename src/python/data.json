@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月12日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3536617",
+                "title": "水俣市立水俣第二小学校",
+                "text": "〇〇は、熊本県水俣市栄町にある小学校。"
+            },
+            {
                 "datetime": "2022年05月12日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1676807",
                 "title": "ロバート・プロスキー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1859349",
                 "title": "熱帯夜 (Hilcrhymeのアルバム)",
                 "text": "〇〇は、2007年3月に無料配布されたHilcrhymeのデモアルバム。"
-            },
-            {
-                "datetime": "2022年05月10日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=633603",
-                "title": "水力",
-                "text": "〇〇は、水の位置エネルギーや運動エネルギーを、動力として利用すること、あるいはそうやって得られる動力のことである。「水の力」。水の勢い（によって生まれる力）。"
             }
         ]
     }

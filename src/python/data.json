@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月12日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3216362",
+                "title": "岡崎富夢",
+                "text": "〇〇は、日本の実業家である。木造住宅専用屋上テラス『COLORS』を販売する株式会社PASIO[1]代表取締役社長。"
+            },
+            {
                 "datetime": "2022年05月12日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3536617",
                 "title": "水俣市立水俣第二小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1941362",
                 "title": "テクニカルフォール",
                 "text": "〇〇は、アマチュアレスリングのルールの一つで、選手が対戦相手から指定されたポイントを獲得することによって勝利とする取り決めである。"
-            },
-            {
-                "datetime": "2022年05月10日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1859349",
-                "title": "熱帯夜 (Hilcrhymeのアルバム)",
-                "text": "〇〇は、2007年3月に無料配布されたHilcrhymeのデモアルバム。"
             }
         ]
     }

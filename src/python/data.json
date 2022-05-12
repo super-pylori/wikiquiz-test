@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月13日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1861211",
+                "title": "上巳節会",
+                "text": "〇〇は、古代日本において3月3日に開かれた節会（宴会。節宴。）であり、天皇が饌を配した。"
+            },
+            {
                 "datetime": "2022年05月13日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2021664",
                 "title": "椎橋金司",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4339737",
                 "title": "コパスカー・FD01",
                 "text": "〇〇は、フィッティパルディ・オートモーティヴが開発したフォーミュラ1カー。デザイナーはリチャード・ディヴィラ。"
-            },
-            {
-                "datetime": "2022年05月11日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1714325",
-                "title": "玄以通",
-                "text": "〇〇は、京都市北区を通る東西の通りの一つである。"
             }
         ]
     }

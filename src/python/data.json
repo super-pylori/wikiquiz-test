@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月13日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1338087",
+                "title": "一宮市立木曽川西小学校",
+                "text": "〇〇は、愛知県一宮市にある公立小学校。通称「木西」（きにし）"
+            },
+            {
                 "datetime": "2022年05月13日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1376222",
                 "title": "青林堂",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1903931",
                 "title": "アアル",
                 "text": "〇〇は、古代エジプト神話における楽園のこと。"
-            },
-            {
-                "datetime": "2022年05月11日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=63226",
-                "title": "孤立語",
-                "text": "〇〇は、形態的類型論における古典的な類型の1つで、接辞などの形態論的手段を全く用いず、1語が1形態素に対応する言語である。"
             }
         ]
     }

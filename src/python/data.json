@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月12日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=654636",
+                "title": "カリビアンカップ",
+                "text": "〇〇は、カリブ海サッカー連合（CFU）が主催する、カリブ海地域のナショナルチームによるサッカーの国際大会である。CONCACAFゴールドカップの予選を兼ねている。"
+            },
+            {
                 "datetime": "2022年05月12日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=547184",
                 "title": "S.W.A.T.",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4000411",
                 "title": "ドブレ・カラ",
                 "text": "〇〇は、フィリピンのテレビドラマ。ABS-CBNで2015年8月24日から2017年2月10日まで放送された。"
-            },
-            {
-                "datetime": "2022年05月10日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1442922",
-                "title": "高槻市立阿武山図書館",
-                "text": "〇〇は、大阪府高槻市奈佐原2丁目11-12にある図書館。"
             }
         ]
     }

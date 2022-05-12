@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月12日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=912446",
+                "title": "小林亮太",
+                "text": "〇〇は、群馬県高崎市（旧榛名町）出身の元プロサッカー選手。ポジションはDF。"
+            },
+            {
                 "datetime": "2022年05月12日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=735151",
                 "title": "高橋喜平",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2448936",
                 "title": "イアン・オギルビー",
                 "text": "〇〇は、イギリス出身の俳優、児童文学作家。代表作はテレビドラマ『テンプラーの華麗な冒険』（Return of the Saint）の主人公サイモン・テンプラー役である。"
-            },
-            {
-                "datetime": "2022年05月10日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3233293",
-                "title": "朝日新聞の慰安婦報道問題",
-                "text": "〇〇は、朝日新聞による慰安婦報道に関する問題。"
             }
         ]
     }

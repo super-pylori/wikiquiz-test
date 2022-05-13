@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月13日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1876314",
+                "title": "月光の女",
+                "text": "〇〇は、1940年に製作・公開されたアメリカ合衆国の映画である。"
+            },
+            {
                 "datetime": "2022年05月13日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2047576",
                 "title": "すきゃんだる♥4",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2414394",
                 "title": "小林文彦",
                 "text": "〇〇は、東京都昭島市出身の俳優。"
-            },
-            {
-                "datetime": "2022年05月11日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1542184",
-                "title": "静岡県道399号大河内森線",
-                "text": "〇〇は、周智郡森町を通る県道である。"
             }
         ]
     }

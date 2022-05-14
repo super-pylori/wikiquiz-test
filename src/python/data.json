@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月14日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4156940",
+                "title": "奈良市立看護専門学校",
+                "text": "〇〇は、奈良市が奈良県奈良市紀寺町に設置する専修学校。"
+            },
+            {
                 "datetime": "2022年05月14日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3299492",
                 "title": "ラース・レーヴィ・レスターディウス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1782124",
                 "title": "青柳清長",
                 "text": "〇〇は、戦国時代の武将。"
-            },
-            {
-                "datetime": "2022年05月12日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2511965",
-                "title": "ホルヘ・ウィルステルマン国際空港",
-                "text": "〇〇は、ボリビアのコチャバンバにある国際空港。"
             }
         ]
     }

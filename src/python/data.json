@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月16日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3786797",
+                "title": "西酉乙",
+                "text": "〇〇は、大正から昭和期の実業家、政治家、華族。貴族院男爵議員。旧姓・赤松。"
+            },
+            {
                 "datetime": "2022年05月16日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3836746",
                 "title": "赤川楓渓",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4156940",
                 "title": "奈良市立看護専門学校",
                 "text": "〇〇は、奈良市が奈良県奈良市紀寺町に設置する専修学校。"
-            },
-            {
-                "datetime": "2022年05月14日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3299492",
-                "title": "ラース・レーヴィ・レスターディウス",
-                "text": "〇〇は、スウェーデンのルーテル派の牧師、ラップランドの改革者、植物学者である。"
             }
         ]
     }

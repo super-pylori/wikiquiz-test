@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月15日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2839664",
+                "title": "コラビエ",
+                "text": "〇〇は、日本のコンピュータゲーム制作会社。本社は東京都台東区。"
+            },
+            {
                 "datetime": "2022年05月15日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1978421",
                 "title": "ガラクトースオキシダーゼ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4324553",
                 "title": "マリー・コレリ",
                 "text": "〇〇は、英国の小説家。『ヴェンデッタ』などで知られる。"
-            },
-            {
-                "datetime": "2022年05月13日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=16283",
-                "title": "紀元前145年",
-                "text": "〇〇は、ローマ暦の年である。"
             }
         ]
     }

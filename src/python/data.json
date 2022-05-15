@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月15日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1978421",
+                "title": "ガラクトースオキシダーゼ",
+                "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。D-ガラクトース + O2                     ⇌              {\\displaystyle \\rightleftharpoons }   D-ガラクトヘキソジアルドース + H2O2すなわち、この酵素の基質はD-ガラクトースとO2、生成物はD-ガラクトヘキソジアルドースとH2O2である。補因子として銅と、翻訳後修飾から誘導されるCys228およびTyr272の共有結合性架橋結合を含むアミノ酸活性部位が用いられる。組織名はD-galactose:oxygen 6-oxidoreductaseで、別名にD-galactose oxidase, β-galactose oxidaseがある。"
+            },
+            {
                 "datetime": "2022年05月15日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1146601",
                 "title": "ジョアン・ラポルタ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=16283",
                 "title": "紀元前145年",
                 "text": "〇〇は、ローマ暦の年である。"
-            },
-            {
-                "datetime": "2022年05月13日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1876314",
-                "title": "月光の女",
-                "text": "〇〇は、1940年に製作・公開されたアメリカ合衆国の映画である。"
             }
         ]
     }

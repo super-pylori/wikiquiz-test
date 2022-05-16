@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月17日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2013601",
+                "title": "小北駅",
+                "text": "〇〇は、中華人民共和国広東省広州市越秀区環市中路にある広州地下鉄5号線の駅である。"
+            },
+            {
                 "datetime": "2022年05月17日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=960139",
                 "title": "大垣市民病院",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=800188",
                 "title": "座禅川",
                 "text": "〇〇は、神奈川県平塚市を流れる金目川水系の二級河川。本流に尼ヶ滝、支流に駒ヶ滝（清滝）がある。"
-            },
-            {
-                "datetime": "2022年05月15日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2839664",
-                "title": "コラビエ",
-                "text": "〇〇は、日本のコンピュータゲーム制作会社。本社は東京都台東区。"
             }
         ]
     }

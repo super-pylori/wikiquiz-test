@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月16日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4275677",
+                "title": "後藤悦治",
+                "text": "〇〇は、大正末から昭和期の実業家、政治家。衆議院議員。"
+            },
+            {
                 "datetime": "2022年05月16日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3614313",
                 "title": "泥灰土",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2134887",
                 "title": "山田浩康",
                 "text": "〇〇は、日本の演芸作家。俳優・声優の山田康雄を父に持つ。"
-            },
-            {
-                "datetime": "2022年05月15日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3083054",
-                "title": "大西真央",
-                "text": "〇〇は、日本の男性声優。以前はマウスプロモーションに所属していた。"
             }
         ]
     }

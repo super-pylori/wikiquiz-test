@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月17日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=960139",
+                "title": "大垣市民病院",
+                "text": "〇〇は、岐阜県大垣市にある医療機関。大垣市病院事業の設置等に関する条例（昭和41年12月23日条例第21号）に基づき大垣市が運営する公立の病院である。1933年に開設された大垣市立診療所を前身とする。"
+            },
+            {
                 "datetime": "2022年05月17日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3855777",
                 "title": "内藤忠政 (戦国武将)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2839664",
                 "title": "コラビエ",
                 "text": "〇〇は、日本のコンピュータゲーム制作会社。本社は東京都台東区。"
-            },
-            {
-                "datetime": "2022年05月15日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1978421",
-                "title": "ガラクトースオキシダーゼ",
-                "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。D-ガラクトース + O2                     ⇌              {\\displaystyle \\rightleftharpoons }   D-ガラクトヘキソジアルドース + H2O2すなわち、この酵素の基質はD-ガラクトースとO2、生成物はD-ガラクトヘキソジアルドースとH2O2である。補因子として銅と、翻訳後修飾から誘導されるCys228およびTyr272の共有結合性架橋結合を含むアミノ酸活性部位が用いられる。組織名はD-galactose:oxygen 6-oxidoreductaseで、別名にD-galactose oxidase, β-galactose oxidaseがある。"
             }
         ]
     }

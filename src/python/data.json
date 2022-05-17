@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月17日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4025844",
+                "title": "沖縄剛柔流空手道協会",
+                "text": "〇〇は、剛柔流空手の会派の一つ。"
+            },
+            {
                 "datetime": "2022年05月17日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3799093",
                 "title": "Oculus Go",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2407126",
                 "title": "SO-03C",
                 "text": "〇〇は、ソニー・エリクソン・モバイルコミュニケーションズ（現：ソニーモバイルコミュニケーションズ）製のNTTドコモ向けスマートフォン。ドコモの第3世代移動通信システム（FOMA）端末である。OSはGoogleのAndroid OS 2.3 Gingerbread。ドコモ スマートフォンのひとつとして発売され、2011年冬モデル発表以降はdocomo with seriesに分類されている。"
-            },
-            {
-                "datetime": "2022年05月15日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2441702",
-                "title": "UCIアメリカツアー2010-2011",
-                "text": "〇〇は、UCIアメリカツアーの2010年〜2011年シーズンのシリーズ戦。"
             }
         ]
     }

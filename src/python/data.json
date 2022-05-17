@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月18日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1450670",
+                "title": "エイエイエスケータリング",
+                "text": "〇〇は、関西国際空港において機内食の製造を行うケータリング企業である。"
+            },
+            {
                 "datetime": "2022年05月17日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4538764",
                 "title": "齋藤利明",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3786797",
                 "title": "西酉乙",
                 "text": "〇〇は、大正から昭和期の実業家、政治家、華族。貴族院男爵議員。旧姓・赤松。"
-            },
-            {
-                "datetime": "2022年05月16日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3836746",
-                "title": "赤川楓渓",
-                "text": "〇〇は、江戸時代後期の画家。名は俊章または年章、字は凉々、通称に熊太郎がある。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月17日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2673956",
+                "title": "長浜郡",
+                "text": "〇〇は、日本の領有下において1915年より1942年まで樺太に存在した郡。当該地域の領有権に関しては樺太の項目を参照。"
+            },
+            {
                 "datetime": "2022年05月17日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=650563",
                 "title": "桟橋通二丁目停留場",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4207320",
                 "title": "相馬癸八郎",
                 "text": "〇〇は、大日本帝国陸軍軍人。最終階級は陸軍中将。"
-            },
-            {
-                "datetime": "2022年05月15日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4537919",
-                "title": "ボトルインプ (カードゲーム)",
-                "text": "〇〇は、Günter Cornettによる、ロバート・ルイス・スティーヴンソンの短編小説「びんの小鬼」に基づいたトリックテイキングカードゲームである。 1995年にBambusSpieleverlagによって初版が出版され 、2010年にZ- ManGamesによって「BottleImp」という名前で再出版された  。2018年にStrongholdGamesによっても再々出版された 。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月18日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1379024",
+                "title": "日比佳代子",
+                "text": "〇〇は、日本の歴史学者。現在、明治大学博物館学芸員。専門は日本近世史。福岡県出身。九州大学文学部卒業。"
+            },
+            {
                 "datetime": "2022年05月18日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2750590",
                 "title": "ホンダ・CBX250",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4321986",
                 "title": "TK INSTRUMENTAL WORKS SELECTION 1985〜2003",
                 "text": "〇〇は、小室哲哉としては初となるインストゥルメンタル・ベストアルバム。2006年2月22日、GT musicよりリリース。"
-            },
-            {
-                "datetime": "2022年05月16日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2337437",
-                "title": "今日もサツキ晴れ!",
-                "text": "〇〇は、ストライク平助による日本の4コマ漫画作品。一迅社発行の『まんが4コマKINGSぱれっと』にて、VOL.1から2008年1月号まで連載された。"
             }
         ]
     }

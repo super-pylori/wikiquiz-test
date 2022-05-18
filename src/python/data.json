@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月19日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2100271",
+                "title": "ユリウス・キム",
+                "text": "〇〇は、韓国のピアニスト。ユリウス・ジョンウォン・キム（Julius Jeongwon Kim）、キム・ジョンウォン（Kim Jeongwon）などとも表記される。"
+            },
+            {
                 "datetime": "2022年05月19日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3190884",
                 "title": "上口",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4032224",
                 "title": "伊藤公平 (物理学者)",
                 "text": "〇〇は、日本の物理学者。慶應義塾長。研究分野は固体物理、量子コンピュータ、電子材料、ナノテクノロジー、半導体同位体工学。好きな言葉は「世界は動けば狭くなる」と「恵まれた者の義務」。"
-            },
-            {
-                "datetime": "2022年05月17日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2013601",
-                "title": "小北駅",
-                "text": "〇〇は、中華人民共和国広東省広州市越秀区環市中路にある広州地下鉄5号線の駅である。"
             }
         ]
     }

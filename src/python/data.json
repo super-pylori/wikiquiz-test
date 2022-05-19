@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月20日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3057644",
+                "title": "守口市立藤田小学校",
+                "text": "〇〇は、大阪府守口市にある公立小学校。"
+            },
+            {
                 "datetime": "2022年05月19日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1878063",
                 "title": "FromAスキーチーム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=644541",
                 "title": "ドラゴンハート 新たなる旅立ち",
                 "text": "〇〇は、2000年製作のアメリカ製ビデオ映画。84分。1996年製作のアメリカ映画『ドラゴンハート』の続編。"
-            },
-            {
-                "datetime": "2022年05月18日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1291210",
-                "title": "門馬匡史",
-                "text": "〇〇は、宮城県出身の元サッカー選手でポジションはMF。"
             }
         ]
     }

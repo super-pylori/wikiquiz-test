@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月20日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2000800",
+                "title": "清水賢",
+                "text": "〇〇は、鳥取県出身の元プロ野球選手。"
+            },
+            {
                 "datetime": "2022年05月20日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=129458",
                 "title": "山の街駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=74850",
                 "title": "ポルデノーネ県",
                 "text": "〇〇は、イタリア共和国フリウリ＝ヴェネツィア・ジュリア州の県の一つである。県都はポルデノーネ。フリウリ＝ヴェネツィア・ジュリア州における行政制度再編に伴い、2017年に自治体としての〇〇は廃止された（選挙区の単位などの地理的呼称としては残される）。"
-            },
-            {
-                "datetime": "2022年05月19日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2100271",
-                "title": "ユリウス・キム",
-                "text": "〇〇は、韓国のピアニスト。ユリウス・ジョンウォン・キム（Julius Jeongwon Kim）、キム・ジョンウォン（Kim Jeongwon）などとも表記される。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月20日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=893964",
+                "title": "にしまきとおる",
+                "text": "〇〇は、日本の漫画家。宮城県出身。仙台市在住。"
+            },
+            {
                 "datetime": "2022年05月20日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3847203",
                 "title": "増田珠",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=914104",
                 "title": "佐橋滋",
                 "text": "〇〇は、日本の官僚。元通商産業事務次官。"
-            },
-            {
-                "datetime": "2022年05月18日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4481332",
-                "title": "野平穣",
-                "text": "〇〇は、日本の弁護士。政治家。衆議院議員（1期）。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月20日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=770332",
+                "title": "ルイス・バカルター",
+                "text": "〇〇は、イディッシュ語で｢小さなルイス｣を意味する\"Lepkeleh\"から来ており、これは母が少年時代に彼をそう呼んでいたことにちなむ。"
+            },
+            {
                 "datetime": "2022年05月20日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1638378",
                 "title": "チャレンジカップ (フィギュアスケート)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4144500",
                 "title": "広島共立病院",
                 "text": "〇〇は、広島医療生活協同組合が広島県広島市安佐南区に設置する病院。"
-            },
-            {
-                "datetime": "2022年05月18日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=466567",
-                "title": "吉田有希 (アイドル)",
-                "text": "〇〇は、日本の女性アイドル。血液型はA型。"
             }
         ]
     }

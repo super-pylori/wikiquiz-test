@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月21日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1378976",
+                "title": "鵠沼海浜公園",
+                "text": "〇〇は、神奈川県藤沢市鵠沼海岸に位置する藤沢市立の都市公園（広域公園）。"
+            },
+            {
                 "datetime": "2022年05月21日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=828565",
                 "title": "ナンシー・リッチー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=708296",
                 "title": "佐喜眞美術館",
                 "text": "〇〇は、沖縄県宜野湾市にある私立美術館。"
-            },
-            {
-                "datetime": "2022年05月20日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3349128",
-                "title": "ユーラシア21研究所",
-                "text": "〇〇は、ロシアを中心に国際情勢を研究し、日本政府の外交政策に関する学術研究を進すめる目的で、2007年3月15日に設立されたNPO法人。"
             }
         ]
     }

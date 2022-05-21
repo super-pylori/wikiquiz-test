@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月21日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1703469",
+                "title": "PIANO&BEST",
+                "text": "〇〇は、星村麻衣のベスト・アルバム。2009年3月11日にSME Recordsから発売された。"
+            },
+            {
                 "datetime": "2022年05月21日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=873460",
                 "title": "エスタディオ・マヌエル・シクロン・エチェバリア",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3631854",
                 "title": "北条時見",
                 "text": "〇〇は、鎌倉時代後期の武将、名越流北条氏の一門。名越 時見（なごえ ときみ）、江馬（江間） 時見（えま ときみ）とも呼ばれる。"
-            },
-            {
-                "datetime": "2022年05月19日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=420810",
-                "title": "ラブテスター",
-                "text": "〇〇は、1969年（昭和44年）に任天堂が発売した玩具である。"
             }
         ]
     }

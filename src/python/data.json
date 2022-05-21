@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月22日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1503879",
+                "title": "影山光一",
+                "text": "〇〇は、日本の電機および鉄道技術者で実業家。高知県出身。近畿日本鉄道（近鉄）元専務取締役である。"
+            },
+            {
                 "datetime": "2022年05月22日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4065846",
                 "title": "官ノ倉山",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3847203",
                 "title": "増田珠",
                 "text": "〇〇は、長崎県長崎市出身のプロ野球選手（内野手）。右投右打。福岡ソフトバンクホークス所属。"
-            },
-            {
-                "datetime": "2022年05月20日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3601279",
-                "title": "デビッド・ノース",
-                "text": "〇〇は、アメリカの数学者。"
             }
         ]
     }

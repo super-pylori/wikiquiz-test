@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月23日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3288957",
+                "title": "坂本政均",
+                "text": "〇〇は、幕末の幕臣、明治期の司法官。元老院議官。旧姓・赤井、通称・三郎。阪本と表記される場合がある。"
+            },
+            {
                 "datetime": "2022年05月23日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=224062",
                 "title": "赤井孝美",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1219413",
                 "title": "宮崎県立都城工業高等学校",
                 "text": "〇〇は、宮崎県都城市五十町に所在する公立の工業高等学校。略称「都工」（とこう）。"
-            },
-            {
-                "datetime": "2022年05月21日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1703469",
-                "title": "PIANO&BEST",
-                "text": "〇〇は、星村麻衣のベスト・アルバム。2009年3月11日にSME Recordsから発売された。"
             }
         ]
     }

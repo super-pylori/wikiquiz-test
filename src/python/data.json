@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月22日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=89956",
+                "title": "大正駅 (長崎県)",
+                "text": "〇〇は、長崎県雲仙市瑞穂町岡に所在する島原鉄道島原鉄道線の駅。"
+            },
+            {
                 "datetime": "2022年05月22日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3941747",
                 "title": "三笠駅 (長野県)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3764386",
                 "title": "エリフ・エルマス",
                 "text": "〇〇は、北マケドニアのサッカー選手。北マケドニア代表。ポジションはMF。"
-            },
-            {
-                "datetime": "2022年05月21日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2985602",
-                "title": "入間広成",
-                "text": "〇〇は、奈良時代から平安時代初期にかけての貴族。官位は従五位下・造東大寺次官。"
             }
         ]
     }

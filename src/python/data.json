@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月23日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1603141",
+                "title": "今宵、月が見えずとも",
+                "text": "〇〇は、ポルノグラフィティの楽曲。2008年12月10日にSME Recordsより27作目のシングルとしてリリースされた。"
+            },
+            {
                 "datetime": "2022年05月23日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3288957",
                 "title": "坂本政均",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4131985",
                 "title": "古性直",
                 "text": "〇〇は、日本の政治家。元東京都足立区長。"
-            },
-            {
-                "datetime": "2022年05月21日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1219413",
-                "title": "宮崎県立都城工業高等学校",
-                "text": "〇〇は、宮崎県都城市五十町に所在する公立の工業高等学校。略称「都工」（とこう）。"
             }
         ]
     }

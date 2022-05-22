@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月22日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3574567",
+                "title": "カール・シェンケル",
+                "text": "〇〇は、スイスの映画監督。"
+            },
+            {
                 "datetime": "2022年05月22日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=89956",
                 "title": "大正駅 (長崎県)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=373589",
                 "title": "憲法改正論議",
                 "text": "〇〇は、日本国憲法の改正に向けた議論のこと。「改憲論」（かいけんろん）、「改憲論議」（かいけんろんぎ）、「憲法論議」（けんぽうろんぎ）ともいう。"
-            },
-            {
-                "datetime": "2022年05月21日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3764386",
-                "title": "エリフ・エルマス",
-                "text": "〇〇は、北マケドニアのサッカー選手。北マケドニア代表。ポジションはMF。"
             }
         ]
     }

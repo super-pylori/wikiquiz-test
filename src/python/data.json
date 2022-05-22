@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月22日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=61778",
+                "title": "317年",
+                "text": "〇〇は、西暦（ユリウス暦）による、平年。"
+            },
+            {
                 "datetime": "2022年05月22日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3251135",
                 "title": "ISO 3166-2:SC",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2000800",
                 "title": "清水賢",
                 "text": "〇〇は、鳥取県出身の元プロ野球選手。"
-            },
-            {
-                "datetime": "2022年05月20日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=129458",
-                "title": "山の街駅",
-                "text": "〇〇は、兵庫県神戸市北区緑町一丁目にある、神戸電鉄有馬線の駅。駅番号はKB08。標高316m。全種別停車駅であるが、阪神・淡路大震災直後谷上駅行き5両編成が走った際は通過した（4両編成しか停車できないため）。"
             }
         ]
     }

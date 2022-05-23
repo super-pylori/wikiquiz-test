@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月24日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=13723",
+                "title": "駿河国",
+                "text": "〇〇は、かつて日本の地方行政区分だった令制国の一つ。東海道に属する。現在の静岡県中部。上国。"
+            },
+            {
                 "datetime": "2022年05月24日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=52118",
                 "title": "紀元前223年",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1503879",
                 "title": "影山光一",
                 "text": "〇〇は、日本の電機および鉄道技術者で実業家。高知県出身。近畿日本鉄道（近鉄）元専務取締役である。"
-            },
-            {
-                "datetime": "2022年05月22日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4065846",
-                "title": "官ノ倉山",
-                "text": "〇〇は、 埼玉県小川町と秩父郡東秩父村の境に位置する標高344mの山。"
             }
         ]
     }

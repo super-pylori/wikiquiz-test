@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月23日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2750571",
+                "title": "Consolation",
+                "text": "〇〇は、Kalafinaの4枚目のオリジナルアルバム。2013年3月20日にSME Recordsから発売された。"
+            },
+            {
                 "datetime": "2022年05月23日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2976218",
                 "title": "西潟健太",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=538723",
                 "title": "脳機能局在論",
                 "text": "〇〇は、脳（特に大脳皮質）が部分ごとに違う機能を担っているとする科学のことである。"
-            },
-            {
-                "datetime": "2022年05月21日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2822620",
-                "title": "二之湯武史",
-                "text": "〇〇は、日本の政治家。自由民主党所属の元参議院議員（1期）。"
             }
         ]
     }

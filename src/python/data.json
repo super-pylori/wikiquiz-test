@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月23日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=384025",
+                "title": "青木伊平",
+                "text": "〇〇は、政治家秘書。竹下登の秘書として知られている。"
+            },
+            {
                 "datetime": "2022年05月23日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3038050",
                 "title": "第21回全日本中学校陸上競技選手権大会",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1873060",
                 "title": "阿知波吉信",
                 "text": "〇〇は、日本の政治家、官僚。希望の党所属の元衆議院議員（1期）。"
-            },
-            {
-                "datetime": "2022年05月21日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2720677",
-                "title": "Fw 62 (航空機)",
-                "text": "〇〇は、ドイツ海軍向けにフォッケウルフ社が設計/製造した複葉の偵察機である。4機が製造されただけであった。"
             }
         ]
     }

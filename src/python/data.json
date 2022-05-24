@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月24日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3492738",
+                "title": "伊藤五右衛門 (幕末)",
+                "text": "〇〇は、三国隠居処初代創設者で伊藤家五代目当主である。"
+            },
+            {
                 "datetime": "2022年05月24日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1616845",
                 "title": "ファーミキューテス門",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3115502",
                 "title": "志方村",
                 "text": "〇〇は、兵庫県印南郡にあった村。現在の加古川市志方町の中心部にあたる。"
-            },
-            {
-                "datetime": "2022年05月23日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4335016",
-                "title": "ケビン・シャッケルフォード",
-                "text": "〇〇は、アメリカ合衆国ノースカロライナ州シャーロット出身のプロ野球選手（投手）。右投右打。"
             }
         ]
     }

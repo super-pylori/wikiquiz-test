@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月25日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2419481",
+                "title": "福井市下宇坂小学校",
+                "text": "〇〇は、福井県福井市市波町にある公立小学校。"
+            },
+            {
                 "datetime": "2022年05月25日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=85001",
                 "title": "クイーンズプレート",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2750571",
                 "title": "Consolation",
                 "text": "〇〇は、Kalafinaの4枚目のオリジナルアルバム。2013年3月20日にSME Recordsから発売された。"
-            },
-            {
-                "datetime": "2022年05月23日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2976218",
-                "title": "西潟健太",
-                "text": "〇〇は、新潟県北蒲原郡安田町出身の日本の柔道選手。階級は100 kg超級。身長193cm。体重130kg。組み手は左組み（両方の組み手が可能）。段位は四段。得意技は大外刈。現在は旭化成に所属している。"
             }
         ]
     }

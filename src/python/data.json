@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月24日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4258446",
+                "title": "松本民芸館",
+                "text": "〇〇は、長野県松本市里山辺にある民芸博物館。丸山太郎が優れた民芸品を蒐集し、1962年（昭和37年）に独力で創館した。コレクションの中核は、丸山によって収集された約6,800点の民芸品を展示する。英語表記はMatsumoto Folkcraft Museum、Matsumoto Folk Craft Museum、Matsumoto Folk Art Museumといったものがある。"
+            },
+            {
                 "datetime": "2022年05月24日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1290723",
                 "title": "片側顔面痙攣",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3251135",
                 "title": "ISO 3166-2:SC",
                 "text": "〇〇は、ISOのISO 3166-2規格のうち、SCで始まるものの一覧であり、セーシェルの行政区分のコードである。最初のSCはISO 3166-1によるセーシェルの国名コード。"
-            },
-            {
-                "datetime": "2022年05月22日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=297984",
-                "title": "アライブ-最終進化的少年-",
-                "text": "〇〇は、原作河島正、作画あだちとかによる日本の漫画作品。単行本は、全21巻。講談社の漫画雑誌『月刊少年マガジン』2003年5月号から2010年3月号まで連載された。「もしも荒れ狂う現代人が特殊な超能力を持ったらという設定を中心に現代人の狂気的な本能を描くSF作品。"
             }
         ]
     }

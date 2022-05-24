@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月24日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1559206",
+                "title": "オニウシ公園",
+                "text": "〇〇は、北海道茅部郡森町にある公園。道の駅YOU・遊・もりに併設している。"
+            },
+            {
                 "datetime": "2022年05月24日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2626990",
                 "title": "劇場版 仮面ライダー響鬼と7人の戦鬼",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4145422",
                 "title": "ローズオンラインジャパン",
                 "text": "〇〇は、かつて『ローズオンライン』などのオンラインゲームの運営を手掛けていた日本の企業。"
-            },
-            {
-                "datetime": "2022年05月22日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3574567",
-                "title": "カール・シェンケル",
-                "text": "〇〇は、スイスの映画監督。"
             }
         ]
     }

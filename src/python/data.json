@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月24日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1763353",
+                "title": "トータル保険サービス",
+                "text": "〇〇は、みずほフィナンシャルグループとの関係が強い東京都中央区に本社を置く総合保険代理店(乗合保険代理店))。ブランドコンセプトは「Your-side Solution」。"
+            },
+            {
                 "datetime": "2022年05月24日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4258446",
                 "title": "松本民芸館",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=61778",
                 "title": "317年",
                 "text": "〇〇は、西暦（ユリウス暦）による、平年。"
-            },
-            {
-                "datetime": "2022年05月22日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3251135",
-                "title": "ISO 3166-2:SC",
-                "text": "〇〇は、ISOのISO 3166-2規格のうち、SCで始まるものの一覧であり、セーシェルの行政区分のコードである。最初のSCはISO 3166-1によるセーシェルの国名コード。"
             }
         ]
     }

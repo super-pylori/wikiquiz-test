@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月26日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1541929",
+                "title": "あすかともゆき",
+                "text": "〇〇は、日本の小説家。山口県出身。 広島県在住。年齢は明確ではないが、「生年の干支は戌」と公表されている。蠍座。B型。"
+            },
+            {
                 "datetime": "2022年05月26日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3707577",
                 "title": "CYCLE AID JAPAN",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1763353",
                 "title": "トータル保険サービス",
                 "text": "〇〇は、みずほフィナンシャルグループとの関係が強い東京都中央区に本社を置く総合保険代理店(乗合保険代理店))。ブランドコンセプトは「Your-side Solution」。"
-            },
-            {
-                "datetime": "2022年05月24日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4258446",
-                "title": "松本民芸館",
-                "text": "〇〇は、長野県松本市里山辺にある民芸博物館。丸山太郎が優れた民芸品を蒐集し、1962年（昭和37年）に独力で創館した。コレクションの中核は、丸山によって収集された約6,800点の民芸品を展示する。英語表記はMatsumoto Folkcraft Museum、Matsumoto Folk Craft Museum、Matsumoto Folk Art Museumといったものがある。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月26日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1050479",
+                "title": "木洞野球場",
+                "text": "〇〇は、韓国のソウル特別市にある野球場。"
+            },
+            {
                 "datetime": "2022年05月26日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=18603",
                 "title": "低気圧",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3528044",
                 "title": "浦田賢治",
                 "text": "〇〇は、日本の法学者。専門は憲法。早稲田大学名誉教授。憲法学舎主宰。熊本県葦北郡佐敷町出身。"
-            },
-            {
-                "datetime": "2022年05月24日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=103408",
-                "title": "津川駅",
-                "text": "〇〇は、新潟県東蒲原郡阿賀町角島（つのしま）にある、東日本旅客鉄道（JR東日本）磐越西線の駅である。"
             }
         ]
     }

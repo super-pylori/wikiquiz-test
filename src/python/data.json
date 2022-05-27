@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月27日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4031256",
+                "title": "海野隆司",
+                "text": "〇〇は、岡山県岡山市出身のプロ野球選手（捕手）。右投右打。福岡ソフトバンクホークス所属。"
+            },
+            {
                 "datetime": "2022年05月27日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4397255",
                 "title": "徳田真紀子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1976755",
                 "title": "For You (AZUの曲)",
                 "text": "〇〇は、AZUの8枚目のシングル。"
-            },
-            {
-                "datetime": "2022年05月25日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2739510",
-                "title": "日高秩父",
-                "text": "〇〇は、明治から大正期の内大臣秘書官、東宮御学問所御用掛、書家。正五位勲三等。号は梅渓。槑谿とも書く。"
             }
         ]
     }

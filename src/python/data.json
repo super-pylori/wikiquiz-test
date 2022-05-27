@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月28日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=155020",
+                "title": "Favorite Blue",
+                "text": "〇〇は、木村貴志と松崎麻矢の2人組音楽グループ。"
+            },
+            {
                 "datetime": "2022年05月28日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2897392",
                 "title": "ヤン・コメリン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1050479",
                 "title": "木洞野球場",
                 "text": "〇〇は、韓国のソウル特別市にある野球場。"
-            },
-            {
-                "datetime": "2022年05月26日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=18603",
-                "title": "低気圧",
-                "text": "〇〇は、周囲より気圧の低い部分をいう。周囲より気圧が低いと定義されるので、中心気圧が1気圧 (1013hPa) より高い〇〇も珍しくない。冬季にシベリア高気圧の圏内に発生する〇〇の中には1030hPa以上のものもしばしば見られる。一般に、〇〇は雲を伴い、雨や雪や風をもたらす。"
             }
         ]
     }

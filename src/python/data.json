@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月27日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4397255",
+                "title": "徳田真紀子",
+                "text": "〇〇は、日本形成外科学会形成外科専門医、日本の医師。現在、S.T style クリニック院長。"
+            },
+            {
                 "datetime": "2022年05月27日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=871687",
                 "title": "国会議員互助年金法",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2739510",
                 "title": "日高秩父",
                 "text": "〇〇は、明治から大正期の内大臣秘書官、東宮御学問所御用掛、書家。正五位勲三等。号は梅渓。槑谿とも書く。"
-            },
-            {
-                "datetime": "2022年05月25日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2812230",
-                "title": "Radio SCOPE",
-                "text": "〇〇は、TBSラジオで放送されたトーク番組である。スコッチ・ウイスキーのブランド「Old Parr（オールド・パー）」の一社提供。2013年7月6日放送開始。"
             }
         ]
     }

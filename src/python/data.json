@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月28日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2172442",
+                "title": "I.D Y BEST COLLECTION",
+                "text": "〇〇は、大沢誉志幸のベスト・アルバム。1998年12月12日にエピックレコードジャパンよりリリースされた。"
+            },
+            {
                 "datetime": "2022年05月28日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1879883",
                 "title": "交響組曲「ドラゴンクエスト」",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=80270",
                 "title": "吉野原駅",
                 "text": "〇〇は、埼玉県さいたま市北区吉野町一丁目にある、埼玉新都市交通伊奈線（ニューシャトル）の駅である。駅番号はNS06。"
-            },
-            {
-                "datetime": "2022年05月26日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2616426",
-                "title": "対馬市立南陽小学校",
-                "text": "〇〇は、長崎県対馬市上対馬町一重にあった公立小学校。2014年（平成26年）3月末をもって閉校となった。"
             }
         ]
     }

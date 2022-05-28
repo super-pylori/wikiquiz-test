@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月28日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=842479",
+                "title": "鋼鉄三国志",
+                "text": "〇〇は、〇〇製作委員会の原案による日本のアニメ作品。"
+            },
+            {
                 "datetime": "2022年05月28日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3477146",
                 "title": "長興馬氏",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4362844",
                 "title": "木村太哉",
                 "text": "〇〇は、東京都出身のサッカー選手。J2リーグ・ファジアーノ岡山FC所属。ポジションはMF。"
-            },
-            {
-                "datetime": "2022年05月27日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=933842",
-                "title": "27歳の夏休み",
-                "text": "〇〇は、TBS系列で、2005年6月30日21:00 - 22:48 (JST) に放送されたテレビドラマ。唯川恵が書き下ろし、雑誌『CREA』と『FRaU』に連載されていた「あしたへの距離」を完結させる形でドラマ化したもの。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月29日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2249305",
+                "title": "アラン・ガルシア (競馬)",
+                "text": "〇〇は、アメリカ合衆国の騎手。ペルーのリマ出身。"
+            },
+            {
                 "datetime": "2022年05月29日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4074641",
                 "title": "チラム・バラムの書",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1574890",
                 "title": "秋田県道308号河辺阿仁線",
                 "text": "〇〇は、秋田県秋田市から北秋田市に至る一般県道である。"
-            },
-            {
-                "datetime": "2022年05月27日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4031256",
-                "title": "海野隆司",
-                "text": "〇〇は、岡山県岡山市出身のプロ野球選手（捕手）。右投右打。福岡ソフトバンクホークス所属。"
             }
         ]
     }

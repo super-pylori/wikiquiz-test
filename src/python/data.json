@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月29日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4469148",
+                "title": "MY LIFE (徳永英明のアルバム)",
+                "text": "〇〇は、2004年9月29日に発売された德永英明14枚目のオリジナル・アルバム。"
+            },
+            {
                 "datetime": "2022年05月29日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2249305",
                 "title": "アラン・ガルシア (競馬)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1106554",
                 "title": "増本淳",
                 "text": "〇〇は、日本のテレビドラマ・映画プロデューサー、脚本家。元フジテレビジョン社員。"
-            },
-            {
-                "datetime": "2022年05月27日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1574890",
-                "title": "秋田県道308号河辺阿仁線",
-                "text": "〇〇は、秋田県秋田市から北秋田市に至る一般県道である。"
             }
         ]
     }

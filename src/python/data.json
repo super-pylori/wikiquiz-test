@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月29日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1704417",
+                "title": "サカスさん",
+                "text": "〇〇は、一部のTBS系列局で生放送されていた生活情報バラエティ番組である。ハイビジョン制作。制作局のTBSでは、2009年3月30日から9月24日まで放送された。"
+            },
+            {
                 "datetime": "2022年05月29日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4070412",
                 "title": "トニ・ブリト・シルヴァ・サ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=155020",
                 "title": "Favorite Blue",
                 "text": "〇〇は、木村貴志と松崎麻矢の2人組音楽グループ。"
-            },
-            {
-                "datetime": "2022年05月28日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2897392",
-                "title": "ヤン・コメリン",
-                "text": "〇〇は、オランダの植物学者、薬用植物の販売者である。"
             }
         ]
     }

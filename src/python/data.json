@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月30日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1676478",
+                "title": "浅野和生 (政治学者)",
+                "text": "〇〇は、日本の政治学者（英国政治史、日台関係論）。平成国際大学教授。"
+            },
+            {
                 "datetime": "2022年05月30日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1006731",
                 "title": "松平直之 (明石藩主)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2471160",
                 "title": "オナガバト属",
                 "text": "〇〇は、ハト目ハト科に属する属。"
-            },
-            {
-                "datetime": "2022年05月28日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4568206",
-                "title": "奥田尚佳",
-                "text": "〇〇は、日本の政治家。元三重県尾鷲市長（2期）。元尾鷲市議会議員（4期）。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月30日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3484133",
+                "title": "3.11 (3776の曲)",
+                "text": "〇〇は、3776の11枚目のシングル。2015年7月11日に発売された。"
+            },
+            {
                 "datetime": "2022年05月30日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2452378",
                 "title": "乗竹孝太郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=927707",
                 "title": "カンテッロ",
                 "text": "〇〇は、イタリア共和国ロンバルディア州ヴァレーゼ県にある、人口約4,700人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2022年05月29日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1896951",
-                "title": "すみしん不動産",
-                "text": "〇〇は、かつて存在した住友信託銀行グループの不動産会社。"
             }
         ]
     }

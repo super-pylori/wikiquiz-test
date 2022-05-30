@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月31日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3521915",
+                "title": "アントワーヌ・ドゥ・ヴィンク",
+                "text": "〇〇は、ベルギーの陶芸家、彫刻家、画家である。"
+            },
+            {
                 "datetime": "2022年05月30日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1200235",
                 "title": "置閏法",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2746006",
                 "title": "モンティ・パイソンの作品",
                 "text": "〇〇は、イギリスのコメディグループ、モンティ・パイソンがグループとして制作した作品の一覧。"
-            },
-            {
-                "datetime": "2022年05月29日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2401263",
-                "title": "金沢歩",
-                "text": "〇〇は、フリーアナウンサー。"
             }
         ]
     }

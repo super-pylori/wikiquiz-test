@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月30日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2945289",
+                "title": "総務企画局",
+                "text": "〇〇は、かつて存在した金融庁の内部部局の一つ。金融庁の総合的な調整や、金融制度に関する企画・立案を所掌事務としていた。"
+            },
+            {
                 "datetime": "2022年05月30日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3648396",
                 "title": "ローマ・アエクイ戦争",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=74527",
                 "title": "落合川駅",
                 "text": "〇〇は、岐阜県中津川市落合にある、東海旅客鉄道（JR東海）中央本線の駅である。"
-            },
-            {
-                "datetime": "2022年05月28日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=842479",
-                "title": "鋼鉄三国志",
-                "text": "〇〇は、〇〇製作委員会の原案による日本のアニメ作品。"
             }
         ]
     }

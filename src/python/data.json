@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年05月31日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1503012",
+                "title": "シマゴマ",
+                "text": "〇〇は、スズメ目ヒタキ科に分類される鳥類である。"
+            },
+            {
                 "datetime": "2022年05月31日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=205021",
                 "title": "賈南風",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4039357",
                 "title": "きよめ餅総本家",
                 "text": "〇〇は、愛知県名古屋市熱田区に本店のある和菓子店。"
-            },
-            {
-                "datetime": "2022年05月30日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1325607",
-                "title": "NHK駒ヶ根ラジオ中継局",
-                "text": "〇〇は、長野県駒ヶ根市にあるNHK長野放送局の中波放送中継局。"
             }
         ]
     }

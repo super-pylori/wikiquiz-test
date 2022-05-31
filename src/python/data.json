@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月01日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3360592",
+                "title": "松竹町 (名古屋市)",
+                "text": "〇〇は、愛知県名古屋市千種区の地名。現行行政地名は松竹町1丁目及び松竹町2丁目。住居表示未実施。"
+            },
+            {
                 "datetime": "2022年05月31日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3746059",
                 "title": "イマノル・ロホ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=34647",
                 "title": "ゴーレム",
                 "text": "〇〇は、ユダヤ教の伝承に登場する自分で動く泥人形。「〇〇」とはヘブライ語で「胎児」を意味する。"
-            },
-            {
-                "datetime": "2022年05月30日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4522904",
-                "title": "幻想牢獄のカレイドスコープ",
-                "text": "〇〇は、ENTERGRAMが開発・発売したコンピュータゲーム。企画・シナリオは竜騎士07th、原画は樋上いたる。"
             }
         ]
     }

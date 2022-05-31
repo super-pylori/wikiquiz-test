@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月01日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2148126",
+                "title": "マリア・フランシスカ・デ・アシス・デ・ブラガンサ",
+                "text": "〇〇は、ポルトガルの王族、ポルトガル王女（Infanta de Portugal）。"
+            },
+            {
                 "datetime": "2022年06月01日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3360592",
                 "title": "松竹町 (名古屋市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1602506",
                 "title": "楊東雄",
                 "text": "〇〇は、台湾台東県出身の男性散打選手、キックボクサー。身長168cm、体重70kg。中華武術散打協和拳館所属。パイワン族であることから、「排灣勇者」という称号を持つ。"
-            },
-            {
-                "datetime": "2022年05月30日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=34647",
-                "title": "ゴーレム",
-                "text": "〇〇は、ユダヤ教の伝承に登場する自分で動く泥人形。「〇〇」とはヘブライ語で「胎児」を意味する。"
             }
         ]
     }

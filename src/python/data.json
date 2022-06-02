@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月02日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3810348",
+                "title": "ムシクサ",
+                "text": "〇〇は、オオバコ科クワガタソウ属の一年草。従来の分類体系である新エングラー体系、クロンキスト体系では、クワガタソウ属はゴマノハグサ科に含められていた。"
+            },
+            {
                 "datetime": "2022年06月02日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=746250",
                 "title": "ジュエルズII",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2148126",
                 "title": "マリア・フランシスカ・デ・アシス・デ・ブラガンサ",
                 "text": "〇〇は、ポルトガルの王族、ポルトガル王女（Infanta de Portugal）。"
-            },
-            {
-                "datetime": "2022年06月01日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3360592",
-                "title": "松竹町 (名古屋市)",
-                "text": "〇〇は、愛知県名古屋市千種区の地名。現行行政地名は松竹町1丁目及び松竹町2丁目。住居表示未実施。"
             }
         ]
     }

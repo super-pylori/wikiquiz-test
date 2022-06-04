@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月04日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1653152",
+                "title": "T-1 (潜水艦)",
+                "text": "〇〇は、アメリカ海軍の潜水艦。AA-1級潜水艦の1番艦。当初の艦名はシューレイ (USS Schley) であった。"
+            },
+            {
                 "datetime": "2022年06月04日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4238560",
                 "title": "TharnType2 -7Years of Love-",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=300348",
                 "title": "トラップ (昆虫採集)",
                 "text": "〇〇は、昆虫を捕まえるための特定の仕掛けで、そこに昆虫が自らやってくるのを待って捕らえるものである。その対象によって、様々な方法が考案されている。"
-            },
-            {
-                "datetime": "2022年06月02日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3810348",
-                "title": "ムシクサ",
-                "text": "〇〇は、オオバコ科クワガタソウ属の一年草。従来の分類体系である新エングラー体系、クロンキスト体系では、クワガタソウ属はゴマノハグサ科に含められていた。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月05日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4436580",
+                "title": "章宇",
+                "text": "〇〇は、中華人民共和国の俳優。"
+            },
+            {
                 "datetime": "2022年06月05日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4499909",
                 "title": "六内円栄",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=775172",
                 "title": "メディアテック (石巻市)",
                 "text": "〇〇は、宮城県石巻市に本社を置き、インターネット関連事業・ソフトウェア開発事業などを行う企業である。"
-            },
-            {
-                "datetime": "2022年06月04日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1199185",
-                "title": "秋山豊子",
-                "text": "〇〇は、日本の生物学者である。慶應義塾大学教授。専門は分子生物学、色素細胞学。"
             }
         ]
     }

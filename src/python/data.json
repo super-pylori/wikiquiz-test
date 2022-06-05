@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月05日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1699576",
+                "title": "モンテスキュー (曖昧さ回避)",
+                "text": "〇〇は、フランスの地名などに用いられている固有名詞である。現在では、その一つを所領としていた思想家モンテスキューの呼び名として知られている。"
+            },
+            {
                 "datetime": "2022年06月05日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1616268",
                 "title": "ON THE ROAD (アルバム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2927913",
                 "title": "ピート・トラヴィス",
                 "text": "〇〇は、イギリスの映画監督、脚本家である。"
-            },
-            {
-                "datetime": "2022年06月03日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2293659",
-                "title": "湣公",
-                "text": "〇〇は、中国の諸侯の諡号。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月05日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4499909",
+                "title": "六内円栄",
+                "text": "〇〇は、日本の漫画家。"
+            },
+            {
                 "datetime": "2022年06月05日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1474733",
                 "title": "偽礫",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1199185",
                 "title": "秋山豊子",
                 "text": "〇〇は、日本の生物学者である。慶應義塾大学教授。専門は分子生物学、色素細胞学。"
-            },
-            {
-                "datetime": "2022年06月04日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=434233",
-                "title": "高関健",
-                "text": "〇〇は、日本のクラシック音楽指揮者。東京藝術大学指揮科教授。"
             }
         ]
     }

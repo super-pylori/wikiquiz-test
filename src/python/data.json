@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月06日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=425418",
+                "title": "市轄区",
+                "text": "〇〇は、中国大陸と台湾における都市の行政区画の一種。"
+            },
+            {
                 "datetime": "2022年06月06日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=912442",
                 "title": "佐藤大基",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=323741",
                 "title": "日産・テラノ",
                 "text": "〇〇は、日産自動車が製造・販売するSUVである。"
-            },
-            {
-                "datetime": "2022年06月04日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3526087",
-                "title": "青柳 (草加市)",
-                "text": "〇〇は、埼玉県草加市の町名。現行行政地名は、青柳一丁目から青柳八丁目および青柳町。郵便番号は青柳が340-0002、青柳町が340-0007。"
             }
         ]
     }

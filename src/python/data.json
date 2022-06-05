@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月05日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1616268",
+                "title": "ON THE ROAD (アルバム)",
+                "text": "〇〇は、1982年2月25日に発売された浜田省吾の初のライブ・アルバムで、初の日本武道館公演と広島郵便貯金ホール（現・上野学園ホール）の模様を収録している。"
+            },
+            {
                 "datetime": "2022年06月05日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1012953",
                 "title": "人形劇の図書館",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2293659",
                 "title": "湣公",
                 "text": "〇〇は、中国の諸侯の諡号。"
-            },
-            {
-                "datetime": "2022年06月03日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=218002",
-                "title": "日本外国人作家一覧",
-                "text": "〇〇は、日本語で著述する外国人（日本に帰化した人も含む）作家の一覧である。"
             }
         ]
     }

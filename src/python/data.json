@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月06日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3605063",
+                "title": "2025年日本国際博覧会",
+                "text": "〇〇は、2025年（令和7年）に日本の大阪府大阪市此花区の夢洲で開催される予定の国際博覧会。テーマは「いのち輝く未来社会のデザイン」 （Designing Future Society for Our Lives）。開催期間は2025年4月13日-10月13日の184日間。"
+            },
+            {
                 "datetime": "2022年06月06日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3139809",
                 "title": "アジカ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1952711",
                 "title": "靱勉",
                 "text": "〇〇は、日本の官僚、実業家。"
-            },
-            {
-                "datetime": "2022年06月04日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1610273",
-                "title": "ヨランダ・チェプラク",
-                "text": "〇〇は、スロベニアの陸上競技選手。2004年アテネオリンピックの銅メダリストである。スロベニア東部ツェリェ出身。"
             }
         ]
     }

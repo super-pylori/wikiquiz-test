@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月06日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2545505",
+                "title": "テオドール・グシュルバウアー",
+                "text": "〇〇は、オーストリアの指揮者。ウィーン生まれ。"
+            },
+            {
                 "datetime": "2022年06月06日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4134644",
                 "title": "ナラティブ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=100005",
                 "title": "並河駅",
                 "text": "〇〇は、京都府亀岡市大井町土田二丁目にある、西日本旅客鉄道（JR西日本）山陰本線の駅である。駅番号はJR-E12。「嵯峨野線」の愛称区間に含まれている。"
-            },
-            {
-                "datetime": "2022年06月04日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3023011",
-                "title": "エレン・ホルマン",
-                "text": "〇〇は、アメリカ合衆国の女優。"
             }
         ]
     }

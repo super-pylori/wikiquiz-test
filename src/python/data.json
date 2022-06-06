@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月06日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=311060",
+                "title": "丸山タケシ",
+                "text": "〇〇は、日本の随筆家、コラムニスト。"
+            },
+            {
                 "datetime": "2022年06月06日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2700477",
                 "title": "コードバ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3859273",
                 "title": "瑞浪市立大湫小学校",
                 "text": "〇〇は、かつて岐阜県瑞浪市に存在した公立小学校。"
-            },
-            {
-                "datetime": "2022年06月04日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1060462",
-                "title": "松山市立子規記念博物館",
-                "text": "〇〇は、俳人正岡子規を記念し1981年4月2日に開館した愛媛県松山市立の博物館。"
             }
         ]
     }

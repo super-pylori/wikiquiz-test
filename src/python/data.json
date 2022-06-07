@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月08日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4031639",
+                "title": "竹崎氏",
+                "text": "〇〇は、日本の氏族。菊池氏庶流とされ、文永弘安の役の活躍で知られる竹崎季長を出した肥後〇〇が著名。"
+            },
+            {
                 "datetime": "2022年06月08日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=884456",
                 "title": "大阪メトロサービス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=425418",
                 "title": "市轄区",
                 "text": "〇〇は、中国大陸と台湾における都市の行政区画の一種。"
-            },
-            {
-                "datetime": "2022年06月06日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=912442",
-                "title": "佐藤大基",
-                "text": "〇〇は、千葉県出身のプロサッカー選手。ポジションはMF。2010年7月19日に心筋梗塞のため、21歳で死去。"
             }
         ]
     }

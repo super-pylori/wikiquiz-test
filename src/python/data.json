@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月07日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=24154",
+                "title": "海田市駅",
+                "text": "〇〇は、広島県安芸郡海田町新町にある、西日本旅客鉄道（JR西日本）の駅。"
+            },
+            {
                 "datetime": "2022年06月07日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=862748",
                 "title": "ベストバウト 〜16 ROUNDS FEATURING RHYMESTER〜",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1334809",
                 "title": "MYこれ!クション 斉藤由貴BEST",
                 "text": "〇〇は、斉藤由貴のベスト・アルバム。2001年11月21日発売。発売元はポニーキャニオン。"
-            },
-            {
-                "datetime": "2022年06月05日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1617436",
-                "title": "女鹿沢村",
-                "text": "〇〇は、かつて青森県にあった村。"
             }
         ]
     }

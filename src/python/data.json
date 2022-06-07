@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月07日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=142136",
+                "title": "ABSワイドゆう",
+                "text": "〇〇は、かつて秋田放送で放送されていた夕方のワイド番組である。祝祭日は放送しないことが多い。"
+            },
+            {
                 "datetime": "2022年06月07日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=512152",
                 "title": "ソニーBMG製CD XCP問題",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4436580",
                 "title": "章宇",
                 "text": "〇〇は、中華人民共和国の俳優。"
-            },
-            {
-                "datetime": "2022年06月05日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4499909",
-                "title": "六内円栄",
-                "text": "〇〇は、日本の漫画家。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月07日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1618283",
+                "title": "ぴよだまり",
+                "text": "〇〇は、てててんが展開するキャラクター。"
+            },
+            {
                 "datetime": "2022年06月07日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=142136",
                 "title": "ABSワイドゆう",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2415588",
                 "title": "太平洋の地獄",
                 "text": "〇〇は、1968年制作のアメリカ映画。"
-            },
-            {
-                "datetime": "2022年06月05日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4436580",
-                "title": "章宇",
-                "text": "〇〇は、中華人民共和国の俳優。"
             }
         ]
     }

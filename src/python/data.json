@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月08日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3920681",
+                "title": "ウェザーロイドの時間",
+                "text": "〇〇は、ウェザーニューズが2018年4月16日から、ウェザーニューズの24時間動画生放送「ウェザーニュースLiVE」で放送している生放送の視聴者参加型の気象情報番組である。"
+            },
+            {
                 "datetime": "2022年06月08日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=146423",
                 "title": "リヴォルヴァーカノン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3013998",
                 "title": "Together (Cheeky Paradeのアルバム)",
                 "text": "〇〇は、Cheeky Paradeのミニ・アルバム。2014年6月18日にiDOL Streetから発売された。"
-            },
-            {
-                "datetime": "2022年06月06日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=311060",
-                "title": "丸山タケシ",
-                "text": "〇〇は、日本の随筆家、コラムニスト。"
             }
         ]
     }

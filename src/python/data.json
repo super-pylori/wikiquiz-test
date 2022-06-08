@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月09日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1819649",
+                "title": "藍谷莉穂",
+                "text": "〇〇は、日本の元グラビアアイドル。埼玉県出身。エートップに所属していた。"
+            },
+            {
                 "datetime": "2022年06月09日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=735234",
                 "title": "大澤裕",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=24154",
                 "title": "海田市駅",
                 "text": "〇〇は、広島県安芸郡海田町新町にある、西日本旅客鉄道（JR西日本）の駅。"
-            },
-            {
-                "datetime": "2022年06月07日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=862748",
-                "title": "ベストバウト 〜16 ROUNDS FEATURING RHYMESTER〜",
-                "text": "〇〇は、2007年2月23日に発売された日本のヒップホップグループRHYMESTERのアルバム。RHYMESTERがこれまでにゲスト参加してきた、他アーティストの曲をRHYMESTER本人が選曲してまとめたワークス集。キャッチコピーは「裏ベスト」。全16曲を収録。2019年には続編となる『ベストバウト 2 RHYMESTER Featuring Works 2006-2018』が発売された。"
             }
         ]
     }

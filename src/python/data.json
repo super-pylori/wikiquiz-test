@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月08日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=939200",
+                "title": "川口ヱリサ",
+                "text": "〇〇は、北九州市出身のヴァイオリニストである。妹はピアニストの川口さやかである。"
+            },
+            {
                 "datetime": "2022年06月08日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3001132",
                 "title": "サステイナブル工学",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3397646",
                 "title": "ルベン・エッランパッリ",
                 "text": "〇〇は、アメリカ合衆国コロンビア出身のイタリアの男子フィギュアスケート選手（男子シングル）。"
-            },
-            {
-                "datetime": "2022年06月07日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1547193",
-                "title": "情報セキュリティ",
-                "text": "〇〇は、情報の機密性、完全性、可用性を維持すること。"
             }
         ]
     }

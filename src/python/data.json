@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月09日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=827305",
+                "title": "第14回衆議院議員総選挙",
+                "text": "〇〇は、1920年（大正9年）5月10日に日本で行われた帝国議会（衆議院）議員の総選挙である。"
+            },
+            {
                 "datetime": "2022年06月09日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3890274",
                 "title": "2017年アジア野球選手権大会",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1618283",
                 "title": "ぴよだまり",
                 "text": "〇〇は、てててんが展開するキャラクター。"
-            },
-            {
-                "datetime": "2022年06月07日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=142136",
-                "title": "ABSワイドゆう",
-                "text": "〇〇は、かつて秋田放送で放送されていた夕方のワイド番組である。祝祭日は放送しないことが多い。"
             }
         ]
     }

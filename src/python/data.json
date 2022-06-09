@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月09日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3532059",
+                "title": "五木村立五木西小学校",
+                "text": "〇〇は、かつて熊本県球磨郡五木村にあった村立小学校。"
+            },
+            {
                 "datetime": "2022年06月09日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4292871",
                 "title": "大野原古墳群 (観音寺市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2870754",
                 "title": "福岡県の図書館一覧",
                 "text": "〇〇は、福岡県内にある全ての図書館の一覧である。（学校図書館を除く。）"
-            },
-            {
-                "datetime": "2022年06月07日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3367095",
-                "title": "アンナ＝テレサ・ティミエニエツカ",
-                "text": "〇〇は、ポーランド出身でアメリカ合衆国で活動した哲学者、現象学者。世界現象学研究所（World Phenomenology Institute）の創立者にして会長、『アナレクタ・フッセリアーナ（Analecta Husserliana）』の編集委員（1960年代後半の創刊時から）。教皇のヨハネ・パウロ2世と30年に渡る友情を育んだ（学術的に協働することもあった）。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月10日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2033427",
+                "title": "ククルビタシン-Δ23-レダクターゼ",
+                "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。23,24-ジヒドロククルビタシン + NAD(P)+                     ⇌              {\\displaystyle \\rightleftharpoons }   ククルビタシン + NAD(P)H + H+反応式の通り、この酵素の基質は23,24-ジヒドロククルビタシンと|NAD(P)+、生成物はククルビタシンとNAD(P)HとH+である。補因子としてマンガンを用いる。組織名は23,24-dihydrocucurbitacin:NAD(P)+ Δ23-oxidoreductaseである。"
+            },
+            {
                 "datetime": "2022年06月10日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1378068",
                 "title": "2-ブテン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3001132",
                 "title": "サステイナブル工学",
                 "text": "〇〇は、「持続可能な工学」のこと。"
-            },
-            {
-                "datetime": "2022年06月08日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=953244",
-                "title": "新山真弓",
-                "text": "〇〇は、日本の元女優。本名同じ。旧芸名、笛 真弓。東京都出身。東洋女子高等学校卒業。オフィス82に所属していた。"
             }
         ]
     }

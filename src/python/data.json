@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月11日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3005185",
+                "title": "ジジ・エッジレイ",
+                "text": "〇〇は、アメリカ合衆国の女優。"
+            },
+            {
                 "datetime": "2022年06月11日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=841362",
                 "title": "デザイン学部",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2525324",
                 "title": "楊乾運",
                 "text": "〇〇は、中国の南北朝時代の人物。字は玄邈。本貫は儻城郡興勢県。"
-            },
-            {
-                "datetime": "2022年06月09日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2981102",
-                "title": "ミラノ音楽院の人物一覧",
-                "text": "〇〇は、ミラノ音楽院に関係する人物の一覧記事。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月11日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=841362",
+                "title": "デザイン学部",
+                "text": "〇〇は、デザイン学の教育研究を目的とした大学の学部の一つである。"
+            },
+            {
                 "datetime": "2022年06月11日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=304407",
                 "title": "Ena (音響効果)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2981102",
                 "title": "ミラノ音楽院の人物一覧",
                 "text": "〇〇は、ミラノ音楽院に関係する人物の一覧記事。"
-            },
-            {
-                "datetime": "2022年06月09日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1819649",
-                "title": "藍谷莉穂",
-                "text": "〇〇は、日本の元グラビアアイドル。埼玉県出身。エートップに所属していた。"
             }
         ]
     }

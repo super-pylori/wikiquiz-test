@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月12日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=574932",
+                "title": "伊吹迪人",
+                "text": "〇〇は、日本の官僚。"
+            },
+            {
                 "datetime": "2022年06月12日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=583223",
                 "title": "神奈川県道408号社家停車場線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=260133",
                 "title": "斎藤志郎",
                 "text": "〇〇は、日本の俳優、声優。文学座所属。山形県酒田市出身。"
-            },
-            {
-                "datetime": "2022年06月10日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=974353",
-                "title": "シャルル・ガルニエ",
-                "text": "〇〇は、フランスの建築家。パリ・オペラ座（ガルニエ宮）やモンテカルロの国営カジノの設計で知られる。"
             }
         ]
     }

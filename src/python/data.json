@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月11日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1659895",
+                "title": "元景安",
+                "text": "〇〇は、北魏・東魏の皇族。東魏・北斉に仕えた軍人。拓跋什翼犍の五世孫にあたる。"
+            },
+            {
                 "datetime": "2022年06月11日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1836571",
                 "title": "くしろチューリップ&花フェア",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1228585",
                 "title": "日本空手道無門会",
                 "text": "〇〇は、空手団体。代表は富樫宜資（とがし よしもと）。"
-            },
-            {
-                "datetime": "2022年06月09日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1766783",
-                "title": "潮凪信号場",
-                "text": "〇〇は、愛知県名古屋市港区潮凪町にある名古屋臨海高速鉄道西名古屋港線（あおなみ線）の信号場である。"
             }
         ]
     }

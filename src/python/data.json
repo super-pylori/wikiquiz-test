@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月11日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=484896",
+                "title": "ダヴィト・ギンヅブルク",
+                "text": "〇〇は、帝政ロシアの東洋学者、男爵。Günzburgとも表記する。"
+            },
+            {
                 "datetime": "2022年06月11日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2632568",
                 "title": "上丸子 (川崎市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1613474",
                 "title": "石川巧",
                 "text": "〇〇は、日本の国文学者。立教大学教授。専攻は日本近代文学。"
-            },
-            {
-                "datetime": "2022年06月09日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2226574",
-                "title": "ビーディ・アイ",
-                "text": "〇〇は、イギリスのロックバンド。2009年にロンドンにてオアシスの元メンバーによって結成された。2014年解散。"
             }
         ]
     }

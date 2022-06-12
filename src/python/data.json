@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月12日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1999003",
+                "title": "山崎善庸",
+                "text": "〇〇は、東京都出身で東京都在住の競艇選手。登録番号4103。身長160cm。血液型A型。88期。埼玉支部所属。同期に三井所尊春、吉永則雄、細川裕子らがいる。"
+            },
+            {
                 "datetime": "2022年06月12日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1032478",
                 "title": "洲原公園 (刈谷市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=549776",
                 "title": "京都府立西城陽高等学校",
                 "text": "〇〇は、京都府城陽市枇杷庄京縄手にある府立の高等学校。1983年（昭和58年）4月に開校した、府立高校の中でも比較的新しい高校である。"
-            },
-            {
-                "datetime": "2022年06月10日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2033427",
-                "title": "ククルビタシン-Δ23-レダクターゼ",
-                "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。23,24-ジヒドロククルビタシン + NAD(P)+                     ⇌              {\\displaystyle \\rightleftharpoons }   ククルビタシン + NAD(P)H + H+反応式の通り、この酵素の基質は23,24-ジヒドロククルビタシンと|NAD(P)+、生成物はククルビタシンとNAD(P)HとH+である。補因子としてマンガンを用いる。組織名は23,24-dihydrocucurbitacin:NAD(P)+ Δ23-oxidoreductaseである。"
             }
         ]
     }

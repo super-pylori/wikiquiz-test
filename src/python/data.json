@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月13日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2123101",
+                "title": "横浜市立新田中学校",
+                "text": "〇〇は、神奈川県横浜市港北区に位置する市立の中学校である。新田中（にったちゅう）と略されて呼ばれる。"
+            },
+            {
                 "datetime": "2022年06月13日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2795927",
                 "title": "レアル・マドリードC",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1411143",
                 "title": "Bボーイ",
                 "text": "〇〇は、ブレイクダンス (breakin') を踊る男性のこと。ブレイクダンサー (break dancer) と同義語である。女性ならばBガール（B-girl）。"
-            },
-            {
-                "datetime": "2022年06月11日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=571564",
-                "title": "ミシェル・ビュトール",
-                "text": "〇〇は、フランスの小説家、詩人、批評家、ブック・アーチスト（livre d'artiste）。ヌーヴォー・ロマン（nouveau roman）の作家の旗手のひとりと目される。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月12日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3206622",
+                "title": "2011年世田谷区長選挙",
+                "text": "〇〇は、東京都にある世田谷区の区長を選出するために行われた選挙で、第17回統一地方選挙後半戦投票日である2011年4月24日に投票が行われた。"
+            },
+            {
                 "datetime": "2022年06月12日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=153191",
                 "title": "大野原島",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3005185",
                 "title": "ジジ・エッジレイ",
                 "text": "〇〇は、アメリカ合衆国の女優。"
-            },
-            {
-                "datetime": "2022年06月11日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=841362",
-                "title": "デザイン学部",
-                "text": "〇〇は、デザイン学の教育研究を目的とした大学の学部の一つである。"
             }
         ]
     }

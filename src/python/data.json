@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月13日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1023348",
+                "title": "舞木信号場",
+                "text": "〇〇は、愛知県岡崎市舞木町にある、名古屋鉄道（名鉄）名古屋本線の信号場である。"
+            },
+            {
                 "datetime": "2022年06月13日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2583130",
                 "title": "長山氏",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=423312",
                 "title": "柏崎刈羽地域",
                 "text": "〇〇は、新潟県中越地方の地域名称。略称は「柏刈地域（かしかりちいき）」又は単に「柏刈（かしかり）」。柏崎地域や刈羽地域と呼ばれることもある。"
-            },
-            {
-                "datetime": "2022年06月11日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=484896",
-                "title": "ダヴィト・ギンヅブルク",
-                "text": "〇〇は、帝政ロシアの東洋学者、男爵。Günzburgとも表記する。"
             }
         ]
     }

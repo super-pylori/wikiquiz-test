@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月14日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2631529",
+                "title": "CMLL-REINAインターナショナル王座",
+                "text": "〇〇は、メキシコのCMLLと日本のREINA女子プロレスが認定する女子プロレスの王座。"
+            },
+            {
                 "datetime": "2022年06月14日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1563151",
                 "title": "スコットランド王国",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=809324",
                 "title": "CHANNEL",
                 "text": "〇〇は、日本のラッパー。FUNKY GRAMMAR UNITの一員。神奈川県出身。芹が谷中学卒業→私立山手学院卒業→日本大学中退"
-            },
-            {
-                "datetime": "2022年06月12日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2431303",
-                "title": "せんだい・宮城フィルムコミッション",
-                "text": "〇〇は、宮城県仙台市に存在するフィルム・コミッションである。"
             }
         ]
     }

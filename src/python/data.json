@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月16日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1037252",
+                "title": "フェラーラとモデナの君主一覧",
+                "text": "〇〇は、13世紀から19世紀のイタリアにおけるフェラーラ、モデナおよびレッジョの君主を挙げる。"
+            },
+            {
                 "datetime": "2022年06月16日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4502093",
                 "title": "吉成明",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1647866",
                 "title": "岡崎市立南中学校",
                 "text": "〇〇は、愛知県岡崎市戸崎町にある公立中学校。"
-            },
-            {
-                "datetime": "2022年06月14日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2120524",
-                "title": "守田奈緒子",
-                "text": "〇〇は、日本の元レースクイーンであり、元タレントである。"
             }
         ]
     }

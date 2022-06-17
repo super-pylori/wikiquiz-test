@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月18日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=446963",
+                "title": "滋野文夫",
+                "text": "〇〇は、群馬県前橋市出身の水泳選手。「国体男」として知られる。通算17回の出場は史上最多。"
+            },
+            {
                 "datetime": "2022年06月18日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4417774",
                 "title": "USEN NETWORKS",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1037252",
                 "title": "フェラーラとモデナの君主一覧",
                 "text": "〇〇は、13世紀から19世紀のイタリアにおけるフェラーラ、モデナおよびレッジョの君主を挙げる。"
-            },
-            {
-                "datetime": "2022年06月16日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4502093",
-                "title": "吉成明",
-                "text": "〇〇は、日本の政治家。元茨城県日立市長（1期）。"
             }
         ]
     }

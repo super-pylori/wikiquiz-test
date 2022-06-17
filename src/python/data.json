@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月18日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4417774",
+                "title": "USEN NETWORKS",
+                "text": "〇〇は、東京都渋谷区に本社を置くUSEN-NEXTグループのインターネット通信関連事業会社。本店は品川区。"
+            },
+            {
                 "datetime": "2022年06月17日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2538922",
                 "title": "イスタンブール杯",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4502093",
                 "title": "吉成明",
                 "text": "〇〇は、日本の政治家。元茨城県日立市長（1期）。"
-            },
-            {
-                "datetime": "2022年06月16日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1826375",
-                "title": "カール・フォン・ヘッセン＝ダルムシュタット",
-                "text": "〇〇は、ヘッセン大公国の公子。大公ルートヴィヒ4世の父。"
             }
         ]
     }

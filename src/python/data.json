@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月17日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2781919",
+                "title": "ダヂ",
+                "text": "〇〇は、ブラジルのミュージシャン、ベーシスト。"
+            },
+            {
                 "datetime": "2022年06月17日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3994507",
                 "title": "訃報 1994年4月",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=23593",
                 "title": "中里介山",
                 "text": "〇〇は、日本の小説家。本名は、中里 弥之助。甥に、ロシア・ソビエト文学者の中里迪弥（なかざとみちや）。"
-            },
-            {
-                "datetime": "2022年06月15日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4358434",
-                "title": "久保田崇",
-                "text": "〇〇は、日本の政治家。掛川市長（1期）。"
             }
         ]
     }

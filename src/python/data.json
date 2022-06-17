@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月18日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2725407",
+                "title": "得撫富士",
+                "text": "〇〇は、千島列島の得撫島にある、標高1,328mの成層火山である。ロシア名はコロコル（Колокол、英語表記：Kolokol）。"
+            },
+            {
                 "datetime": "2022年06月18日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2032594",
                 "title": "ゲリドゥムハメド・アシルムハメドフ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1055744",
                 "title": "セイヨウトウキ",
                 "text": "〇〇は、セリ科の二年草。別名、ガーデンアンゼリカ。"
-            },
-            {
-                "datetime": "2022年06月16日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2668141",
-                "title": "慶州警察署",
-                "text": "〇〇は、慶北地方警察庁所管の警察署である。"
             }
         ]
     }

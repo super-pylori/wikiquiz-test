@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月19日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=29813",
+                "title": "一畑電車大社線",
+                "text": "〇〇は、島根県出雲市の川跡駅から出雲大社前駅に至る一畑電車の鉄道路線。"
+            },
+            {
                 "datetime": "2022年06月19日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1626885",
                 "title": "バーズム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2781919",
                 "title": "ダヂ",
                 "text": "〇〇は、ブラジルのミュージシャン、ベーシスト。"
-            },
-            {
-                "datetime": "2022年06月17日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3994507",
-                "title": "訃報 1994年4月",
-                "text": "〇〇は、1994年（平成6年）4月中に物故した人物の一覧である。"
             }
         ]
     }

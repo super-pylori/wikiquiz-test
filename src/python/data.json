@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月18日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=720254",
+                "title": "相良頼央",
+                "text": "〇〇は、肥後国人吉藩の第8代藩主。"
+            },
+            {
                 "datetime": "2022年06月18日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4606911",
                 "title": "黒川たくや",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=211905",
                 "title": "フランキー為谷",
                 "text": "〇〇は、SMA NEET Project所属のお笑い芸人。過去に大川興業に所属していた。栃木県足利市出身、現在は群馬県太田市在住。通称はためちゃん。身長180cm。"
-            },
-            {
-                "datetime": "2022年06月16日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1523426",
-                "title": "閣外協力",
-                "text": "〇〇は、連立政権における政府・与党への参加の一形態。内閣に閣僚を出さずに、政策協定を締結し連立政権に参加すること。"
             }
         ]
     }

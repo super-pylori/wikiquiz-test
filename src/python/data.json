@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月19日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1354970",
+                "title": "イーウッド・パーク",
+                "text": "〇〇は、イングランド, ランカシャーのブラックバーンにあるスタジアム。現在は、ブラックバーン・ローヴァーズFCのホームスタジアムとなっている。収容人数は31,367人。"
+            },
+            {
                 "datetime": "2022年06月19日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1784330",
                 "title": "ましろ色シンフォニー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=446315",
                 "title": "日本映像ソフト協会",
                 "text": "〇〇は、ビデオソフトメーカー各社が加盟する一般社団法人。略称JVA。旧名は日本ビデオ協会。"
-            },
-            {
-                "datetime": "2022年06月17日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2647466",
-                "title": "So mania",
-                "text": "〇〇は、SOUL'd OUTの5thアルバム。2012年8月29日にSMEレコーズから発売された。"
             }
         ]
     }

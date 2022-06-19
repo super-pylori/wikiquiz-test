@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月19日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4385406",
+                "title": "The 20th Anniversary Edition 1980-1999 his words and music",
+                "text": "〇〇は、2000年1月21日にEpic Records / M's Factoryから発売された佐野元春のベスト・アルバム。"
+            },
+            {
                 "datetime": "2022年06月19日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1246588",
                 "title": "ジョー・クロフォード",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2538922",
                 "title": "イスタンブール杯",
                 "text": "〇〇は、トルコ・イスタンブールで開かれるフィギュアスケートの国際競技会。トルコアイススケート連盟が主催し、国際スケート連盟の規定に則って開催される。"
-            },
-            {
-                "datetime": "2022年06月17日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1664808",
-                "title": "八太郎トンネル",
-                "text": "〇〇は、青森県八戸市にあるトンネルである。"
             }
         ]
     }

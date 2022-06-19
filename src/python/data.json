@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月19日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4523813",
+                "title": "児玉幸雄",
+                "text": "〇〇は、島根県出身の元プロ野球選手。"
+            },
+            {
                 "datetime": "2022年06月19日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=78291",
                 "title": "古河駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2032594",
                 "title": "ゲリドゥムハメド・アシルムハメドフ",
                 "text": "〇〇は、トルクメニスタンの政治家、軍人、チェキスト。中将。内務相、国家保安相等を歴任。"
-            },
-            {
-                "datetime": "2022年06月18日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=446963",
-                "title": "滋野文夫",
-                "text": "〇〇は、群馬県前橋市出身の水泳選手。「国体男」として知られる。通算17回の出場は史上最多。"
             }
         ]
     }

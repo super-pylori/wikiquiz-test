@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月20日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=316034",
+                "title": "奥菜秀次",
+                "text": "〇〇は、日本のフリーライター。埼玉県出身。アメリカ現代史研究家。"
+            },
+            {
                 "datetime": "2022年06月20日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1654339",
                 "title": "The One +",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1308308",
                 "title": "参議院枠",
                 "text": "〇〇は、内閣が与党参議院議員団に対して人事面で配慮すること、また、配慮の結果として参議院議員が充てられたポストのことである。"
-            },
-            {
-                "datetime": "2022年06月18日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=769639",
-                "title": "ガメラ4 真実",
-                "text": "〇〇は、落語家の林家しん平が2003年に自主制作した映画。45分。"
             }
         ]
     }

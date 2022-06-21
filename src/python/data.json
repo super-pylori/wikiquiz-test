@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月21日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4004094",
+                "title": "あいちの伝統的工芸品及び郷土伝統工芸品",
+                "text": "〇〇は、愛知県が指定する伝統工芸品。その一部は経済産業大臣指定伝統的工芸品にも指定されている。"
+            },
+            {
                 "datetime": "2022年06月21日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1394744",
                 "title": "チャイム (斉藤由貴のアルバム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4385406",
                 "title": "The 20th Anniversary Edition 1980-1999 his words and music",
                 "text": "〇〇は、2000年1月21日にEpic Records / M's Factoryから発売された佐野元春のベスト・アルバム。"
-            },
-            {
-                "datetime": "2022年06月19日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1246588",
-                "title": "ジョー・クロフォード",
-                "text": "〇〇は、アメリカ合衆国フロリダ州アラチュア郡ゲインズビル出身の元プロ野球選手（投手）。左投左打。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月22日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3424834",
+                "title": "南紗椰",
+                "text": "〇〇は、日本のシンガーソングライター。"
+            },
+            {
                 "datetime": "2022年06月22日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1979186",
                 "title": "バナナ・パンケーキ・トレイル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1119879",
                 "title": "天孫氏",
                 "text": "〇〇は、琉球最初の王統とされる氏族で、〇〇王統とも呼ばれる。"
-            },
-            {
-                "datetime": "2022年06月20日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2405554",
-                "title": "佐伯拓也",
-                "text": "〇〇は、富山県出身のキャスター  実業家である。有限会社ピオニエーレ 代表取締役社長"
             }
         ]
     }

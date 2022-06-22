@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月23日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2649836",
+                "title": "Everybody's Gonna Be Happy",
+                "text": "〇〇は、Prizmmy☆の1枚目のシングル。 2012年3月16日にavex entertainmentから発売された。"
+            },
+            {
                 "datetime": "2022年06月23日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4030321",
                 "title": "シャープール4世",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1803417",
                 "title": "高橋とよ",
                 "text": "〇〇は、日本の女優である。"
-            },
-            {
-                "datetime": "2022年06月21日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3303688",
-                "title": "今川村 (岐阜県)",
-                "text": "〇〇は、かつて岐阜県稲葉郡にあった村である。現在の岐阜市北西部（今川、大学西など）に該当する。当村発足時は方県郡の村であったが、郡の合併で稲葉郡の村となった。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月23日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2380",
+                "title": "Safari",
+                "text": "〇〇は、Appleにより開発されているウェブブラウザ。レンダリングエンジンのWebKitを初めとするオープンソースソフトウェアをベースにしており、Macintosh標準搭載のウェブブラウザとして過去のInternet Explorer for MacやNetscape Navigatorを置き換える形で登場した。macOS、iOS、iPadOSに対応しており、2007年から2010年まではWindows版も提供されていた。"
+            },
+            {
                 "datetime": "2022年06月23日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=493669",
                 "title": "関東鉄道キハ2000形気動車",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2811398",
                 "title": "東経48度線",
                 "text": "〇〇は、本初子午線面から東へ48度の角度を成す経線である。北極点から北極海、ヨーロッパ、アジア、インド洋、マダガスカル、南極海、南極大陸を通過して南極点までを結ぶ。〇〇は、西経132度線と共に大円を形成する。"
-            },
-            {
-                "datetime": "2022年06月21日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2942267",
-                "title": "平島松尾",
-                "text": "〇〇は、日本の衆議院議員（自由党→憲政党→憲政本党→憲政会）。"
             }
         ]
     }

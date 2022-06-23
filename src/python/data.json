@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月23日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=493669",
+                "title": "関東鉄道キハ2000形気動車",
+                "text": "〇〇は、関東鉄道竜ヶ崎線の通勤型気動車。"
+            },
+            {
                 "datetime": "2022年06月23日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1523706",
                 "title": "Breath 吐息は茜色",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2942267",
                 "title": "平島松尾",
                 "text": "〇〇は、日本の衆議院議員（自由党→憲政党→憲政本党→憲政会）。"
-            },
-            {
-                "datetime": "2022年06月21日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3818146",
-                "title": "MeVisLab",
-                "text": "〇〇は、ドイツのミヴィス・メディカル・ソリューションによって開発された医療用画像処理ソフトウェアである。Windows、Linux、Mac OS Xに対応したクロスプラットフォーム仕様である。"
             }
         ]
     }

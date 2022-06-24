@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月24日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3296316",
+                "title": "高野村 (岐阜県)",
+                "text": "〇〇は、かつて岐阜県武儀郡にあった村である。現在の関市武芸川町高野に該当する。"
+            },
+            {
                 "datetime": "2022年06月24日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1789815",
                 "title": "コーネリアス・ヴァンダービルト・ホイットニー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3231205",
                 "title": "錦山天満宮",
                 "text": "〇〇は、江別市屯田資料館が建つ。"
-            },
-            {
-                "datetime": "2022年06月22日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=374395",
-                "title": "高原知秀",
-                "text": "〇〇は、日本の俳優。福岡県出身。身長178cm、体重75kg。血液型A型。夢工房所属。劇団野良犬弾座長。"
             }
         ]
     }

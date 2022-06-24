@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月25日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3122954",
+                "title": "町田一郎",
+                "text": "〇〇は、三菱銀行常務取締役、三菱経済研究所長などを務めた、日本の銀行家。"
+            },
+            {
                 "datetime": "2022年06月25日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=708399",
                 "title": "川中 (下関市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2246798",
                 "title": "メアリー・ハウ",
                 "text": "〇〇は、アメリカ合衆国の作曲家。結婚前の姓はカーライル。"
-            },
-            {
-                "datetime": "2022年06月23日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2113188",
-                "title": "アルファヴィル (建築設計)",
-                "text": "〇〇は、日本のアトリエ系建築設計事務所。本社は京都市右京区。竹口健太郎と山本麻子で主宰。1998年設立。Hi e Award 09 for Innovative Excellence in Private Housing、Design For Asia Award 2009 GOLD Award 受賞。"
             }
         ]
     }

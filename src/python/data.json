@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月25日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1470155",
+                "title": "大阪市役所",
+                "text": "〇〇は、地方公共団体である大阪市の執行機関またはそれが入居する施設（大阪市庁舎）である。職員数は36,117人（2021年4月1日現在）。"
+            },
+            {
                 "datetime": "2022年06月25日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2545909",
                 "title": "徳光和夫の週刊ジャイアンツ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2241865",
                 "title": "クヌッツェン・オフショア・タンカーズ",
                 "text": "〇〇は、ノルウェーの海運会社。略称KOT"
-            },
-            {
-                "datetime": "2022年06月23日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2380",
-                "title": "Safari",
-                "text": "〇〇は、Appleにより開発されているウェブブラウザ。レンダリングエンジンのWebKitを初めとするオープンソースソフトウェアをベースにしており、Macintosh標準搭載のウェブブラウザとして過去のInternet Explorer for MacやNetscape Navigatorを置き換える形で登場した。macOS、iOS、iPadOSに対応しており、2007年から2010年まではWindows版も提供されていた。"
             }
         ]
     }

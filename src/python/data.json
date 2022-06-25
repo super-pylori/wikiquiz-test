@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月25日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2178421",
+                "title": "諏訪頼満 (安芸守)",
+                "text": "〇〇は、戦国時代の武将。信濃の戦国大名諏訪氏の当主。諏訪政満の子で、諏訪頼重の祖父。"
+            },
+            {
                 "datetime": "2022年06月25日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1210194",
                 "title": "ツィンメルベルクトンネル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=493669",
                 "title": "関東鉄道キハ2000形気動車",
                 "text": "〇〇は、関東鉄道竜ヶ崎線の通勤型気動車。"
-            },
-            {
-                "datetime": "2022年06月23日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1523706",
-                "title": "Breath 吐息は茜色",
-                "text": "〇〇は、サクセスが2008年6月12日に発売したニンテンドーDS用ソフト。キャラクターデザインは、早瀬あきらが担当。"
             }
         ]
     }

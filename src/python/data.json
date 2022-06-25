@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月25日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2545909",
+                "title": "徳光和夫の週刊ジャイアンツ",
+                "text": "〇〇は、CS放送日テレジータスで放送されていた読売ジャイアンツの情報番組である。"
+            },
+            {
                 "datetime": "2022年06月25日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2178421",
                 "title": "諏訪頼満 (安芸守)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2380",
                 "title": "Safari",
                 "text": "〇〇は、Appleにより開発されているウェブブラウザ。レンダリングエンジンのWebKitを初めとするオープンソースソフトウェアをベースにしており、Macintosh標準搭載のウェブブラウザとして過去のInternet Explorer for MacやNetscape Navigatorを置き換える形で登場した。macOS、iOS、iPadOSに対応しており、2007年から2010年まではWindows版も提供されていた。"
-            },
-            {
-                "datetime": "2022年06月23日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=493669",
-                "title": "関東鉄道キハ2000形気動車",
-                "text": "〇〇は、関東鉄道竜ヶ崎線の通勤型気動車。"
             }
         ]
     }

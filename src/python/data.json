@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月26日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4291627",
+                "title": "豆田泰志",
+                "text": "〇〇は、埼玉県越谷市出身のプロ野球選手（投手・育成選手）。右投右打。埼玉西武ライオンズ所属。"
+            },
+            {
                 "datetime": "2022年06月26日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2217645",
                 "title": "エンクホイゼン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4407222",
                 "title": "ドーナツパターン",
                 "text": "〇〇は、大地震が発生し得る (大地震の震源域となり得る) 場所を中心とした周辺地域で、大地震に先行して地震活動が活発化することをいう。"
-            },
-            {
-                "datetime": "2022年06月24日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1747565",
-                "title": "御藤博子",
-                "text": "〇〇は、フリーアナウンサー。"
             }
         ]
     }

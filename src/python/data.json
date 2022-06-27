@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月27日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1829495",
+                "title": "Notepad2",
+                "text": "〇〇は、マイクロソフトのメモ帳 (Notepad) の代替となる小さく、高速で、使いやすいエディタとすることであった。ASP、アセンブリ言語、C言語、C++、C#、CGI、CSS、HTML、Java、JavaScript、NSIS、Pascal、Perl、PHP、Python、SQL、VB、VBScript、XHTML、XMLといったプログラミング言語のシンタックスハイライトをサポートしている。また、プログラミング言語ではないが、BAT、Diff、INF、INI、REG、設定ファイル (.properties) でもシンタックスハイライトをサポートしている。他にも次のような機能がある。自動インデント括弧のマッチングASCII、UTF-8、UTF-16 の間での文字コード変換多重UNDO/REDO矩形領域選択DOS (CR/LF)、UNIX (LF)、Macintosh (CR) の間での改行コード変換正規表現による検索・置換元々メモ帳の代替となることを意図しているため、今後大幅な機能拡張がされる予定はない。例えば、Multiple Document Interface に対応する予定はない。また、英語以外に対応する予定もない。"
+            },
+            {
                 "datetime": "2022年06月27日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1009482",
                 "title": "久保井七豊",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1799045",
                 "title": "恋人は心の応援団",
                 "text": "〇〇は、2001年10月17日にzetima（現・UP-FRONT WORKS zetimaレーベル）から発売されたカントリー娘。に石川梨華（モーニング娘。）の2ndシングル。"
-            },
-            {
-                "datetime": "2022年06月25日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3801995",
-                "title": "アファカ文字",
-                "text": "〇〇は、ジュカ音節文字（Djuka, Ndyuka）ともいい、オランダ領ギアナ（今のスリナム）でジュカ語を表記するためにアファカ・アトゥミシによって1910年ごろに考案された音節文字。左から右に書かれる。"
             }
         ]
     }

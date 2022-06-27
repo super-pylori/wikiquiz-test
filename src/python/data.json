@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月28日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=603527",
+                "title": "鉄道橋",
+                "text": "〇〇は、鉄道を渡すための橋梁である。"
+            },
+            {
                 "datetime": "2022年06月28日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3319404",
                 "title": "兼用工作物",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1117717",
                 "title": "AA世界野球選手権大会",
                 "text": "〇〇は、国際野球連盟（IBAF）が主催し、開催されていた、16歳以下の各国代表選手で競われる野球の国際大会である。2011年の第15回大会をもって終了した。"
-            },
-            {
-                "datetime": "2022年06月26日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1741696",
-                "title": "入間田宣夫",
-                "text": "〇〇は、日本の歴史学者。専門は日本中世史。東北大学名誉教授。"
             }
         ]
     }

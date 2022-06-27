@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月27日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4610522",
+                "title": "宝幢寺 (千葉市)",
+                "text": "〇〇は、千葉県千葉市花見川区にある真言宗豊山派の寺院。"
+            },
+            {
                 "datetime": "2022年06月27日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1829495",
                 "title": "Notepad2",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3716785",
                 "title": "エマーソン・ハインドマン",
                 "text": "〇〇は、アメリカ合衆国テキサス州ダラス出身のサッカー選手。アトランタ・ユナイテッドFC所属。ポジションはミッドフィールダー。"
-            },
-            {
-                "datetime": "2022年06月26日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1799045",
-                "title": "恋人は心の応援団",
-                "text": "〇〇は、2001年10月17日にzetima（現・UP-FRONT WORKS zetimaレーベル）から発売されたカントリー娘。に石川梨華（モーニング娘。）の2ndシングル。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月28日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1374470",
+                "title": "福島県磐城第一高等学校",
+                "text": "〇〇は、福島県いわき市内郷御厩町上宿にある私立高等学校。"
+            },
+            {
                 "datetime": "2022年06月27日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=851404",
                 "title": "梅澤レナ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3019203",
                 "title": "北斗市立久根別小学校",
                 "text": "〇〇は、北海道北斗市にある公立小学校。"
-            },
-            {
-                "datetime": "2022年06月26日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3649996",
-                "title": "ユーラス豊頃ソーラーパーク",
-                "text": "〇〇は、北海道中川郡豊頃町にある太陽光発電所。"
             }
         ]
     }

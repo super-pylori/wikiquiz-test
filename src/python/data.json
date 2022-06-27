@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月27日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=851404",
+                "title": "梅澤レナ",
+                "text": "〇〇は、埼玉県出身の女性ファッションモデル。Gunn's Management所属。"
+            },
+            {
                 "datetime": "2022年06月27日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1275696",
                 "title": "佐賀市立図書館",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3649996",
                 "title": "ユーラス豊頃ソーラーパーク",
                 "text": "〇〇は、北海道中川郡豊頃町にある太陽光発電所。"
-            },
-            {
-                "datetime": "2022年06月26日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=110708",
-                "title": "大映テレビ",
-                "text": "〇〇は、東京都港区麻布台に本社を置く、主にテレビドラマの制作を請け負う日本の会社である。"
             }
         ]
     }

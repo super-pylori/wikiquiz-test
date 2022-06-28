@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月28日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=203314",
+                "title": "厳畯",
+                "text": "〇〇は、中国三国時代の学者・政治家。字は曼才。徐州彭城国の人。子は厳凱・厳爽。従甥（いとこの子）は厳武。『三国志』呉書に伝がある。"
+            },
+            {
                 "datetime": "2022年06月28日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4372795",
                 "title": "マキイフカ市電",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3331527",
                 "title": "多田",
                 "text": "〇〇は、日本各地の地名、または姓。"
-            },
-            {
-                "datetime": "2022年06月26日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4291627",
-                "title": "豆田泰志",
-                "text": "〇〇は、埼玉県越谷市出身のプロ野球選手（投手・育成選手）。右投右打。埼玉西武ライオンズ所属。"
             }
         ]
     }

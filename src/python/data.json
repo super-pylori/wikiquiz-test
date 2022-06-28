@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月28日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1347013",
+                "title": "恋の風景",
+                "text": "〇〇は、2003年に制作された香港・日本（NHK）・中国・フランス合作映画。"
+            },
+            {
                 "datetime": "2022年06月28日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3313962",
                 "title": "読谷山焼 北窯",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2598630",
                 "title": "森下徹",
                 "text": "〇〇は、日本の歴史学者。専門は日本史。山口大学教授。博士（文学）（1993年、東京大学にて取得）。"
-            },
-            {
-                "datetime": "2022年06月26日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3617451",
-                "title": "君色",
-                "text": "〇〇は、Da-iCEの12枚目のシングル。2017年8月30日にユニバーサルシグマから発売。"
             }
         ]
     }

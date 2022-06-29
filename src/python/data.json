@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月29日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4175063",
+                "title": "UVERworld PREMIUM LIVE on Xmas 2015 at Nippon Budokan",
+                "text": "〇〇は、UVERworldの13枚目のライブDVDである。2016年11月2日にgr8!records(SME)より発売された。同時に、Blu-ray Disc版も発売された。"
+            },
+            {
                 "datetime": "2022年06月29日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2030354",
                 "title": "Third Time's A Charm",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1829495",
                 "title": "Notepad2",
                 "text": "〇〇は、マイクロソフトのメモ帳 (Notepad) の代替となる小さく、高速で、使いやすいエディタとすることであった。ASP、アセンブリ言語、C言語、C++、C#、CGI、CSS、HTML、Java、JavaScript、NSIS、Pascal、Perl、PHP、Python、SQL、VB、VBScript、XHTML、XMLといったプログラミング言語のシンタックスハイライトをサポートしている。また、プログラミング言語ではないが、BAT、Diff、INF、INI、REG、設定ファイル (.properties) でもシンタックスハイライトをサポートしている。他にも次のような機能がある。自動インデント括弧のマッチングASCII、UTF-8、UTF-16 の間での文字コード変換多重UNDO/REDO矩形領域選択DOS (CR/LF)、UNIX (LF)、Macintosh (CR) の間での改行コード変換正規表現による検索・置換元々メモ帳の代替となることを意図しているため、今後大幅な機能拡張がされる予定はない。例えば、Multiple Document Interface に対応する予定はない。また、英語以外に対応する予定もない。"
-            },
-            {
-                "datetime": "2022年06月27日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1009482",
-                "title": "久保井七豊",
-                "text": "〇〇は、日本の子役、タレント。東京都出身。キリンプロ所属。"
             }
         ]
     }

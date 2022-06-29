@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月29日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3585519",
+                "title": "徳永豊",
+                "text": "〇〇は、日本の政治家、弁護士、画家。第7代福山市長（4期）。"
+            },
+            {
                 "datetime": "2022年06月29日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3209147",
                 "title": "ダーウィンギツネ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=851404",
                 "title": "梅澤レナ",
                 "text": "〇〇は、埼玉県出身の女性ファッションモデル。Gunn's Management所属。"
-            },
-            {
-                "datetime": "2022年06月27日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1275696",
-                "title": "佐賀市立図書館",
-                "text": "〇〇は、佐賀県佐賀市にある市立図書館である。"
             }
         ]
     }

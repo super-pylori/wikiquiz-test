@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月30日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2062089",
+                "title": "中帆登美",
+                "text": "〇〇は、青森県弘前市出身の女優。"
+            },
+            {
                 "datetime": "2022年06月29日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3444459",
                 "title": "ピョートル・オリデンブルクスキー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=130747",
                 "title": "レイセオン",
                 "text": "〇〇は、かつて存在したアメリカ合衆国の軍需製品メーカー。2020年4月、ユナイテッド・テクノロジーズと合併し、〇〇・テクノロジーズとなった。"
-            },
-            {
-                "datetime": "2022年06月28日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=603527",
-                "title": "鉄道橋",
-                "text": "〇〇は、鉄道を渡すための橋梁である。"
             }
         ]
     }

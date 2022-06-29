@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年06月29日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3209147",
+                "title": "ダーウィンギツネ",
+                "text": "〇〇は、イヌ科クルペオギツネ属の一種で絶滅危惧種である。"
+            },
+            {
                 "datetime": "2022年06月29日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3284041",
                 "title": "静岡コレクション",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1275696",
                 "title": "佐賀市立図書館",
                 "text": "〇〇は、佐賀県佐賀市にある市立図書館である。"
-            },
-            {
-                "datetime": "2022年06月27日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4610522",
-                "title": "宝幢寺 (千葉市)",
-                "text": "〇〇は、千葉県千葉市花見川区にある真言宗豊山派の寺院。"
             }
         ]
     }

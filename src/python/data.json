@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月01日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1788375",
+                "title": "Vanilla (GACKTの曲)",
+                "text": "〇〇は、1999年8月11日にGacktが発表した楽曲、及び同曲を収録したシングル。通算2枚目のシングルである。発売元は日本クラウン。本作がGacktでは最後の8cm盤シングルとなった。"
+            },
+            {
                 "datetime": "2022年07月01日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3642985",
                 "title": "ウィリアム・ハドソン (俳優)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2030354",
                 "title": "Third Time's A Charm",
                 "text": "〇〇は、Ken Yokoyamaの3枚目のアルバム。"
-            },
-            {
-                "datetime": "2022年06月29日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2976124",
-                "title": "AN/WLR-1",
-                "text": "〇〇は、アメリカ海軍が開発した電波探知装置。電子戦支援（ESM）および電子情報（ELINT）に用いられる。"
             }
         ]
     }

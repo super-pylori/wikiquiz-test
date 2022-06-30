@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月01日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3642985",
+                "title": "ウィリアム・ハドソン (俳優)",
+                "text": "〇〇は、アメリカ合衆国の俳優である。"
+            },
+            {
                 "datetime": "2022年07月01日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=371676",
                 "title": "武蔵野 (食品製造)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2976124",
                 "title": "AN/WLR-1",
                 "text": "〇〇は、アメリカ海軍が開発した電波探知装置。電子戦支援（ESM）および電子情報（ELINT）に用いられる。"
-            },
-            {
-                "datetime": "2022年06月29日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2097865",
-                "title": "藤ひさし",
-                "text": "〇〇は、日本の映像作家、美術コンテンツ・プロデューサー。東京西麻布生まれ。本名は遠藤 欽久（えんどう よしひさ、一般社団法人日本美術アカデミー理事）。"
             }
         ]
     }

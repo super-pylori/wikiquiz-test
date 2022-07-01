@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月01日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1555510",
+                "title": "東京電機大学出版局",
+                "text": "〇〇は、理学、工学などの大学・高専向け教科書、その他専門書を発行する東京電機大学の出版局。同出版社から出版されている書籍の背表紙では「電機大出版局」と略称される場合もよくあるが、正式名称は「〇〇」である。"
+            },
+            {
                 "datetime": "2022年07月01日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1788375",
                 "title": "Vanilla (GACKTの曲)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4175063",
                 "title": "UVERworld PREMIUM LIVE on Xmas 2015 at Nippon Budokan",
                 "text": "〇〇は、UVERworldの13枚目のライブDVDである。2016年11月2日にgr8!records(SME)より発売された。同時に、Blu-ray Disc版も発売された。"
-            },
-            {
-                "datetime": "2022年06月29日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2030354",
-                "title": "Third Time's A Charm",
-                "text": "〇〇は、Ken Yokoyamaの3枚目のアルバム。"
             }
         ]
     }

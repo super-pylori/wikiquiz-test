@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月02日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4431654",
+                "title": "宇都宮市立豊郷南小学校",
+                "text": "〇〇は、栃木県宇都宮市竹林町にある公立の小学校である。"
+            },
+            {
                 "datetime": "2022年07月01日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3873884",
                 "title": "ストリームベース",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2259197",
                 "title": "葛梅駅",
                 "text": "〇〇は、大韓民国京畿道九里市葛梅洞にある韓国鉄道公社京春線の駅である。副駅名は三育大(삼육대)である。駅番号はP123。"
-            },
-            {
-                "datetime": "2022年06月30日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=333173",
-                "title": "孝昭帝",
-                "text": "〇〇は、北朝北斉の第3代皇帝。"
             }
         ]
     }

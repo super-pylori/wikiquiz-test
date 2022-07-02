@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月03日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1151441",
+                "title": "土井利武",
+                "text": "〇〇は、江戸時代中期の肥前国唐津藩の世嗣。官位は出雲守。"
+            },
+            {
                 "datetime": "2022年07月03日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2500167",
                 "title": "トルシー郡",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=371676",
                 "title": "武蔵野 (食品製造)",
                 "text": "〇〇は、埼玉県朝霞市の食品製造（中食）会社。武蔵野ホールディングス傘下の企業である。"
-            },
-            {
-                "datetime": "2022年07月01日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=393952",
-                "title": "ビリー・ボイド",
-                "text": "〇〇は、イギリス・スコットランドのグラスゴー出身の俳優。"
             }
         ]
     }

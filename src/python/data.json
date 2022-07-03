@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月04日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=921747",
+                "title": "安井絵里",
+                "text": "〇〇は、日本の女性声優、ナレーター。滋賀県出身。青二プロダクション所属。"
+            },
+            {
                 "datetime": "2022年07月04日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3621572",
                 "title": "奥山古墳",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3958485",
                 "title": "富澤慎",
                 "text": "〇〇は、日本のセーリング選手。関東学院大学人間環境学部を経て、トヨタ自動車東日本所属。2018年のRS:X 2018 World Cup Series - Round 3, Hyères Hyères, FRAの大会で5位を獲得。"
-            },
-            {
-                "datetime": "2022年07月02日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1305155",
-                "title": "オール野党",
-                "text": "〇〇は、行政府の首長の所属政党（もしくは政治的位置）が議会の少数派であり、首長に反対する勢力が議会の多数を占めている状態のこと。一般的には日本の地方政府で表現される。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月03日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2601169",
+                "title": "阿部和俊",
+                "text": "〇〇は、日本の地理学者（人文地理学・都市地理学）。愛知教育大学名誉教授。"
+            },
+            {
                 "datetime": "2022年07月03日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4179885",
                 "title": "土師咋子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=533223",
                 "title": "ロジャー・トラウトマン",
                 "text": "〇〇は、アメリカ合衆国のファンク・ミュージシャン。音楽プロデューサー。"
-            },
-            {
-                "datetime": "2022年07月02日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4431654",
-                "title": "宇都宮市立豊郷南小学校",
-                "text": "〇〇は、栃木県宇都宮市竹林町にある公立の小学校である。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月04日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2478403",
+                "title": "プースケ",
+                "text": "〇〇は、雑種の雄犬。"
+            },
+            {
                 "datetime": "2022年07月04日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=921747",
                 "title": "安井絵里",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2777090",
                 "title": "ギブス島",
                 "text": "〇〇は、サウス・シェトランド諸島のエレファント島の南西25kmに位置する島である。1825年にこの島を地図に記したジェームズ・ウェッデルにより命名された。"
-            },
-            {
-                "datetime": "2022年07月02日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3958485",
-                "title": "富澤慎",
-                "text": "〇〇は、日本のセーリング選手。関東学院大学人間環境学部を経て、トヨタ自動車東日本所属。2018年のRS:X 2018 World Cup Series - Round 3, Hyères Hyères, FRAの大会で5位を獲得。"
             }
         ]
     }

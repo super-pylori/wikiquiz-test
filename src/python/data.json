@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月04日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=333453",
+                "title": "交替式",
+                "text": "〇〇は、日本の律令官吏が交替する際の事務引継ぎに関する法規集である。勘解由使により編纂・集成され、官吏交替の手続きは〇〇に則して行われた。"
+            },
+            {
                 "datetime": "2022年07月04日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4394674",
                 "title": "水差しを持つ女",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1677025",
                 "title": "24の前奏曲 (カバレフスキー)",
                 "text": "〇〇は、民謡をベースに、ショパンの一連の前奏曲がモデルとなっている。作曲は1943年から1944年にかけて行われ、師であるミャスコフスキーに献呈された。スコアはミハイル・レールモントフのロシア民謡から採られている。以下の24曲からなるAndantino ハ長調Scherzando イ短調Vivace leggiero ト長調Andantino. ホ短調Andante sostenuto ニ長調Allegro molto. ロ短調Moderato e tranquillo イ長調Andante non troppo. Semplice e cantando - Poco Agitato - Tempo I　嬰ヘ短調Allegretto scherzando - Poco più mosso. ホ長調Non troppo allegro ma agitato. Recitando, rubato - Largo - Come prima - Largo　嬰ハ短調Vivace scherzando ロ長調Adagio. 嬰ト短調Allegro non troppo 嬰ハ長調Prestissimo posibile 変ホ短調Allegretto marcato 変ニ長調Allegro tenebroso 変ロ短調Andantino tranquillo 変イ長調Largamente con gravita ヘ短調Allegretto. 変ホ長調Andantino semplice　ハ短調Festivamente. Non troppo allegro 変ロ長調Scherzando. Non troppo allegro ト短調Andante sostenuto. ヘ長調Allegro feroce - Meno mosso. Marciale. - Pochissimo più mosso - Poco meno mosso.　ニ長調"
-            },
-            {
-                "datetime": "2022年07月02日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4131579",
-                "title": "安城市立梨の里小学校",
-                "text": "〇〇は、愛知県安城市篠目町にある公立小学校。"
             }
         ]
     }

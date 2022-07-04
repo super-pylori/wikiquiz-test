@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月04日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=975525",
+                "title": "井上寿美枝",
+                "text": "〇〇は、元福井放送 (FBC) のアナウンサー。"
+            },
+            {
                 "datetime": "2022年07月04日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3312150",
                 "title": "ロアノークラピッズ (ノースカロライナ州)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1268916",
                 "title": "タピオカガエル属",
                 "text": "〇〇は、両生綱無尾目ユビナガガエル科に属する。"
-            },
-            {
-                "datetime": "2022年07月02日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3789181",
-                "title": "Roclassick2",
-                "text": "〇〇は、BIGMAMAの2枚目のコンセプトアルバム。2014年4月16日にRX-RECORDSよりリリースされた。"
             }
         ]
     }

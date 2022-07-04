@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月04日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=545435",
+                "title": "岩黒島高架橋",
+                "text": "〇〇は、香川県坂出市岩黒島内に架かる道路鉄道併用の高架橋。瀬戸大橋の一部を成す。"
+            },
+            {
                 "datetime": "2022年07月04日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=975525",
                 "title": "井上寿美枝",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3368622",
                 "title": "休暇旅行で",
                 "text": "〇〇は、ヨーゼフ・シュトラウスが作曲したポルカ・シュネル。"
-            },
-            {
-                "datetime": "2022年07月02日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1268916",
-                "title": "タピオカガエル属",
-                "text": "〇〇は、両生綱無尾目ユビナガガエル科に属する。"
             }
         ]
     }

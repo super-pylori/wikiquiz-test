@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月06日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4095150",
+                "title": "田添鉄二",
+                "text": "〇〇は、明治時代の社会主義者。"
+            },
+            {
                 "datetime": "2022年07月06日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1099291",
                 "title": "与祢",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1201996",
                 "title": "白い風よ",
                 "text": "〇〇は、1975年5月に臨時発売された桜田淳子の10枚目のシングル。"
-            },
-            {
-                "datetime": "2022年07月04日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=545435",
-                "title": "岩黒島高架橋",
-                "text": "〇〇は、香川県坂出市岩黒島内に架かる道路鉄道併用の高架橋。瀬戸大橋の一部を成す。"
             }
         ]
     }

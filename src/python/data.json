@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月08日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4072644",
+                "title": "C/o",
+                "text": "〇〇は、「care of」もしくは「in care of」の略で、日本語の「〜様方」に相当する表記である。"
+            },
+            {
                 "datetime": "2022年07月07日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2540695",
                 "title": "パ・リーグTV",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3504810",
                 "title": "木造ビル",
                 "text": "〇〇は、木材を使ったビルディング。特にCLT（直交集成板）を構造材とすることで、高層ビルの建設が可能となった。"
-            },
-            {
-                "datetime": "2022年07月06日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4274013",
-                "title": "リュドミラ・シュヴェツォヴァ",
-                "text": "〇〇は、ロシアの政治家である。「シュヴェツォヴァ」は「シベツォワ」とも表記される。旧姓は、オディンツォヴァ（露: Одинцова, 英: Odintsova）である。"
             }
         ]
     }

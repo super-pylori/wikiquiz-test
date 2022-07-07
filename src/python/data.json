@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月08日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4130147",
+                "title": "弥生いこいの広場",
+                "text": "〇〇は、青森県弘前市にある動物園。日本動物園水族館協会加盟。"
+            },
+            {
                 "datetime": "2022年07月08日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=288326",
                 "title": "麻績村",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2483779",
                 "title": "最後のレストラン",
                 "text": "〇〇は、藤栄道彦による日本のグルメコメディ漫画、および、それを原作とするテレビドラマ。"
-            },
-            {
-                "datetime": "2022年07月06日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3781116",
-                "title": "カリプソ娘に花束を",
-                "text": "〇〇は、2018年2月6日に発売された、Negiccoの22作目のシングル。発売元はT-Palette Records。"
             }
         ]
     }

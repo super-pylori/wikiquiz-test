@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月08日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=288326",
+                "title": "麻績村",
+                "text": "〇〇は、長野県東筑摩郡の村である。"
+            },
+            {
                 "datetime": "2022年07月08日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3255287",
                 "title": "大政 (侠客)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3781116",
                 "title": "カリプソ娘に花束を",
                 "text": "〇〇は、2018年2月6日に発売された、Negiccoの22作目のシングル。発売元はT-Palette Records。"
-            },
-            {
-                "datetime": "2022年07月06日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=700506",
-                "title": "日向崇",
-                "text": "〇〇は、日本の俳優、ファッションモデル。埼玉県新座市出身。MEN'S NON-NO元専属モデル。身長184cm。埼玉県立朝霞高等学校卒業。"
             }
         ]
     }

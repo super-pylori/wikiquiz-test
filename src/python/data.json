@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月09日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3773230",
+                "title": "高坂町 (名古屋市)",
+                "text": "〇〇は、愛知県名古屋市天白区の地名。丁番を持たない単独町名である。住居表示未実施。"
+            },
+            {
                 "datetime": "2022年07月09日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3349662",
                 "title": "シムリット級ミサイル艇",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=115865",
                 "title": "中谷義和",
                 "text": "〇〇は、日本の政治学者、立命館大学名誉教授。専門は政治学、特にアメリカ合衆国の政治理論。"
-            },
-            {
-                "datetime": "2022年07月07日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3014901",
-                "title": "アート・メトラーノ",
-                "text": "〇〇は、アメリカ合衆国のコメディアン、俳優である。"
             }
         ]
     }

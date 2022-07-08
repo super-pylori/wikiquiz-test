@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月08日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=142841",
+                "title": "ドイツ再統一",
+                "text": "〇〇は、1990年10月3日、ドイツ連邦共和国（Bundesrepublik Deutschland、西ドイツ）にドイツ民主共和国（Deutsche Demokratische Republik、東ドイツ）が編入された出来事である。「東西ドイツ統一」「東西ドイツの統一」「ドイツの東西統一」などとも呼ばれる。"
+            },
+            {
                 "datetime": "2022年07月08日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3387518",
                 "title": "赤目のジャック",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3811519",
                 "title": "片門橋",
                 "text": "〇〇は、福島県河沼郡会津坂下町にある道路橋である。"
-            },
-            {
-                "datetime": "2022年07月07日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=664087",
-                "title": "池田恭祐",
-                "text": "〇〇は、日本の俳優、声優、ナレーターである。"
             }
         ]
     }

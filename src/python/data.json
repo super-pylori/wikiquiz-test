@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月09日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3349662",
+                "title": "シムリット級ミサイル艇",
+                "text": "〇〇は、イスラエル海軍のミサイル艇の艦級。"
+            },
+            {
                 "datetime": "2022年07月08日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1817948",
                 "title": "ニコライ・ソコロフ (指揮者)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3014901",
                 "title": "アート・メトラーノ",
                 "text": "〇〇は、アメリカ合衆国のコメディアン、俳優である。"
-            },
-            {
-                "datetime": "2022年07月07日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=29615",
-                "title": "山陰地方",
-                "text": "〇〇は、日本の地域の一つであり、本州西部のうち日本海に面する地方である。名称は五畿七道の山陰道に因む。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月09日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4309707",
+                "title": "オイゲン・フォン・カーラー",
+                "text": "〇〇は、プラハ生まれのユダヤ人を祖先とする、ドイツの画家である。表現主義の画家である。"
+            },
+            {
                 "datetime": "2022年07月09日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3773230",
                 "title": "高坂町 (名古屋市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1158386",
                 "title": "本多広孝",
                 "text": "〇〇は、戦国時代から安土桃山時代にかけての武将。徳川氏の家臣。"
-            },
-            {
-                "datetime": "2022年07月07日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=115865",
-                "title": "中谷義和",
-                "text": "〇〇は、日本の政治学者、立命館大学名誉教授。専門は政治学、特にアメリカ合衆国の政治理論。"
             }
         ]
     }

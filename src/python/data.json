@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月10日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3557832",
+                "title": "六萬寺 (高松市)",
+                "text": "〇〇は、香川県高松市牟礼町にある寺院。宗派は真言宗善通寺派、本尊は阿弥陀如来。"
+            },
+            {
                 "datetime": "2022年07月10日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2813091",
                 "title": "新城俊昭",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=888834",
                 "title": "嵐の庭",
                 "text": "〇〇は、東海テレビ制作・フジテレビ系列で、1976年5月24日 - 7月9日に放送された昼ドラマである。"
-            },
-            {
-                "datetime": "2022年07月08日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2498795",
-                "title": "FAR75A/FAR70A",
-                "text": "〇〇は、富士通によって2012年1月12日に発表された、Androidベースのタブレット型端末である。"
             }
         ]
     }

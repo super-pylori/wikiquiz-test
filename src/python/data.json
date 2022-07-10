@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月10日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2071907",
+                "title": "石井正善",
+                "text": "〇〇は、日本中央競馬会に所属した騎手。千葉県芝山町出身。"
+            },
+            {
                 "datetime": "2022年07月10日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=831837",
                 "title": "無印",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3773230",
                 "title": "高坂町 (名古屋市)",
                 "text": "〇〇は、愛知県名古屋市天白区の地名。丁番を持たない単独町名である。住居表示未実施。"
-            },
-            {
-                "datetime": "2022年07月09日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3349662",
-                "title": "シムリット級ミサイル艇",
-                "text": "〇〇は、イスラエル海軍のミサイル艇の艦級。"
             }
         ]
     }

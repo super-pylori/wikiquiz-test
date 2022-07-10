@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月10日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2332086",
+                "title": "多糖-O-メチルトランスフェラーゼ",
+                "text": "〇〇は、次の化学反応を触媒する酵素である。S-アデノシル-L-メチオニン + 1,4-α-D-グルコオリゴ糖                     ⇌              {\\displaystyle \\rightleftharpoons }   S-アデノシル-L-ホモシステイン + 6-メチル-D-グルコース単位含有オリゴ糖この酵素の基質はS-アデノシル-L-メチオニンと1,4-α-D-グルコオリゴ糖で、生成物はS-アデノシル-L-ホモシステインと6-メチル-D-グルコース単位含有オリゴ糖である。この酵素は転移酵素の一つで、特に一炭素基を転移させるメチルトランスフェラーゼである。組織名はS-adenosyl-L-methionine:(1->4)-α-D-glucan 6-O-methyltransferaseで、別名にpolysaccharide methyltransferase、acylpolysacharide 6-methyltransferase、S-adenosyl-L-methionine:1,4-α-D-glucan 6-O-methyltransferaseがある。"
+            },
+            {
                 "datetime": "2022年07月10日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=761327",
                 "title": "翼はなくても",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=142841",
                 "title": "ドイツ再統一",
                 "text": "〇〇は、1990年10月3日、ドイツ連邦共和国（Bundesrepublik Deutschland、西ドイツ）にドイツ民主共和国（Deutsche Demokratische Republik、東ドイツ）が編入された出来事である。「東西ドイツ統一」「東西ドイツの統一」「ドイツの東西統一」などとも呼ばれる。"
-            },
-            {
-                "datetime": "2022年07月08日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3387518",
-                "title": "赤目のジャック",
-                "text": "〇〇は、佐藤賢一による歴史小説。発表時の題名は『赤目 ジャックリーの乱』であり、文庫化にあたって改題された。ジャックリーの乱を題材としている。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月10日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=141342",
+                "title": "高宗 (唐)",
+                "text": "〇〇は、唐の第3代皇帝。太宗の第9子。母は唐の名臣として名高い鮮卑の拓跋を出自に持つ長孫無忌の妹の長孫皇后である。"
+            },
+            {
                 "datetime": "2022年07月10日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2332086",
                 "title": "多糖-O-メチルトランスフェラーゼ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4378511",
                 "title": "谷野",
                 "text": "〇〇は、東京都青梅市にある地名。郵便番号は198-0012。"
-            },
-            {
-                "datetime": "2022年07月08日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=142841",
-                "title": "ドイツ再統一",
-                "text": "〇〇は、1990年10月3日、ドイツ連邦共和国（Bundesrepublik Deutschland、西ドイツ）にドイツ民主共和国（Deutsche Demokratische Republik、東ドイツ）が編入された出来事である。「東西ドイツ統一」「東西ドイツの統一」「ドイツの東西統一」などとも呼ばれる。"
             }
         ]
     }

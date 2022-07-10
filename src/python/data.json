@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月11日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=124148",
+                "title": "出雲大社前駅",
+                "text": "〇〇は、島根県出雲市大社町杵築南にある、一畑電車大社線の駅で、同線の終着駅である。駅番号は26。出雲大社の最寄駅である。"
+            },
+            {
                 "datetime": "2022年07月10日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2712833",
                 "title": "朴玹珍",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2760315",
                 "title": "ぢべたぐらし あひるの生活",
                 "text": "〇〇は、マツダユカによる日本の4コマウェブコミック作品、およびテレビアニメ作品。"
-            },
-            {
-                "datetime": "2022年07月09日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3600936",
-                "title": "PRIME TIME",
-                "text": "〇〇は、2017年4月3日よりFMヨコハマで放送されているラジオ番組である。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月12日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4188833",
+                "title": "Soshite",
+                "text": "〇〇は、原田知世の5枚目のオリジナル・アルバム。"
+            },
+            {
                 "datetime": "2022年07月11日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1192222",
                 "title": "朱簡",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2010420",
                 "title": "上山田中継局",
                 "text": "〇〇は、福岡県嘉麻市にあったミニサテライト局。"
-            },
-            {
-                "datetime": "2022年07月10日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2543897",
-                "title": "ウインズ広島",
-                "text": "〇〇は、広島県広島市南区的場町にある日本中央競馬会 (JRA) の場外勝馬投票券発売所 (WINS) である。"
             }
         ]
     }

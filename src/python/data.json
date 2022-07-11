@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月12日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1463030",
+                "title": "抱きしめたい (C-C-Bの曲)",
+                "text": "〇〇は、1987年12月2日にリリースされたC-C-Bの12枚目のシングルである。"
+            },
+            {
                 "datetime": "2022年07月12日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=326073",
                 "title": "グロスフスMG42機関銃",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2769850",
                 "title": "武者小路実光",
                 "text": "〇〇は、フランス文学者。"
-            },
-            {
-                "datetime": "2022年07月10日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2452208",
-                "title": "アンディ・ポロ",
-                "text": "〇〇は、ペルー・リマ出身のサッカー選手。ペルー代表。ポジションはFW。"
             }
         ]
     }

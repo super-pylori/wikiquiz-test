@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月12日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=624461",
+                "title": "ウキツリボク",
+                "text": "〇〇は、アオイ科イチビ属（アブチロン属）の常緑低木。ブラジル原産。吊り下げたランタンに見立てられる赤と黄色のコントラストが鮮やかな花を咲かせ、温室栽培や、鉢植え・地植えの庭木として観賞用に栽培される。園芸においてはチロリアンランプとも呼ばれる。"
+            },
+            {
                 "datetime": "2022年07月12日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3813677",
                 "title": "横浜市教育会館",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=141342",
                 "title": "高宗 (唐)",
                 "text": "〇〇は、唐の第3代皇帝。太宗の第9子。母は唐の名臣として名高い鮮卑の拓跋を出自に持つ長孫無忌の妹の長孫皇后である。"
-            },
-            {
-                "datetime": "2022年07月10日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2332086",
-                "title": "多糖-O-メチルトランスフェラーゼ",
-                "text": "〇〇は、次の化学反応を触媒する酵素である。S-アデノシル-L-メチオニン + 1,4-α-D-グルコオリゴ糖                     ⇌              {\\displaystyle \\rightleftharpoons }   S-アデノシル-L-ホモシステイン + 6-メチル-D-グルコース単位含有オリゴ糖この酵素の基質はS-アデノシル-L-メチオニンと1,4-α-D-グルコオリゴ糖で、生成物はS-アデノシル-L-ホモシステインと6-メチル-D-グルコース単位含有オリゴ糖である。この酵素は転移酵素の一つで、特に一炭素基を転移させるメチルトランスフェラーゼである。組織名はS-adenosyl-L-methionine:(1->4)-α-D-glucan 6-O-methyltransferaseで、別名にpolysaccharide methyltransferase、acylpolysacharide 6-methyltransferase、S-adenosyl-L-methionine:1,4-α-D-glucan 6-O-methyltransferaseがある。"
             }
         ]
     }

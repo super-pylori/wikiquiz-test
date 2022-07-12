@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月12日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2477921",
+                "title": "JOYSOUND DIVE",
+                "text": "〇〇は、JOYSOUNDとバンダイナムコゲームスが共同開発したPlayStation 3用のカラオケソフト。後継の『JOYSOUND.TV Plus』が2014年12月より配信されるため、同年10月31日をもってサービス終了となった。サービス開始当初は約78,000曲だったが、オンラインで毎週数百曲が追加されて行き、末期には100,000曲以上が選択できた。"
+            },
+            {
                 "datetime": "2022年07月12日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2706439",
                 "title": "ロマナ・パニッチ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2190830",
                 "title": "葵つかさ",
                 "text": "〇〇は、日本のAV女優、元グラビアアイドルである。エイトマン所属。"
-            },
-            {
-                "datetime": "2022年07月11日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=124148",
-                "title": "出雲大社前駅",
-                "text": "〇〇は、島根県出雲市大社町杵築南にある、一畑電車大社線の駅で、同線の終着駅である。駅番号は26。出雲大社の最寄駅である。"
             }
         ]
     }

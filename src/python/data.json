@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月13日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2096134",
+                "title": "亜硝酸レダクターゼ (シトクロム; アンモニア形成)",
+                "text": "〇〇は、窒素代謝酵素の一つで、次の化学反応を触媒する酸化還元酵素である。NH3 + 2 H2O + 6 フェリシトクロムc                     ⇌              {\\displaystyle \\rightleftharpoons }   亜硝酸 + 6 フェロシトクロムc + 7 H+反応式の通り、この酵素の基質はNH3とH2Oとフェリシトクロムc、生成物は亜硝酸とフェロシトクロムcとH+である。組織名はammonia:ferricytochrome-c oxidoreductaseで、別名にcytochrome c nitrite reductase、multiheme nitrite reductaseがある。"
+            },
+            {
                 "datetime": "2022年07月13日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2548291",
                 "title": "石黒未奈",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4053518",
                 "title": "オールプロ",
                 "text": "〇〇は、日本の芸能プロダクション。元のプロダクション名は「〇〇モーション」。この頁ではグループ企業である映像制作会社の『allcreate』、アダルトビデオメーカー、レーベルである『Materiall』、『レズれ！』、『FALENO』など付帯するグループ全般についても扱う。グループ企業の多くは東京都品川区東中延1-12-8 PJMビル 3階内に所在する。"
-            },
-            {
-                "datetime": "2022年07月11日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=114135",
-                "title": "下永谷駅",
-                "text": "〇〇は、神奈川県横浜市港南区日限山一丁目にある、横浜市営地下鉄ブルーライン（1号線）の駅である。駅番号はB08。"
             }
         ]
     }

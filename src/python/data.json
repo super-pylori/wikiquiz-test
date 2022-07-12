@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月13日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2443989",
+                "title": "高橋勇悦",
+                "text": "〇〇は、日本の社会学者、旧・東京都立大学名誉教授。専攻は都市社会学。"
+            },
+            {
                 "datetime": "2022年07月13日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2290053",
                 "title": "バリエンテ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3273424",
                 "title": "イソプロピルアミン",
                 "text": "〇〇は、化学式 C3H9N|C3H9Nで表されるアルキルアミンの一種。モノ〇〇、2-アミノプロパンとも呼ばれる。"
-            },
-            {
-                "datetime": "2022年07月11日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2981303",
-                "title": "南波一海のアイドル三十六房",
-                "text": "〇〇は、タワーレコードのタワレコTVで配信されているストリーム放送。"
             }
         ]
     }

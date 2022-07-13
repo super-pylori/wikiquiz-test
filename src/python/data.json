@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月13日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2103879",
+                "title": "森田松太郎",
+                "text": "〇〇は、日本の公認会計士。経営コンサルタント。ARI研究所所長。"
+            },
+            {
                 "datetime": "2022年07月13日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1004254",
                 "title": "時代と曲のアンソロジー 魔球の時間",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1641313",
                 "title": "熊谷達人",
                 "text": "〇〇は、将棋棋士。贈九段。野村慶虎門下。棋士番号54。大阪府大阪市出身。"
-            },
-            {
-                "datetime": "2022年07月12日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4188833",
-                "title": "Soshite",
-                "text": "〇〇は、原田知世の5枚目のオリジナル・アルバム。"
             }
         ]
     }

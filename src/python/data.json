@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月15日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1037774",
+                "title": "チコチェアー",
+                "text": "〇〇は、1999年から2004年まで活動した、4人組の日本のギター・ポップ・バンドである。2018年7月14日にチカのツイッターにて復活ライブの告知が呟かれる。"
+            },
+            {
                 "datetime": "2022年07月15日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1830487",
                 "title": "ジェダイアス・カプーショ・ネヴェス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2096134",
                 "title": "亜硝酸レダクターゼ (シトクロム; アンモニア形成)",
                 "text": "〇〇は、窒素代謝酵素の一つで、次の化学反応を触媒する酸化還元酵素である。NH3 + 2 H2O + 6 フェリシトクロムc                     ⇌              {\\displaystyle \\rightleftharpoons }   亜硝酸 + 6 フェロシトクロムc + 7 H+反応式の通り、この酵素の基質はNH3とH2Oとフェリシトクロムc、生成物は亜硝酸とフェロシトクロムcとH+である。組織名はammonia:ferricytochrome-c oxidoreductaseで、別名にcytochrome c nitrite reductase、multiheme nitrite reductaseがある。"
-            },
-            {
-                "datetime": "2022年07月13日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2548291",
-                "title": "石黒未奈",
-                "text": "〇〇は、日本の子役である。本名同じ。所属事務所はスマイルモンキー。特技は新体操・空手・スイミング・一輪車。"
             }
         ]
     }

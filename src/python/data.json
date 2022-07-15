@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月15日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1357207",
+                "title": "大花どん",
+                "text": "〇〇は、日本の女性声優。主にアダルトゲームに声をあてている。"
+            },
+            {
                 "datetime": "2022年07月15日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4037673",
                 "title": "ウィリアム・クライトン (第3代ダンフリーズ伯爵)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=392025",
                 "title": "岩城宣隆",
                 "text": "〇〇は、江戸時代初期の大名。出羽亀田藩2代藩主。久保田藩士多賀谷家初代。"
-            },
-            {
-                "datetime": "2022年07月13日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1324959",
-                "title": "尺間神社",
-                "text": "〇〇は、大分県佐伯市弥生の尺間山山頂にある神社。尺間さま、釈魔大権現などとも呼ばれる。"
             }
         ]
     }

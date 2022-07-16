@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月16日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4451595",
+                "title": "ヘレン・B・ワーナー賞",
+                "text": "〇〇は、アメリカ天文学会が授与する天文学の賞。観測天文学や理論天文学において顕著な研究成果を上げた、36歳以下でPh.D.を取得して8年以内の研究者に授与される。"
+            },
+            {
                 "datetime": "2022年07月16日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2166457",
                 "title": "浜名湖かんざんじ荘",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3029758",
                 "title": "重慶市長",
                 "text": "〇〇は、中国重慶市の首長である。"
-            },
-            {
-                "datetime": "2022年07月14日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3618071",
-                "title": "曽我井村",
-                "text": "〇〇は、京都府天田郡にあった村。現在の福知山市中心部の南半にあたる。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月17日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3429859",
+                "title": "ジャック・ヴァレ",
+                "text": "〇〇は、ベンチャー・キャピタリスト、コンピュータ科学者、作家、UFO研究者、元天文学者である。"
+            },
+            {
                 "datetime": "2022年07月17日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3416159",
                 "title": "中根東里",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=172165",
                 "title": "八丈町",
                 "text": "〇〇は、東京都の島嶼部に位置する町。伊豆諸島南部の八丈島および八丈小島を町域とする。八丈小島は現在無人島である。"
-            },
-            {
-                "datetime": "2022年07月15日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1357207",
-                "title": "大花どん",
-                "text": "〇〇は、日本の女性声優。主にアダルトゲームに声をあてている。"
             }
         ]
     }

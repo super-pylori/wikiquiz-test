@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月17日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2651916",
+                "title": "石神遺跡",
+                "text": "〇〇は、奈良県明日香村にある日本古代の遺跡。"
+            },
+            {
                 "datetime": "2022年07月17日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4113451",
                 "title": "斉藤武 (法学者)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1513550",
                 "title": "REQUEST (竹内まりやのアルバム)",
                 "text": "〇〇は、1987年8月12日に発売された竹内まりやの通算7枚目のオリジナル・アルバム。"
-            },
-            {
-                "datetime": "2022年07月15日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1830188",
-                "title": "ジャンロマネ賞",
-                "text": "〇〇は、フランス・ドーヴィル競馬場の芝2000メートルで施行される競馬のG1（グループ1）競走である。出走条件は4歳以上のサラブレッド系牝馬。"
             }
         ]
     }

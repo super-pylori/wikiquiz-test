@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月19日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=921078",
+                "title": "竹迫城",
+                "text": "〇〇は、現在の熊本県合志市上庄にある城址。合志城とも呼ばれ、その他に蛇尾城・穴の城・上庄城の別名もある。市の史跡。"
+            },
+            {
                 "datetime": "2022年07月19日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3420803",
                 "title": "総社町植野",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1847356",
                 "title": "VAMPS (アルバム)",
                 "text": "〇〇は、日本のロックユニット、VAMPSの1作目のアルバム。2009年6月10日発売。発売元はVAMPROSE。"
-            },
-            {
-                "datetime": "2022年07月17日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2864468",
-                "title": "藤原当幹",
-                "text": "〇〇は、平安時代前期から中期にかけての公卿。藤原南家巨勢麻呂流、右兵衛督・藤原良尚の九男。官位は従三位・参議。"
             }
         ]
     }

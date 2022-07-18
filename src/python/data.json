@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月18日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4479724",
+                "title": "ブレンデン・ジメネズ",
+                "text": "〇〇は、JAPAN RUGBY LEAGUE ONE日野レッドドルフィンズに所属するラグビーユニオン選手。"
+            },
+            {
                 "datetime": "2022年07月18日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3116795",
                 "title": "1234 (ロン・ウッドのアルバム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1407315",
                 "title": "渋谷らいぶステージ",
                 "text": "〇〇は、NHK衛星第2テレビジョンとNHKデジタル衛星ハイビジョンで2008年3月31日から放送を開始した音楽番組である。"
-            },
-            {
-                "datetime": "2022年07月16日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4451595",
-                "title": "ヘレン・B・ワーナー賞",
-                "text": "〇〇は、アメリカ天文学会が授与する天文学の賞。観測天文学や理論天文学において顕著な研究成果を上げた、36歳以下でPh.D.を取得して8年以内の研究者に授与される。"
             }
         ]
     }

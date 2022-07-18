@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月18日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3144902",
+                "title": "砥堀村",
+                "text": "〇〇は、兵庫県神崎郡にあった村。現在の姫路市大字仁豊野・砥堀にあたる。"
+            },
+            {
                 "datetime": "2022年07月18日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4479724",
                 "title": "ブレンデン・ジメネズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2426254",
                 "title": "阪急共栄物産",
                 "text": "〇〇は、かつてスーパーマーケット・ドラッグストア運営、医薬品製造を行っていた企業。"
-            },
-            {
-                "datetime": "2022年07月16日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1407315",
-                "title": "渋谷らいぶステージ",
-                "text": "〇〇は、NHK衛星第2テレビジョンとNHKデジタル衛星ハイビジョンで2008年3月31日から放送を開始した音楽番組である。"
             }
         ]
     }

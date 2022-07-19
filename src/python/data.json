@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月20日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3914501",
+                "title": "ブラダ・ロマノヴァ",
+                "text": "〇〇は、ユーラシアンのモデル。モーズマネージメントに所属している。かつてはモデルジェネシスやクエストに所属していた"
+            },
+            {
                 "datetime": "2022年07月20日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=831629",
                 "title": "水の中の八月",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1974455",
                 "title": "L-グロノラクトンオキシダーゼ",
                 "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。(1) アスコルビン酸                     ⇌              {\\displaystyle \\rightleftharpoons }   L-キシロ-ヘキスロノラクトン(2) L-グロノ-1,4-ラクトン + O2                     ⇌              {\\displaystyle \\rightleftharpoons }   L-キシロ-ヘキスロノラクトン + H2O2反応式の通り、この酵素には2種の化学反応を触媒する。(1)では基質がアスコルビン酸で生成物がL-キシロ-ヘキスロノラクトン。(2)では基質がL-グロノ-1,4-ラクトン（グルクロノラクトン）と酸素で、生成物はL-キシロ-ヘキスロノラクトンと過酸化水素である。補因子としてFADを用いる。組織名はL-gulono-1,4-lactone:oxygen 3-oxidoreductaseで、別名にL-gulono-γ-lactone: O2 oxidoreductase, L-gulono-γ-lactone oxidase, L-gulono-γ-lactone:oxidoreductaseがある。"
-            },
-            {
-                "datetime": "2022年07月18日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=119165",
-                "title": "リジェネレイトガンダム",
-                "text": "〇〇は、漫画『機動戦士ガンダムSEED ASTRAY R』に登場する、モビルスーツ (MS) に分類される架空の兵器。「リジェネレイト」は英語で「再生」を意味する。"
             }
         ]
     }

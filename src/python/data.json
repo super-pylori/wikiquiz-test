@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月20日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2459622",
+                "title": "野村麻純",
+                "text": "〇〇は、日本の女優である。鹿児島県出身、フラーム所属。"
+            },
+            {
                 "datetime": "2022年07月20日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1380595",
                 "title": "浅瀬石城",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4479724",
                 "title": "ブレンデン・ジメネズ",
                 "text": "〇〇は、JAPAN RUGBY LEAGUE ONE日野レッドドルフィンズに所属するラグビーユニオン選手。"
-            },
-            {
-                "datetime": "2022年07月18日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3116795",
-                "title": "1234 (ロン・ウッドのアルバム)",
-                "text": "〇〇は、イングランドのロック・ミュージシャン、ロン・ウッドが1981年に発表した、ソロ名義では4作目のスタジオ・アルバム。"
             }
         ]
     }

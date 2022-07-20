@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月21日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1617973",
+                "title": "野田峯雄",
+                "text": "〇〇は、日本のジャーナリスト、ルポライター、評論家。"
+            },
+            {
                 "datetime": "2022年07月21日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1320186",
                 "title": "佐々並川ダム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=921078",
                 "title": "竹迫城",
                 "text": "〇〇は、現在の熊本県合志市上庄にある城址。合志城とも呼ばれ、その他に蛇尾城・穴の城・上庄城の別名もある。市の史跡。"
-            },
-            {
-                "datetime": "2022年07月19日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3420803",
-                "title": "総社町植野",
-                "text": "〇〇は、群馬県前橋市の地名。郵便番号は371-0851。2013年現在の面積は1.09km2。"
             }
         ]
     }

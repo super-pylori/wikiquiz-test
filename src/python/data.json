@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月21日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1320186",
+                "title": "佐々並川ダム",
+                "text": "〇〇は、山口県萩市、阿武川水系佐々並川に建設されたダム。高さ67.4メートルのアーチ式コンクリートダムの発電用ダムである。佐々並川発電所に送水し、最大1万4,200キロワットの電力を発生する。ダム湖（人造湖）の名は佐々並湖（ささなみこ）という。"
+            },
+            {
                 "datetime": "2022年07月21日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4311506",
                 "title": "皿引",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3420803",
                 "title": "総社町植野",
                 "text": "〇〇は、群馬県前橋市の地名。郵便番号は371-0851。2013年現在の面積は1.09km2。"
-            },
-            {
-                "datetime": "2022年07月19日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1530539",
-                "title": "グレッグ・E・ハリス",
-                "text": "〇〇は、1981年から1990年代半ばにおけるクリスチャン・ホームスクーリング・ムーブメントの著名な人物である。現在は、ハウスホールド・オブ・フェイス・コミュニティー教会（Household of Faith Community Church）の宣教長老（teaching elder）として奉任している。1980年以降、10万人を超える夫妻がハリスのホームスクーリング・セミナーに参加しており、著書『The Christian Home School』は1988年3月にはキリスト教書店組合（Christian Booksellers Association）のベストセラーとなっている。グレッグは、ソノ夫人（日系3世）と5人の子供たちとオレゴン州グレッシャムに在住する。非営利教育団体「ノーブル指導力開発研究所（the Noble Institute for Leadership Development）」所長。"
             }
         ]
     }

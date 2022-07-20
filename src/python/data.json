@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月20日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4159326",
+                "title": "マチュー・バスタロー",
+                "text": "〇〇は、トップ14・リヨンOUに所属するラグビー選手。"
+            },
+            {
                 "datetime": "2022年07月20日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2521973",
                 "title": "勝山村 (新潟県)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2065801",
                 "title": "グレートシング",
                 "text": "〇〇は、タイトーのコンピューターゲーム『ダライアス』シリーズに登場するボスキャラクターで、架空の宇宙戦艦。"
-            },
-            {
-                "datetime": "2022年07月18日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3144902",
-                "title": "砥堀村",
-                "text": "〇〇は、兵庫県神崎郡にあった村。現在の姫路市大字仁豊野・砥堀にあたる。"
             }
         ]
     }

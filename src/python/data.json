@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月20日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2521973",
+                "title": "勝山村 (新潟県)",
+                "text": "〇〇は、かつて新潟県刈羽郡にあった村。"
+            },
+            {
                 "datetime": "2022年07月20日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2459622",
                 "title": "野村麻純",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3144902",
                 "title": "砥堀村",
                 "text": "〇〇は、兵庫県神崎郡にあった村。現在の姫路市大字仁豊野・砥堀にあたる。"
-            },
-            {
-                "datetime": "2022年07月18日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4479724",
-                "title": "ブレンデン・ジメネズ",
-                "text": "〇〇は、JAPAN RUGBY LEAGUE ONE日野レッドドルフィンズに所属するラグビーユニオン選手。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月22日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4378105",
+                "title": "THE 仲井戸麗市 BOOK",
+                "text": "〇〇は、1985年8月31日に発表された仲井戸麗市の1stアルバム。"
+            },
+            {
                 "datetime": "2022年07月22日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4406950",
                 "title": "Let Me Fly 〜その未来へ〜",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2459622",
                 "title": "野村麻純",
                 "text": "〇〇は、日本の女優である。鹿児島県出身、フラーム所属。"
-            },
-            {
-                "datetime": "2022年07月20日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1380595",
-                "title": "浅瀬石城",
-                "text": "〇〇は、青森県黒石市大字浅瀬石字龍ノ口および大字浅瀬石字山辺にあった日本の城（平山城）である。別名・汗石城。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月22日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4406950",
+                "title": "Let Me Fly 〜その未来へ〜",
+                "text": "〇〇は、PRODUCE 101 JAPAN SEASON2の楽曲である。2021年3月30日に配信。"
+            },
+            {
                 "datetime": "2022年07月22日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=69433",
                 "title": "文字禍",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1380595",
                 "title": "浅瀬石城",
                 "text": "〇〇は、青森県黒石市大字浅瀬石字龍ノ口および大字浅瀬石字山辺にあった日本の城（平山城）である。別名・汗石城。"
-            },
-            {
-                "datetime": "2022年07月20日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1498913",
-                "title": "白川洋次郎",
-                "text": "〇〇は、日本の映画プロデューサー、映像ビジネスプロデューサー、企業経営者、大学教員。福岡県北九州市若松区修多羅出身。早稲田大学法学部卒業。"
             }
         ]
     }

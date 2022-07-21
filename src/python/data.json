@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月22日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=658311",
+                "title": "松岬神社",
+                "text": "〇〇は、山形県米沢市に鎮座する神社。上杉神社の摂社。松が岬公園（米沢城址）に位置し、上杉鷹山、上杉景勝、直江兼続、細井平洲、竹俣当綱、莅戸善政を祀る。"
+            },
+            {
                 "datetime": "2022年07月22日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4378105",
                 "title": "THE 仲井戸麗市 BOOK",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2521973",
                 "title": "勝山村 (新潟県)",
                 "text": "〇〇は、かつて新潟県刈羽郡にあった村。"
-            },
-            {
-                "datetime": "2022年07月20日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2459622",
-                "title": "野村麻純",
-                "text": "〇〇は、日本の女優である。鹿児島県出身、フラーム所属。"
             }
         ]
     }

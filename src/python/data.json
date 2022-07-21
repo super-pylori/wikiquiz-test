@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月21日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1038844",
+                "title": "愛の秘密",
+                "text": "〇〇は、1976年5月10日～7月2日にTBS「花王 愛の劇場」枠にて放送された昼ドラマである。"
+            },
+            {
                 "datetime": "2022年07月21日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3010452",
                 "title": "形象物",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1627394",
                 "title": "川勝広長",
                 "text": "〇〇は、江戸時代中期の旗本。秀氏流川勝家（本家）の7代当主。"
-            },
-            {
-                "datetime": "2022年07月19日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4229859",
-                "title": "内田鐡衛",
-                "text": "〇〇は、日本の技術者、実業家、経営者、株式会社コロナ創業者。"
             }
         ]
     }

@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月22日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3636240",
+                "title": "サント＝ジャンヌ＝ダルク",
+                "text": "〇〇は、フランス語の地名、教会名。1920年に列福されたジャンヌ・ダルクにちなむ。"
+            },
+            {
                 "datetime": "2022年07月22日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=658311",
                 "title": "松岬神社",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4159326",
                 "title": "マチュー・バスタロー",
                 "text": "〇〇は、トップ14・リヨンOUに所属するラグビー選手。"
-            },
-            {
-                "datetime": "2022年07月20日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2521973",
-                "title": "勝山村 (新潟県)",
-                "text": "〇〇は、かつて新潟県刈羽郡にあった村。"
             }
         ]
     }

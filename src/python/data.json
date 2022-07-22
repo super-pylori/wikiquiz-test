@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月23日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3312366",
+                "title": "T・J・マコーネル",
+                "text": "〇〇は、アメリカ合衆国・ペンシルベニア州ピッツバーグ出身のプロバスケットボール選手。NBAのインディアナ・ペイサーズに所属している。ポジションはポイントカード。"
+            },
+            {
                 "datetime": "2022年07月23日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2022939",
                 "title": "乙 (漫画家)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1404956",
                 "title": "軌跡",
                 "text": "〇〇は、車などによってできた車輪の跡。そこから転じて先人の行動・精神的な発展の跡を指すこともある。"
-            },
-            {
-                "datetime": "2022年07月21日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=513258",
-                "title": "ナイアガラで恋をして Tribute to EIICHI OHTAKI",
-                "text": "〇〇は、2002年にリリースされた、大瀧詠一のトリビュート・アルバム。"
             }
         ]
     }

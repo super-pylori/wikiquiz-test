@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月23日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1629380",
+                "title": "高倉一朗",
+                "text": "〇〇は、日本の歌手。本名は石倉 寛章。レコード会社は日本クラウン。血液型はAB型。"
+            },
+            {
                 "datetime": "2022年07月22日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4422526",
                 "title": "乾州",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2620316",
                 "title": "張嫺",
                 "text": "〇〇は、中国の女子バレーボール選手。バレーボール中国代表。"
-            },
-            {
-                "datetime": "2022年07月21日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1617973",
-                "title": "野田峯雄",
-                "text": "〇〇は、日本のジャーナリスト、ルポライター、評論家。"
             }
         ]
     }

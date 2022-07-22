@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月23日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3957744",
+                "title": "正寿院",
+                "text": "〇〇は、以下の寺院や人物などの院号。"
+            },
+            {
                 "datetime": "2022年07月23日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3312366",
                 "title": "T・J・マコーネル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=229625",
                 "title": "ピット (考古学)",
                 "text": "〇〇は、考古学用語若しくは発掘現場で、小さな穴や細い穴状の遺構を呼称する場合の総称である。"
-            },
-            {
-                "datetime": "2022年07月21日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1404956",
-                "title": "軌跡",
-                "text": "〇〇は、車などによってできた車輪の跡。そこから転じて先人の行動・精神的な発展の跡を指すこともある。"
             }
         ]
     }

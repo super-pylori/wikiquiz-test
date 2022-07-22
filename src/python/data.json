@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月22日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2497243",
+                "title": "小野瀬康介",
+                "text": "〇〇は、東京都大田区出身のプロサッカー選手。Jリーグ・ガンバ大阪所属。ポジションはミッドフィールダー。"
+            },
+            {
                 "datetime": "2022年07月22日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=449995",
                 "title": "福島正守",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3666196",
                 "title": "風疹ワクチン",
                 "text": "〇〇は、風疹の予防に用いられるワクチンである。"
-            },
-            {
-                "datetime": "2022年07月20日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1409300",
-                "title": "岩戸橋",
-                "text": "〇〇は、大分県竹田市荻町の大野川水系岩戸川に架かる石造単アーチ橋である。大分県の有形文化財に指定されている。通称、車橋。"
             }
         ]
     }

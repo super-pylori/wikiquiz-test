@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月23日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4269745",
+                "title": "田向潤",
+                "text": "〇〇は、日本の映像作家、ミュージック・ビデオ監督、グラフィックデザイナーである。"
+            },
+            {
                 "datetime": "2022年07月23日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3073465",
                 "title": "度会町立度会中学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4017241",
                 "title": "くもりときどきミートボールシリーズ",
                 "text": "〇〇は、2006年公開のソニー・ピクチャーズ アニメーション製作による『くもりときどきミートボール』（Cloudy with a Chance of Meatballs）から始まる作品群である。"
-            },
-            {
-                "datetime": "2022年07月21日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=730972",
-                "title": "厚東氏",
-                "text": "〇〇は、日本の氏族のひとつ。長門を本拠とした豪族、長門守護。本姓は物部氏。支族として11代当主武時の三男を祖とする秋吉氏などがある。"
             }
         ]
     }

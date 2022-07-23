@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月24日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=799538",
+                "title": "奉還町商店街",
+                "text": "〇〇は、岡山県岡山市北区奉還町周辺にある商店街である。"
+            },
+            {
                 "datetime": "2022年07月23日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2422673",
                 "title": "イーグル郡区 (アイオワ州ブラックホーク郡)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=658311",
                 "title": "松岬神社",
                 "text": "〇〇は、山形県米沢市に鎮座する神社。上杉神社の摂社。松が岬公園（米沢城址）に位置し、上杉鷹山、上杉景勝、直江兼続、細井平洲、竹俣当綱、莅戸善政を祀る。"
-            },
-            {
-                "datetime": "2022年07月22日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4378105",
-                "title": "THE 仲井戸麗市 BOOK",
-                "text": "〇〇は、1985年8月31日に発表された仲井戸麗市の1stアルバム。"
             }
         ]
     }

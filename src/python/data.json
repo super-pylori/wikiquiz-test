@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月24日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3647781",
+                "title": "2017年のアイルランド",
+                "text": "〇〇は、〇〇に関する出来事について記述する。"
+            },
+            {
                 "datetime": "2022年07月24日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2221462",
                 "title": "青木美沙子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=72916",
                 "title": "岩宿駅",
                 "text": "〇〇は、群馬県みどり市笠懸町阿左美にある、東日本旅客鉄道（JR東日本）両毛線の駅である。"
-            },
-            {
-                "datetime": "2022年07月22日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3409071",
-                "title": "めぶきフィナンシャルグループ",
-                "text": "〇〇は、足利ホールディングスと常陽銀行の経営統合により誕生した金融持株会社。"
             }
         ]
     }

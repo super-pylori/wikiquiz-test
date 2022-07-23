@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2022年07月24日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=187120",
+                "title": "太平洋プレート",
+                "text": "〇〇は、太平洋の海底の地殻及びマントル上方のリソスフェアを形成する海洋プレートである。"
+            },
+            {
                 "datetime": "2022年07月24日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3647781",
                 "title": "2017年のアイルランド",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1084521",
                 "title": "容閎",
                 "text": "〇〇は、清末の政治改革者・実業家。近代中国史上初のアメリカ合衆国への留学生である。"
-            },
-            {
-                "datetime": "2022年07月22日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=72916",
-                "title": "岩宿駅",
-                "text": "〇〇は、群馬県みどり市笠懸町阿左美にある、東日本旅客鉄道（JR東日本）両毛線の駅である。"
             }
         ]
     }
